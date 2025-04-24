@@ -1,0 +1,55 @@
+```markdown
+Jayson Macasadia
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+## Executive Summary
+Experienced Business Analyst with extensive expertise in process improvement, system implementations, and digital transformation. Skilled in requirements gathering, solution design, and stakeholder engagement. Proven track record in enhancing operational efficiency and ensuring compliance with regulatory standards. Adept in optimizing access controls and streamlining process workflows, seeking to leverage these skills as an Identity Access Manager.
+
+## Key Skills
+- Access Control Processes
+- Stakeholder Engagement
+- Process Improvement & Transformation
+- Business Analysis
+- Regulatory Compliance
+- Risk Management
+- Data Analytics & Reporting
+
+## Professional Experience
+
+**Change Manager**, Energy Australia
+*Jan 2025 – Mar 2025*
+- Managed business analysis for regulatory and operational compliance enhancements.
+- Streamlined access control and management processes to ensure compliance with internal policies.
+- Conducted periodic reviews and monitoring of access management systems.
+
+**Operations Program & Reporting Lead**, AIG Australia Limited
+*Jan 2020 – Oct 2024*
+- Led the documentation and optimization of client onboarding, billing, and customer service workflows.
+- Developed and implemented robust access management processes tailored to various company resources.
+- Engaged application administrators to enhance access management functionality.
+
+**IT Business Project Manager**, AIG
+*Nov 2011 – Oct 2018*
+- Translated complex business requirements into actionable system configuration specifications.
+- Coordinated with application administrators to streamline access management across different platforms.
+- Maintained a comprehensive access catalog and defined access responsibilities within the organization.
+
+**Process Improvement Leader**, ACS Xerox
+*Jan 2010 – Nov 2011*
+- Identified and implemented process optimizations including automation that improved access model efficiency.
+- Developed user stories, process flows, and test scenarios focusing on compliance and operational efficiency.
+
+## Education
+
+**Bachelor of Information Technology**
+Kent University, 2025
+
+**Cert IV in Security Networking**
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**
+Lyceum of Batangas University, 1998
+
+## Technical Skills
+- Microsoft Power Platform: PowerApps
+```

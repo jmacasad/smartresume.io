@@ -1,0 +1,75 @@
+JAYSON MACASADIA
+Agile Business Analyst | User Story Design | Digital & Product Delivery            
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+EXECUTIVE SUMMARY	
+Proactive and delivery-focused Business Analyst with over 7 years of experience supporting Agile product teams in fast-paced digital environments. Skilled in gathering and translating business requirements into high-quality user stories, working closely with developers, testers, and product owners across multiple initiatives. Strong stakeholder engagement skills and a passion for driving outcomes through collaboration, clarity, and proactive communication. Known for identifying gaps early, supporting sprint ceremonies, and partnering with cross-functional teams to ensure continuous product delivery.
+Areas of Expertise
+Agile Business Analysis | Stakeholder Engagement | User Story Mapping & Acceptance Criteria
+Sprint Planning & Retrospectives | Digital Product Delivery | Web, Mobile & Backend Integration Support
+Cross-Team Collaboration | Business Requirements Gathering | Story Validation & UAT Coordination
+KEY PROJECT HIGHLIGHTS
+OneView (Tagging) Labelling Solution – Agile Squad Delivery
+Partnered with stakeholders from marketing, operations, and product teams to define business-critical requirements for rapid electronic shelf label rollout.
+Authored detailed user stories and acceptance criteria under tight timelines, enabling fast-paced delivery.
+Collaborated with QA and developers daily to ensure feature validation, test coverage, and issue tracking.
+Supported backlog grooming and sprint planning to prioritise high-value features.
+L&D Web-base Application Rollout – Learning & Development Product
+Worked closely with L&D stakeholders and a high-performing development team to define user needs and functional specifications for a new web-based application.
+Created and maintained user stories, story maps, and feature documentation in Confluence and Jira.
+Led requirements workshops and assisted in quarterly planning and retrospectives.
+Identified scope changes and resolved requirement gaps through ongoing engagement and rapid feedback loops.
+CAREER SUMMARY
+Change Lead at Energy Australia | Jan 2025 – March 2025 
+Operations Program & Business Support at AIG Australia Limited | Jan 2020 – Oct 2024 
+IT Business Project Manager at AIG | Nov 2011 – Oct 2018
+Process Improvement Leader at ACS Xerox | Jan 2010 – Nov 2011
+EDUCATION
+Bachelor of Information Technology | Kent University, 2025
+Cert IV in Security Networking | Danford Colleges, 2021
+Bachelor of Science in Marketing | Lyceum of Batangas University, 1998  
+TECHNICAL SKILLS
+Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online
+Cloud & DevOps: Azure (1.5 years' experience), Azure DevOps
+Programming & Development: JavaScript, SQL
+Project & Process Management: Agile, Waterfall, Business Process Automation
+Reporting & BI: Power BI, Data Analytics & Reporting
+IT Tools: Microsoft Project, SQL Studio, MS Visio
+PROFESSIONAL EXPERIENCE
+EnergyAustralia											Jan 2025 – Mar 2025 	
+Change Lead – Regulatory Compliance
+Delivered regulatory transformation initiatives across utilities operations, focusing on systems and process alignment with compliance mandates.
+Mapped business processes for compliance and field operations teams, supporting stakeholder-driven re-engineering efforts.
+Documented detailed requirements and user stories, coordinating with architects and implementation teams to validate system impacts.
+Organized and facilitated cross-functional workshops to ensure alignment across Operations and Compliance.
+Assisted project governance by maintaining risk logs, preparing steering committee briefs, and ensuring alignment with enterprise frameworks.
+Acted as a liaison between field operations, regulatory teams, and project stakeholders, ensuring consistent understanding and timely communication.
+AIG Australia Limited										Jan 2020 – Oct 2024 	
+Operations Program Lead and Business Support
+Acted as lead BA across concurrent digital projects involving mobile apps, web platforms, and backend systems.
+Gathered, refined, and prioritised requirements for Agile delivery teams using Scrum methodologies.
+Maintained detailed documentation including business rules, workflows, and acceptance criteria.
+Facilitated workshops, sprint planning, and daily standups to ensure team alignment and delivery cadence.
+Supported QA during testing phases and provided clarity on stories and test conditions.
+Contributed to MVP scoping and release planning across digital product initiatives.
+Liaised with internal teams to gather and analyse business requirements for customer-facing platforms.
+Developed functional specs and collaborated with technical teams to implement digital enhancements.
+Created UAT plans and assisted stakeholders through the testing process.
+Identified process improvement opportunities and aligned solutions with business objectives.
+Used Jira and Confluence to manage backlogs, documentation, and change requests.
+AIG Shared Services										Jan 2011 – Dec 2018 	
+IT Business Project Manager / Business Analyst
+Spearheaded functional solutioning for global process transitions and system migrations across HR, claims, and service platforms.
+Partnered with business and technology leaders to document use cases, functional requirements, and workflow diagrams for delivery teams.
+Created standardized templates for BRDs and traceability matrices, improving alignment between business expectations and development deliverables.
+Facilitated UAT strategy creation, test scenario mapping, and feedback validation.
+Supported vendor-led solution implementation, acting as liaison to bridge operational priorities and system design.
+Contributed to knowledge sharing and training programs to support long-term system adoption across teams.
+ACS Xerox											Jan 2010 – Nov 2011 	
+Process Improvement Leader
+Delivered business analysis and process improvement services for client support and digital transformation programs.
+Analyzed workflows and system interactions, recommending process re-engineering to enhance service quality.
+Supported delivery of updated SOPs and training materials aligned to newly adopted technologies and workflows.
+Developed dashboards and status reports to track implementation readiness and success metrics.
+Participated in workshops to validate revised business processes and drive user adoption strategies.
+Collaborated closely with operational stakeholders to ensure requirements met both business logic and customer experience objectives.
+Referee details available on request

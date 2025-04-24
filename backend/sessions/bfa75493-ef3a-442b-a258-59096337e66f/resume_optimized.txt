@@ -1,0 +1,49 @@
+```markdown
+JAYSON MACASADIA
+Agile Business Analyst | Identity Access Management Specialist
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+## EXECUTIVE SUMMARY
+Proactive Business Analyst with over 7 years of experience, specializing in Agile environments and Identity Access Management (IAM). Expert in translating complex business requirements into actionable strategies, optimizing access controls, and enhancing security protocols across digital products. Demonstrated capability in driving efficiencies in access management through the implementation of RBAC and Access Matrices. Strong communicator with a track record of fostering cross-functional collaboration to achieve compliance and security objectives.
+
+## KEY SKILLS
+- **Identity Access Management:** RBAC, Access Matrices, IAM Tools (Okta, Azure AD, ServiceNow)
+- **Project Management:** Agile, Sprint Planning, User Story Mapping
+- **Technical Proficiency:** Microsoft Power Platform, Azure, JavaScript, SQL
+- **Compliance & Security:** Policy compliance, automated approvals, access governance
+
+## PROFESSIONAL EXPERIENCE
+
+### **Operations Program & Business Support, AIG Australia Limited**
+*Melbourne, VIC | Jan 2020 – Oct 2024*
+- Implemented and managed IAM tools including Okta for SSO, MFA, and user provisioning; Azure AD for role management; ServiceNow for access workflows; and SharePoint/D365 for RBAC setups.
+- Resolved access delays by automating approvals in ServiceNow, reducing turnaround times by 30%.
+- Redesigned RBAC roles in D365 to address overprovisioning, reducing audit exceptions by 40% and strengthening access governance.
+
+### **IT Business Project Manager, AIG**
+*Melbourne, VIC | Nov 2011 – Oct 2018*
+- Defined roles and automated approval processes, ensuring compliance with internal policies across cloud and hybrid environments.
+- Streamlined access approvals and provisioning through the development of robust Access Matrices, supporting audit-ready documentation.
+
+### **Process Improvement Leader, ACS Xerox**
+*Melbourne, VIC | Jan 2010 – Nov 2011*
+- Led process optimization projects focusing on the integration of business requirements with technical solutions to enhance operational efficiency and security.
+
+## EDUCATION
+
+**Bachelor of Information Technology**
+Kent University, 2025
+
+**Cert IV in Security Networking**
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**
+Lyceum of Batangas University, 1998  
+
+## CERTIFICATIONS
+- Relevant certifications (e.g., CISSP, CIAM, CAMS, CIMP, CIGE) are targeted for future completion to further enhance expertise in identity and access management.
+
+## ADDITIONAL INFORMATION
+- Experienced in developing and optimizing access models such as Access Matrix and RBAC.
+- Proficient in maintaining comprehensive access catalogs and defining access responsibilities, ensuring efficient access management across various company resources.
+```

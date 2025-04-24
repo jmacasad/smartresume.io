@@ -1,0 +1,80 @@
+## Jayson Macasadia
+**Identity Access Manager | IT Business Manager**  
+VIC 3012  
+Email: jmcasadia@gmail.com  
+LinkedIn: [linkedin.com/in/jayson-macasadia-00aa7132a/](https://www.linkedin.com/in/jayson-macasadia-00aa7132a/)  
+Phone: 0432 241 891  
+
+---
+
+### EXECUTIVE SUMMARY
+Accomplished Identity Access Manager with over 6 years of experience in managing and implementing secure access controls within the financial services sector. Expert in facilitating enterprise-wide transformations using a blend of technical proficiency and strategic oversight. Certified in CISSP, with deep expertise in access control models, including RBAC and Access Matrix. Proven track record in optimizing access models, improving security protocols, and ensuring compliance with internal policies.
+
+---
+
+### PROFESSIONAL EXPERIENCE
+
+**IT Business Manager / Identity & Access Control Transition Lead**  
+**AIG, Melbourne**  
+Nov 2011 – Oct 2018  
+- Spearheaded the transition and management of identity and access controls, ensuring robust security and compliance across all applications.
+- Implemented Okta verification processes, significantly enhancing system security and user authentication protocols.
+- Collaborated with application administrators to streamline access management and develop comprehensive access catalogs.
+- Led the design and implementation of system-specific role access and access management tools, improving operational efficiency and security.
+
+**Operations Program & Business Support**  
+**AIG Australia Limited**  
+Jan 2020 – Oct 2024  
+- Supported change management initiatives, particularly in operational transformation projects that encompassed access management enhancements.
+- Coordinated with HR and IT departments to ensure seamless alignment of access control systems with organizational policies and procedures.
+
+---
+
+### EDUCATION
+
+**Bachelor of Information Technology**  
+Kent University, 2025  
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021  
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+---
+
+### CERTIFICATIONS
+
+- **Certified Information Systems Security Professional (CISSP)**  
+
+---
+
+### TECHNICAL SKILLS
+
+- **Access Management Tools**: Okta
+- **Cloud Technologies**: Azure, Azure DevOps
+- **Programming**: JavaScript, SQL
+- **Project Management**: Agile, Waterfall
+- **IT Tools**: Microsoft Project, SQL Studio, MS Visio
+
+---
+
+### KEY ACHIEVEMENTS
+
+- **Optimized Access Control**: Revolutionized access management at AIG by implementing Okta, enhancing security and user experience.
+- **Access Model Development**: Developed and refined access models, including RBAC, aligning with global security standards and business objectives.
+
+---
+
+### AREAS OF EXPERTISE
+
+- Access Control Processes Management
+- Application Administrator Coordination
+- Access Catalog Maintenance
+- Access Rules Definition
+- Security Protocol Improvement
+- Compliance with Company Policies
+
+---
+
+Jayson is highly motivated to bring his extensive experience and strategic insights in identity and access management to a dynamic and growing global fintech, aiming to drive and optimize secure access controls in a cloud-based environment.

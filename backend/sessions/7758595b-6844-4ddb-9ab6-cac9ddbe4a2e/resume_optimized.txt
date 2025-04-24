@@ -1,0 +1,49 @@
+# Jayson Macasadia
+**Contact Information**  
+Phone: 0432 241 891  
+Email: jmcasadia@gmail.com  
+LinkedIn: [jayson-macasadia-00aa7132a](https://www.linkedin.com/in/jayson-macasadia-00aa7132a/)  
+Location: VIC 3012  
+
+## Executive Summary
+Detail-oriented Business Solution Analyst with over a decade of experience in technology implementations and access management, including the use of Okta for identity verification processes. Skilled in defining access rules, managing access catalogs, and ensuring compliance with security protocols across various systems.
+
+## Key Skills
+- **Access Control Management**: Proficient in managing and optimizing access models such as Access Matrix and RBAC.
+- **Project Management & Process Improvement**: Strong background in overseeing technology projects and enhancing operational workflows.
+- **Compliance & Security Review**: Experienced in conducting security reviews and ensuring compliance through effective access management.
+- **Stakeholder Engagement & Communication**: Adept at communicating with application administrators to streamline processes.
+- **Tools & Software**: Hands-on experience with Okta, ServiceNow, and Azure AD.
+
+## Professional Experience
+
+**Change Manager**  
+Energy Australia | Jan 2025 – March 2025  
+- Managed end-to-end requirements for regulatory compliance systems, impacting multiple business units and enhancing system security.
+
+**Operations Program & Reporting Lead**  
+AIG Australia Limited | Jan 2020 – Oct 2024  
+- **Access Provisioning Manager**: Spearheaded the rollout of the Okta verification process.
+- Led the development of access management protocols, significantly improving system access accuracy and compliance.
+- Conducted detailed quarterly security reviews using ServiceNow and Azure AD logs, monitoring and optimizing access management functionality.
+
+**IT Business Project Manager**  
+AIG | Nov 2011 – Oct 2018  
+- Translated strategic business needs into access management enhancements, aligning with company policies and access control requirements.
+- Maintained comprehensive documentation and access catalogs to support effective access management processes.
+
+**Process Improvement Leader**  
+ACS Xerox | Jan 2010 – Nov 2011  
+- Implemented process improvements that directly supported compliance and access management operations across cloud systems.
+
+## Education
+
+**Bachelor of Information Technology**  
+Kent University, Expected 2025
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021
+
+## Additional Information
+- Actively engaged in periodic reviews and updates of access rights to ensure up-to-date compliance with internal policies.
+- No certifications yet; however, relevant experience in identity access management and security protocols is extensive.

@@ -1,0 +1,58 @@
+```markdown
+Jayson Macasadia
+Agile Business Analyst | User Story Design | Digital & Product Delivery
+Contact: 0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+## Executive Summary
+Accomplished Business Analyst with over 7 years of experience in Agile environments, specializing in the integration of business requirements into security-focused digital products. Proficient in collaborating with cross-functional teams and leveraging cloud technologies to enhance digital security and access control processes. Demonstrates strong problem-solving skills and an analytical approach to optimize workflows and compliance with access management standards.
+
+## Key Skills
+- Agile Business Analysis
+- Stakeholder Engagement
+- User Story Mapping & Acceptance Criteria
+- Digital Product Delivery
+- Cloud & DevOps: Azure
+- Access Management Tools: Familiarity with Okta
+- Compliance & Security Protocols
+- Business Requirements Gathering
+
+## Professional Experience
+
+**Change Lead**, Energy Australia
+_Jan 2025 – March 2025_
+- Led change initiatives focused on improving compliance and security measures across digital platforms.
+
+**Operations Program & Business Support**, AIG Australia Limited
+_Jan 2020 – Oct 2024_
+- Supported operations and IT programs that required compliance with strict access control and security policies.
+
+**IT Business Project Manager**, AIG
+_Nov 2011 – Oct 2018_
+- Managed IT projects incorporating stringent access control requirements and collaborated with application administrators to enhance identity access management.
+- Implemented project management tools and processes that align with optimized access models like RBAC.
+
+**Process Improvement Leader**, ACS Xerox
+_Jan 2010 – Nov 2011_
+- Led process optimization projects which included the enhancement of access control systems and periodic review of access rights.
+
+## Key Project Highlights
+
+**L&D Web-base Application Rollout – Learning & Development Product**
+- Defined user needs and functional specifications that included access control requirements for a web-based application.
+- Engaged continuously with stakeholders to ensure compliance and security needs were met throughout the project lifecycle.
+
+## Education
+
+**Bachelor of Information Technology**, Kent University, 2025
+**Cert IV in Security Networking**, Danford Colleges, 2021
+**Bachelor of Science in Marketing**, Lyceum of Batangas University, 1998  
+
+## Technical Skills
+- **Cloud & DevOps**: Azure (1.5 years' experience), Azure DevOps
+- **Programming & Development**: JavaScript, SQL
+- **Project & Process Management**: Agile, Waterfall, Business Process Automation
+- **Reporting & BI**: Power BI, Data Analytics
+
+## Certifications
+- Pending relevant certifications in CISSP, CIAM, CAMS, CIMP, CIGE
+```

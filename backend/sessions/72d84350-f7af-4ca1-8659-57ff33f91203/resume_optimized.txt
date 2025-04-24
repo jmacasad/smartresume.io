@@ -1,0 +1,65 @@
+**JAYSON MACASADIA**  
+Change Manager | Identity & Access Control Specialist  
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+---
+
+### EXECUTIVE SUMMARY
+Experienced Identity & Access Manager with a strong background in managing access control processes and compliance. Over 7 years in roles focusing on enterprise change, including a significant tenure as an Identity & Access Control Transition Lead. Expert in optimizing access models such as Access Matrix and RBAC, and proficient with access management tools including Microsoft technologies. Highly skilled in stakeholder engagement, developing access catalogs, and ensuring alignment with strategic objectives.
+
+### KEY SKILLS
+- **Access Control Management:** Profound knowledge of Access Matrix, RBAC
+- **Project Management:** Agile, Waterfall methodologies
+- **IT Tools:** Proficient in Okta, Microsoft Power Platform, Azure, Azure DevOps
+- **Compliance and Security:** Strong understanding of internal policy adherence and security protocol improvement
+- **Communication:** Effective at coordinating with application administrators and business units
+
+### PROFESSIONAL EXPERIENCE
+
+**IT Business Manager / Identity & Access Control Transition Lead**  
+AIG Australia | Nov 2011 – Oct 2018
+- Managed and optimized identity access control processes across multiple project streams.
+- Developed and maintained comprehensive access catalogs and defined access responsibilities.
+- Collaborated closely with application administrators to streamline access management.
+- Implemented robust access management processes enhancing security and compliance with internal policies.
+- Conducted periodic reviews of access rights and monitored the functionality of access management systems.
+
+**Change Lead**  
+Energy Australia | Jan 2025 – Mar 2025
+- Led strategic change implementations, aligning enterprise strategy with regulatory transformation requirements.
+- Developed change plans and communication materials to support system and process changes.
+- Engaged and coached stakeholders across various business units, enhancing change adoption and compliance.
+
+**Operations Program & Business Support**  
+AIG Australia Limited | Jan 2020 – Oct 2024
+- Supported operational transformations by facilitating workshops and conducting impact assessments.
+- Partnered with HR and training functions to coordinate change management processes effectively.
+
+### EDUCATION
+
+**Bachelor of Information Technology**  
+Kent University, Expected 2025
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998
+
+---
+
+### CERTIFICATIONS
+- CISSP (Certified Information Systems Security Professional) – Pending
+- CAMS (Certified Access Management Specialist) – Pending
+
+---
+
+### TECHNICAL SKILLS
+- **Cloud & DevOps:** Azure (1.5 years' experience), Azure DevOps
+- **Programming & Development:** JavaScript, SQL
+- **Reporting & BI:** Power BI, Data Analytics & Reporting
+- **IT Tools:** Microsoft Project, SQL Studio, MS Visio
+
+---
+
+Jayson is an experienced professional with a strong track record in identity access management and compliance within high-profile organizations. His expertise in optimizing access control processes and tools aligns perfectly with the needs of a dynamic, growing global fintech organization.

@@ -1,0 +1,84 @@
+**JAYSON MACASADIA**  
+**Agile Business Analyst | Digital & Product Delivery**  
+Email: jmcasadia@gmail.com | Phone: 0432 241 891  
+LinkedIn: [www.linkedin.com/in/jayson-macasadia-00aa7132a/](www.linkedin.com/in/jayson-macasadia-00aa7132a/)  
+Location: VIC 3012  
+
+---
+
+**EXECUTIVE SUMMARY**  
+Experienced Business Analyst with over 7 years in fast-paced digital environments, possessing a strong background in project management, stakeholder engagement, and access management. Proficient in Agile methodologies and cloud technologies, with a proven track record of optimizing processes and enhancing security and compliance protocols in financial and technology sectors.
+
+---
+
+**PROFESSIONAL EXPERIENCE**
+
+**Change Lead**  
+Energy Australia, Melbourne, VIC  
+January 2025 – March 2025  
+- Implemented strategic changes to improve access control and compliance processes, enhancing system security and operational efficiency.
+
+**Operations Program & Business Support**  
+AIG Australia Limited, Melbourne, VIC  
+January 2020 – October 2024  
+- Coordinated with IT and administrative teams to streamline access management processes, ensuring alignment with company policies and compliance requirements.  
+- Managed critical access control initiatives, collaborating closely with application administrators to optimize and secure access models.
+
+**IT Business Project Manager**  
+AIG, Melbourne, VIC  
+November 2011 – October 2018  
+- Led cross-functional teams in the development and implementation of comprehensive access management systems using Agile methodologies.  
+- Enhanced security protocols and optimized access models including RBAC to ensure efficient management of company resources.
+
+**Process Improvement Leader**  
+ACS Xerox, Melbourne, VIC  
+January 2010 – November 2011  
+- Directed process optimization projects focused on securing access and improving compliance across various platforms and applications.
+
+---
+
+**EDUCATION**
+
+**Bachelor of Information Technology**  
+Kent University, 2025  
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021  
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+---
+
+**TECHNICAL SKILLS**
+
+- **Cloud & DevOps:** Azure, Azure DevOps (1.5 years' experience)
+- **Programming & Development:** JavaScript, SQL
+- **Project & Process Management:** Agile, Waterfall, Business Process Automation
+- **Reporting & BI:** Power BI, Data Analytics & Reporting
+- **Access Management Tools:** Experience with identity access management software
+
+---
+
+**CERTIFICATIONS**
+
+- **CISP** (Related to access management)
+
+---
+
+**KEY PROJECT HIGHLIGHTS**
+
+- **OneView (Tagging) Labelling Solution – Agile Squad Delivery:**  
+Partnered with key stakeholders to define and implement robust access control measures, ensuring secure and compliant application rollouts.
+
+- **L&D Web-based Application Rollout – Learning & Development Product:**  
+Led the development and maintenance of secure access protocols, significantly enhancing system integrity and data protection.
+
+---
+
+**ADDITIONAL INFO**
+
+- Strong analytical and problem-solving skills.
+- Deep understanding of access control models including Access Matrix and RBAC.
+- Proficient in optimizing access models and improving security protocols.
+- Experienced in conducting periodic security and access reviews to ensure ongoing compliance and efficiency.

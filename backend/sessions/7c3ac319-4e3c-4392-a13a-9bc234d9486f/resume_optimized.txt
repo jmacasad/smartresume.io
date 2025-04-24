@@ -1,0 +1,68 @@
+**Jayson Macasadia**  
+Agile Business Analyst | Digital & Product Delivery  
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012  
+
+---
+
+**EXECUTIVE SUMMARY**  
+Proactive Business Analyst with over 7 years of experience in fast-paced digital environments, specializing in Agile methodologies and stakeholder engagement. Demonstrated ability to manage and streamline access control processes, ensuring compliance with company policies and optimizing access models. Experienced in working with cross-functional teams to enhance security protocols and access management tools.
+
+---
+
+**PROFESSIONAL EXPERIENCE**
+
+**IT Business Project Manager**  
+AIG, Nov 2011 – Oct 2018  
+- Spearheaded the development and implementation of access management processes across various company resources.  
+- Collaborated with application administrators to define and maintain a comprehensive access catalog and responsibilities.  
+- Optimized access models using Access Matrix and Role-Based Access Control (RBAC), significantly improving security protocols and compliance.  
+- Conducted periodic reviews and monitoring of access rights to ensure efficient and secure access management functionality.
+
+**Operations Program & Business Support**  
+AIG Australia Limited, Jan 2020 – Oct 2024  
+- Managed and organized complex access control processes in alignment with company policies and regulatory requirements.  
+- Developed strong communication channels with application administrators, enhancing the efficiency of access management across platforms.
+
+**Change Lead**  
+Energy Australia, Jan 2025 – March 2025  
+- Led cross-functional teams in optimizing business processes, including the implementation of advanced access control systems to improve security and compliance.
+
+---
+
+**EDUCATION**
+
+**Bachelor of Information Technology**  
+Kent University, 2025  
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021  
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+---
+
+**TECHNICAL SKILLS**
+
+- **Access Management Tools:** Experience with access management software and platforms.
+- **Cloud & DevOps:** Azure (1.5 years' experience), Azure DevOps.
+- **Programming & Development:** JavaScript, SQL.
+- **Project & Process Management:** Agile, Waterfall, Business Process Automation.
+- **Reporting & BI:** Power BI, Data Analytics.
+
+---
+
+**ADDITIONAL CERTIFICATIONS**
+
+- CISSP, CIAM, CAMS, CIMP, CIGE (if applicable)  
+
+---
+
+**AREAS OF EXPERTISE**
+
+- Access Control Processes
+- Compliance with Company Policies
+- Application Administration Communication
+- Access Catalog Maintenance
+- Access Model Optimization (Access Matrix, RBAC)
+- Access Management Functionality Monitoring

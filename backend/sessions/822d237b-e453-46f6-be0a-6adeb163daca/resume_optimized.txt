@@ -1,0 +1,64 @@
+```markdown
+Jayson Macasadia
+Agile Business Analyst | Identity Access Management | Digital & Product Delivery
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+
+## EXECUTIVE SUMMARY
+Proactive Business Analyst with over 7 years of experience in Agile environments and a strong focus on access management and security compliance, particularly using Okta. Demonstrates strong problem-solving, analytical, and stakeholder engagement skills. Experienced in optimizing access control processes and maintaining security compliance across digital product deliveries.
+
+## AREAS OF EXPERTISE
+- **Identity Access Management**
+- **Access Control Optimization**
+- **Stakeholder Engagement**
+- **Agile Business Analysis**
+- **Security Compliance & Tools (Okta)**
+- **User Story Mapping & Acceptance Criteria**
+- **Sprint Planning & Retrospectives**
+- **Digital Product Delivery**
+
+## KEY PROJECT HIGHLIGHTS
+
+### OneView (Tagging) Labelling Solution – Agile Squad Delivery
+- **Managed Access Control:** Partnered with stakeholders to define business-critical requirements for secure label rollout, ensuring compliance and efficient access management.
+- **Optimized Access Processes:** Authored detailed user stories under tight timelines, contributing to the development of optimized access models.
+
+### L&D Web-based Application Rollout – Learning & Development Product
+- **Access Catalog Maintenance:** Led the creation and maintenance of comprehensive access catalogs through detailed user stories and feature documentation in Confluence and Jira.
+- **Developed Access Management Processes:** Worked closely with stakeholders to develop and implement robust access management processes, enhancing security and compliance.
+
+## CAREER SUMMARY
+
+### Change Lead at Energy Australia
+**Jan 2025 – March 2025**
+
+### Operations Program & Business Support at AIG Australia Limited
+**Jan 2020 – Oct 2024**
+- **Implemented Okta for Access Management:** Significantly contributed to making AIG 100% security compliant through the effective use of Okta, optimizing access control models and processes.
+
+### IT Business Project Manager at AIG
+**Nov 2011 – Oct 2018**
+
+### Process Improvement Leader at ACS Xerox
+**Jan 2010 – Nov 2011**
+
+## EDUCATION
+
+**Bachelor of Information Technology**  
+Kent University, 2025
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+## TECHNICAL SKILLS
+- **Microsoft Power Platform:** PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online
+- **Cloud & DevOps:** Azure (1.5 years' experience), Azure DevOps
+- **Programming & Development:** JavaScript, SQL
+- **Project & Process Management:** Agile, Waterfall, Business Process Automation
+- **Reporting & BI:** Power BI, Data Analytics & Reporting
+
+## CERTIFICATIONS
+- **CISP**
+```

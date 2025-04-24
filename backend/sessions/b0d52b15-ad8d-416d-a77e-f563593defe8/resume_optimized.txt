@@ -1,0 +1,83 @@
+Jayson Macasadia
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+---
+
+**EXECUTIVE SUMMARY**
+
+Accomplished Strategic Portfolio and Governance Analyst with extensive experience in access management, risk management, and compliance across financial and technology sectors. Proficient in developing and optimizing access control processes, utilizing advanced tools such as Power BI and Azure. Demonstrates strong analytical skills and a proven ability to manage complex projects in fast-paced environments.
+
+---
+
+**AREAS OF EXPERTISE**
+
+- Access Control Processes
+- Compliance & Regulatory Frameworks
+- Risk Management
+- Cloud Technologies: Azure
+- Data Analytics & Reporting: Power BI
+- Project Management: Agile, Waterfall
+- Cross-functional Leadership
+- Stakeholder Engagement
+- Process Improvement & Transformation: Lean Six Sigma (Black Belt)
+
+---
+
+**PROFESSIONAL EXPERIENCE**
+
+**Change Manager**  
+Energy Australia, Melbourne  
+January 2025 – March 2025
+
+- Managed change governance and compliance aligning with internal policies, ensuring robust access control and information security.
+- Coordinated with product, finance, and compliance teams to optimize access models and improve security protocols.
+
+**Operations Program & Business Support**  
+AIG Australia Limited, Melbourne  
+January 2020 – October 2024
+
+- Delivered governance reporting and insights, focusing on compliance with access controls and risk management across enterprise-wide initiatives.
+- Led the consolidation of reporting from multiple systems into Power BI, enhancing the monitoring and management of access rights.
+
+**IT Business Manager**  
+AIG, Melbourne  
+November 2011 – October 2018
+
+- Maintained strategic dashboards for tracking initiative progress and risk status, contributing to efficient access management functionality.
+- Partnered with IT and business units to develop and refine access management processes, optimizing models like RBAC (Role-Based Access Control).
+
+---
+
+**EDUCATION**
+
+Bachelor of Information Technology  
+Kent University, 2025
+
+Cert IV in Security Networking  
+Danford Colleges, 2021
+
+Bachelor of Science in Marketing  
+Lyceum of Batangas University, 1998
+
+---
+
+**CERTIFICATIONS**
+
+- Lean Six Sigma Black Belt
+
+---
+
+**TECHNICAL SKILLS**
+
+- **Cloud & DevOps:** Azure (1.5 years' experience), Azure DevOps
+- **IT Tools:** Microsoft Project, SQL Studio, MS Visio
+- **Reporting & BI:** Power BI, Microsoft Power Platform (PowerApps, Power Automate, Dynamics 365, SharePoint Online)
+- **Programming & Development:** JavaScript, SQL
+
+---
+
+**ADDITIONAL INFORMATION**
+
+- Strong problem-solving capabilities with a focus on analytical thinking and results.
+- Deep understanding of access control models like Access Matrix and RBAC.
+- Advanced user of access management tools and software, with a focus on optimizing security protocols and compliance.

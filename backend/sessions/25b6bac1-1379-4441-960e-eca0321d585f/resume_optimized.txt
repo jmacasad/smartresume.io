@@ -1,0 +1,64 @@
+Jayson Macasadia
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+## EXECUTIVE SUMMARY
+Experienced Business Analyst with extensive experience in system implementations, digital transformation, and process improvement, particularly in compliance and operational systems. Proven expertise in managing access control processes, optimizing workflow automation, and ensuring compliance with regulatory standards. Skilled in stakeholder engagement and translating complex requirements into actionable system enhancements. Seeking to leverage deep analytical skills and a decade of cross-sector experience to contribute effectively as an Identity Access Manager.
+
+## AREAS OF EXPERTISE
+- **Process Improvement & Transformation**
+- **Regulatory Compliance**
+- **Access Control Management**
+- **Stakeholder Engagement**
+- **System Implementations**
+- **Digital Transformation**
+- **Project Management**
+- **Operational Excellence**
+- **Data Analytics & Reporting**
+
+## PROFESSIONAL EXPERIENCE
+
+### **Change Manager**
+Energy Australia, Melbourne | Jan 2025 – Mar 2025
+- Managed regulatory compliance enhancements, focusing on access control and process optimization.
+- Collaborated with IT and operational teams to streamline access management and ensure alignment with company policies.
+- Led stakeholder workshops, crucial for gathering detailed process requirements and enhancing system security protocols.
+
+### **Operations Program & Reporting Lead**
+AIG Australia Limited, Melbourne | Jan 2020 – Oct 2024
+- Oversaw the implementation of CRM systems, improving access management and customer data security.
+- Developed comprehensive access catalogs and defined access rules to optimize customer service operations.
+- Conducted periodic reviews of system access rights, ensuring compliance with internal and regulatory standards.
+
+### **IT Business Project Manager**
+AIG, Melbourne | Nov 2011 – Oct 2018
+- Led cross-functional teams in system upgrades and process re-engineering, focusing on secure access and compliance.
+- Implemented robust access management tools, enhancing security and operational efficiency across company resources.
+
+### **Process Improvement Leader**
+ACS Xerox, Melbourne | Jan 2010 – Nov 2011
+- Streamlined workflows and implemented digital solutions to enhance access control and process transparency.
+
+## EDUCATION
+
+**Bachelor of Information Technology**
+Kent University | 2025
+
+**Cert IV in Security Networking**
+Danford Colleges | 2021
+
+**Bachelor of Science in Marketing**
+Lyceum of Batangas University | 1998
+
+## TECHNICAL SKILLS
+- **Microsoft Power Platform: PowerApps**
+- **Access Management Tools (including Okta)**
+- **CRM Systems**
+- **Data Security and Compliance Software**
+
+## CERTIFICATIONS
+- **Certified Information Systems Security Professional (CISSP) - Pending**
+- **Certified Identity and Access Manager (CIAM) - Pending**
+
+---
+
+Jayson is highly adept in managing sophisticated access control systems and ensuring compliance with stringent security standards, making him an ideal candidate for the Identity Access Manager position. His background in IT and business process management, combined with hands-on experience in enhancing system security and functionality, aligns well with the requirements and responsibilities of the role.

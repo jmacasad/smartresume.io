@@ -1,0 +1,33 @@
+{
+  "id": "gen-1744876864-pTMxj7kNmIn2v03jvsA0",
+  "provider": "OpenAI",
+  "model": "openai/gpt-3.5-turbo",
+  "object": "chat.completion",
+  "created": 1744876864,
+  "choices": [
+    {
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Key Hard Skills:\n1. Access control processes\n2. Access catalog maintenance\n3. Access rules definition\n4. Access management processes\n5. Access models optimization (e.g., Access Matrix, RBAC)\n6. Monitoring access management functionality\n7. Experience with access management tools (e.g., Okta)\n8. Relevant certifications (e.g., CISSP, CIAM, CAMS, CIMP, CIGE)\n\nKey Soft Skills:\n1. Strong problem-solving skills\n2. Analytical skills\n3. Communication skills\n4. Coordination and collaboration with stakeholders\n5. Compliance with company policies\n6. Attention to detail\n7. Adaptability to changing security protocols and policies.",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "system_fingerprint": null,
+  "usage": {
+    "prompt_tokens": 265,
+    "completion_tokens": 145,
+    "total_tokens": 410,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  }
+}

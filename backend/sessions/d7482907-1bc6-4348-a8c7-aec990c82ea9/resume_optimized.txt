@@ -1,0 +1,46 @@
+**JAYSON MACASADIA**  
+Agile Business Analyst | Digital & Product Delivery  
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012  
+
+---
+
+**EXECUTIVE SUMMARY**  
+Proactive Business Analyst with over 7 years of experience in fast-paced digital environments, possessing strong skills in stakeholder engagement, requirement analysis, and cross-functional collaboration. Well-versed in Agile methodologies, with a notable ability to optimize processes and improve compliance with internal policies through effective communication and analytical skills. Experienced in managing complex access control processes and tools in a hybrid cloud environment.
+
+**AREAS OF EXPERTISE**  
+- **Access Control Management**: Proficient in developing and optimizing access models, including Access Matrix and RBAC.
+- **Stakeholder Engagement**: Strong communication skills in liaising with application administrators to streamline access management.
+- **Agile Business Analysis**: Expert in user story mapping, sprint planning, and retrospectives.
+- **Digital Product Delivery**: Skilled in web, mobile, and backend integration support.
+- **Project & Process Management**: Agile, Waterfall, Business Process Automation.
+- **Technical Skills**: Access management tools (Okta), Microsoft Power Platform, Azure, Azure DevOps, JavaScript, SQL.
+
+**KEY PROJECT HIGHLIGHTS**
+
+**OneView (Tagging) Labelling Solution – Agile Squad Delivery**  
+- **Optimized Access Control**: Defined business-critical requirements and crafted detailed user stories under tight timelines, supporting effective access control and compliance.
+- **Stakeholder Collaboration**: Partnered with multiple teams to ensure alignment with internal access management protocols and optimized delivery processes.
+
+**L&D Web-based Application Rollout – Learning & Development Product**  
+- **Access Management Development**: Led the creation of functional specifications and user stories, directly improving the management of access rights and responsibilities within the application.
+- **Process Improvement**: Conducted requirement workshops and retrospectives, significantly enhancing access management functionality and compliance with security protocols.
+
+**CAREER SUMMARY**
+
+- **Change Lead**, Energy Australia | Jan 2025 – March 2025
+- **Operations Program & Business Support**, AIG Australia Limited | Jan 2020 – Oct 2024
+- **IT Business Project Manager**, AIG | Nov 2011 – Oct 2018
+- **Process Improvement Leader**, ACS Xerox | Jan 2010 – Nov 2011
+
+**EDUCATION**
+
+- **Bachelor of Information Technology**, Kent University, 2025
+- **Cert IV in Security Networking**, Danford Colleges, 2021
+- **Bachelor of Science in Marketing**, Lyceum of Batangas University, 1998
+
+**TECHNICAL SKILLS**
+
+- **Cloud & DevOps**: Azure (1.5 years' experience), Azure DevOps
+- **Programming & Development**: JavaScript, SQL
+- **Project & Process Management**: Agile, Waterfall, Business Process Automation
+- **Reporting & BI**: Power BI, Data Analytics & Reporting

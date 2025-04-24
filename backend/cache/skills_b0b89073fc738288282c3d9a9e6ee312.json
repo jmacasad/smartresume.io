@@ -1,0 +1,33 @@
+{
+  "id": "gen-1744808247-ATauRVMcyLNGn7bxjrLq",
+  "provider": "OpenAI",
+  "model": "openai/gpt-3.5-turbo",
+  "object": "chat.completion",
+  "created": 1744808247,
+  "choices": [
+    {
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "I'm happy to help! Please provide me with the job description so I can extract the key hard and soft skills required for the role.",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "system_fingerprint": null,
+  "usage": {
+    "prompt_tokens": 42,
+    "completion_tokens": 29,
+    "total_tokens": 71,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  }
+}

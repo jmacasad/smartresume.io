@@ -1,0 +1,49 @@
+**Jayson Macasadia**  
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+---
+
+### EXECUTIVE SUMMARY
+Detail-oriented Business Solution Analyst with over a decade of experience in technology implementations and process optimization, specializing in access management, regulatory compliance, and operational workflows. Expert in driving projects that align with company policies and enhance security protocols through innovative access models and tools.
+
+### AREAS OF EXPERTISE
+- **Access Management & Control Processes**
+- **Regulatory Compliance & Internal Auditing**
+- **Process Improvement & Transformation**
+- **Project Management & Cross-functional Leadership**
+- **Data Analytics & Reporting**
+- **Stakeholder Engagement & Workshop Facilitation**
+
+### KEY PROJECT HIGHLIGHTS
+
+**Regulatory System Transformation – EnergyAustralia**
+- Led the end-to-end process for defining access rules and responsibilities within compliance systems, crucial for optimizing security protocols.
+- Implemented access management tools and software upgrades, enhancing operational efficiency and security across customer operations.
+- Conducted thorough periodic reviews of access rights, ensuring alignment with internal policies and regulatory requirements.
+
+**CRM & Operational Platform Uplift – AIG Australia**
+- Managed and organized comprehensive access catalogs and defined access responsibilities during CRM system enhancements.
+- Developed and optimized access models, including RBAC, to streamline management processes and improve system security and compliance.
+- Facilitated communication with application administrators to ensure effective access management and compliance with company policies.
+
+### CAREER SUMMARY
+- **Change Manager at Energy Australia** | Jan 2025 – March 2025
+- **Operations Program & Reporting Lead at AIG Australia Limited** | Jan 2020 – Oct 2024
+- **IT Business Project Manager at AIG** | Nov 2011 – Oct 2018
+- **Process Improvement Leader at ACS Xerox** | Jan 2010 – Nov 2011
+
+### EDUCATION
+- **Bachelor of Information Technology** | Kent University, Expected 2025
+- **Cert IV in Security Networking** | Danford Colleges, 2021
+
+### CERTIFICATIONS
+- **CISSP** (Certified Information Systems Security Professional)
+- **CIAM** (Certified Identity and Access Manager) [If applicable]
+
+---
+
+**Skills:**
+- Access Management Tools (e.g., Okta)
+- Access Control Models (Access Matrix, RBAC)
+- Problem-solving & Analytical Thinking
+- Strong Communication Skills

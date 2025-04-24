@@ -1,0 +1,59 @@
+Jayson Macasadia
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+## Executive Summary
+Accomplished Strategic Portfolio and Governance Analyst with extensive experience in access management, compliance, and process optimization across financial and technology sectors. Proven track record in improving security protocols, managing regulatory compliance, and enhancing operational efficiencies. Skilled in Cloud environments, data analytics, and reporting tools essential for high-level access control management.
+
+## Professional Experience
+
+**Change Manager**  
+EnergyAustralia, Melbourne  
+Jan 2025 – Mar 2025  
+- Spearheaded change governance and program alignment, focusing on regulatory and digital transformation portfolios.
+- Enhanced access management practices, ensuring alignment with company policies and compliance requirements.
+- Developed and monitored executive dashboards for milestone progress, value realization, and readiness metrics.
+
+**Operations Program & Business Support Manager**  
+AIG Australia Limited, Melbourne  
+Jan 2020 – Oct 2024  
+- Delivered key governance reporting and portfolio insights directly to the COO, ensuring adherence to program KPIs and compliance with risk metrics.
+- Led the strategic consolidation of reporting from multiple systems using Power BI, enhancing access management and data-driven decision-making.
+- Maintained and optimized strategic portfolio dashboards, crucial for tracking initiative progress and risk status related to access control.
+
+**IT Business Manager**  
+AIG, Melbourne  
+Nov 2011 – Oct 2018  
+- Managed IT business operations with a strong emphasis on compliance, risk management, and internal auditing.
+- Implemented and maintained robust access control systems to safeguard company data and ensure efficient resource management.
+
+**Process Improvement Leader**  
+ACS Xerox, Melbourne  
+Jan 2010 – Nov 2011  
+- Directed process improvement initiatives, focusing on compliance and operational excellence.
+- Employed Lean Six Sigma methodologies to enhance process efficiency, directly impacting access control and management protocols.
+
+## Education
+
+**Bachelor of Information Technology**  
+Kent University, 2025
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+## Technical Skills
+
+- **Cloud & DevOps:** Azure (1.5 years' experience), Azure DevOps
+- **Reporting & BI:** Power BI, Data Analytics & Reporting
+- **Project & Process Management:** Agile, Waterfall, Business Process Automation
+- **IT Tools:** Microsoft Project, SQL Studio, MS Visio
+
+## Certifications
+- Lean Six Sigma (Black Belt)
+
+## Professional Skills
+- Access Control Management: Expertise in managing and optimizing access control processes using various models such as Access Matrix and RBAC.
+- Compliance and Risk Management: Strong background in ensuring compliance with internal policies and conducting risk assessments.
+- Communication and Stakeholder Engagement: Effective communicator with experience liaising with application administrators and stakeholders to streamline access management.

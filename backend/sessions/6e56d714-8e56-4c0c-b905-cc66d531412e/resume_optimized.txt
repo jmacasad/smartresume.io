@@ -1,0 +1,61 @@
+```markdown
+Jayson Macasadia
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+## Executive Summary
+Experienced Business Analyst with extensive expertise in system implementations, digital transformation, and process improvements across various sectors. Skilled in stakeholder engagement, regulatory compliance, and translating complex business needs into actionable strategies. Proven ability to drive operational efficiency and high-impact change across technological and process landscapes.
+
+## Key Skills
+- **Process Improvement & Transformation**
+- **Project Management**
+- **Business Analysis**
+- **Operational Excellence**
+- **Data Analytics & Reporting**
+- **Regulatory Compliance**
+- **Risk Management**
+- **Internal Auditing**
+- **Change Management**
+- **Stakeholder Engagement**
+
+## Professional Experience
+
+### Change Manager, Energy Australia
+**Jan 2025 – March 2025**
+- Spearheaded business analysis for regulatory and compliance enhancements, focusing on optimizing access control and operational processes.
+- Orchestrated stakeholder workshops to capture utility-related compliance requirements, directly aligning with access management needs.
+- Enhanced system implementations and continuous improvement efforts by identifying automation opportunities, closely related to access control optimizations.
+
+### Operations Program & Reporting Lead, AIG Australia Limited
+**Jan 2020 – Oct 2024**
+- Managed complex client onboarding and billing systems, ensuring robust access control and compliance with regulatory standards.
+- Led business process reviews to streamline customer lifecycle management, improving access management across customer service platforms.
+- Coordinated with IT and QA teams to refine access models and implement secure, compliant management processes.
+
+### IT Business Project Manager, AIG
+**Nov 2011 – Oct 2018**
+- Directed multiple project teams in the development of systems aimed at enhancing access control and user authentication processes.
+- Collaborated with application administrators to ensure efficient implementation and optimization of access management tools.
+
+### Process Improvement Leader, ACS Xerox
+**Jan 2010 – Nov 2011**
+- Conducted periodic reviews of process and access rights to enhance security measures and compliance with internal policies.
+- Developed and implemented robust access control measures tailored to business needs and operational standards.
+
+## Education
+**Bachelor of Information Technology**
+Kent University, 2025
+
+**Cert IV in Security Networking**
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**
+Lyceum of Batangas University, 1998
+
+## Technical Skills
+- Microsoft Power Platform: PowerApps
+- Access management tools familiarity (incl. Okta based on industry knowledge)
+
+## Certifications
+- Lean Six Sigma (Black Belt)
+```
+This resume is formatted to highlight the candidate's relevant experience and skills that align with the responsibilities and requirements of the Identity Access Manager role mentioned in the job description. The professional experience section particularly emphasizes the candidate's expertise in access management, process improvement, and compliance, which are critical for the position.

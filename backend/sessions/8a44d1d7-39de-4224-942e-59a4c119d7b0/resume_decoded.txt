@@ -1,0 +1,74 @@
+JAYSON MACASADIA		            
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+EXECUTIVE SUMMARY	
+Detail-oriented and results-driven Business Solution Analyst with over a decade of experience delivering enterprise solutions, improving operational workflows, and managing end-to-end technology implementations. Proven ability to lead workshops, elicit requirements, and translate business needs into actionable technical outcomes across major infrastructure, regulatory, and digital transformation projects. Passionate about driving innovation and enabling future-focused systems across public and enterprise sectors.
+Areas of Expertise
+Process Improvement & Transformation | Lean Six Sigma (Black Belt) | Project Management |
+ Cross-functional Leadership | Business Analysis | Customer Journey Mapping | Operational Excellence |
+ Workshop Facilitation | Data Analytics & Reporting | Stakeholder Engagement | Design Thinking | Regulatory Compliance
+ Change Management | Risk Management | Internal Auditing | Analytical Thinking | Results Focus
+KEY PROJECT HIGHLIGHTS
+Regulatory System Transformation – EnergyAustralia
+Led end-to-end requirements elicitation and documentation for regulatory compliance systems affecting multiple business units.
+Mapped and re-engineered existing workflows, supporting digital tool upgrades across customer operations.
+Facilitated cross-functional workshops to clarify stakeholder needs and system impacts, ensuring alignment between regulatory outcomes and tech implementation.
+Authored user stories, business process models, and UAT test scenarios to ensure a smooth transition from delivery to operations.
+Supported the development of training and change management materials for post-implementation onboarding.
+Ensured business needs were continuously reflected in solution design throughout the project lifecycle.
+CRM & Operational Platform Uplift – AIG Australia
+Translated strategic business needs into functional and technical requirements for CRM and back-office system enhancements.
+Led workshops with key business units to prioritize requirements and define process efficiencies.
+Maintained documentation across user stories, process models, and data dictionaries for implementation teams.
+Supported test execution, defect triaging, and readiness reviews to validate solution fit and quality.
+Aligned stakeholders around solution outcomes through structured communication and governance reporting.
+Enabled measurable improvements in system usage, data accuracy, and cross-team efficiency post-deployment.
+CAREER SUMMARY
+Change Manager at Energy Australia | Jan 2025 – March 2025 
+Operations Program & Reporting Lead at AIG Australia Limited | Jan 2020 – Oct 2024 
+IT Business Project Manager at AIG | Nov 2011 – Oct 2018
+Process Improvement Leader at ACS Xerox | Jan 2010 – Nov 2011
+EDUCATION
+Bachelor of Information Technology | Kent University, 2025
+Cert IV in Security Networking | Danford Colleges, 2021
+Bachelor of Science in Marketing | Lyceum of Batangas University, 1998  
+TECHNICAL SKILLS
+Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online
+Cloud & DevOps: Azure (1.5 years' experience), Azure DevOps
+Programming & Development: JavaScript, SQL
+Project & Process Management: Agile, Waterfall, Business Process Automation
+Reporting & BI: Power BI, Data Analytics & Reporting
+IT Tools: Microsoft Project, SQL Studio, MS Visio
+PROFESSIONAL EXPERIENCE
+EnergyAustralia											Jan 2025 – Mar 2025 	
+Change Lead – Regulatory Compliance
+Delivered regulatory transformation initiatives across utilities operations, focusing on systems and process alignment with compliance mandates.
+Mapped business processes for compliance and field operations teams, supporting stakeholder-driven re-engineering efforts.
+Documented detailed requirements and user stories, coordinating with architects and implementation teams to validate system impacts.
+Organized and facilitated cross-functional workshops to ensure alignment across Operations and Compliance.
+Assisted project governance by maintaining risk logs, preparing steering committee briefs, and ensuring alignment with enterprise frameworks.
+Acted as a liaison between field operations, regulatory teams, and project stakeholders, ensuring consistent understanding and timely communication.
+AIG Australia Limited										Jan 2020 – Oct 2024 	
+Operations Program Lead and Business Support
+Led end-to-end requirement gathering and documentation for major system enhancements across CRM, finance, and compliance applications.
+Translated strategic goals into solution delivery frameworks, managing alignment through the project lifecycle.
+Designed and maintained process models, use cases, and data dictionaries to support implementation teams and user onboarding.
+Managed stakeholder relationships, facilitating workshops to clarify goals, expectations, and operational needs.
+Oversaw change readiness activities including training content development and post-launch transition support.
+Introduced metrics-driven analysis using Power BI to track efficiency and system adoption post-deployment.
+AIG Shared Services										Jan 2011 – Dec 2018 	
+IT Business Manager
+Spearheaded functional solutioning for global process transitions and system migrations across HR, claims, and service platforms.
+Partnered with business and technology leaders to document use cases, functional requirements, and workflow diagrams for delivery teams.
+Created standardized templates for BRDs and traceability matrices, improving alignment between business expectations and development deliverables.
+Facilitated UAT strategy creation, test scenario mapping, and feedback validation.
+Supported vendor-led solution implementation, acting as liaison to bridge operational priorities and system design.
+Contributed to knowledge sharing and training programs to support long-term system adoption across teams.
+ACS Xerox											Jan 2010 – Nov 2011 	
+Process Improvement Leader
+Delivered business analysis and process improvement services for client support and digital transformation programs.
+Analyzed workflows and system interactions, recommending process re-engineering to enhance service quality.
+Supported delivery of updated SOPs and training materials aligned to newly adopted technologies and workflows.
+Developed dashboards and status reports to track implementation readiness and success metrics.
+Participated in workshops to validate revised business processes and drive user adoption strategies.
+Collaborated closely with operational stakeholders to ensure requirements met both business logic and customer experience objectives.
+Referee details available on request

@@ -1,0 +1,48 @@
+**JAYSON MACASADIA**  
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+---
+
+### EXECUTIVE SUMMARY
+Detail-oriented Identity Access Manager with extensive experience in managing access control processes, optimizing security protocols, and ensuring compliance across various company resources. Skilled in the implementation of access management tools like Okta and proficient in monitoring using ServiceNow and Azure AD. Demonstrates strong problem-solving, analytical, and communication skills, with a proven track record of improving operational workflows and enhancing system security and efficiency.
+
+### KEY SKILLS
+- **Identity and Access Management**
+- **Access Control Models (Access Matrix, RBAC)**
+- **Regulatory Compliance**
+- **Problem Solving & Analytical Thinking**
+- **Project Management & Process Improvement**
+- **Stakeholder Engagement & Communication**
+- **Data Analytics & Reporting**
+
+### PROFESSIONAL EXPERIENCE
+
+**Access Provisioning Manager | AIG Australia Limited**  
+*Jan 2020 – Oct 2024*  
+- Spearheaded the rollout of the Okta verification process, enhancing identity verification and access management.
+- Led the optimization and maintenance of access catalogs, significantly improving system usage and data accuracy.
+- Conducted quarterly security reviews using ServiceNow and Azure AD logs to monitor access controls, flag inactive accounts, and validate role assignments with application owners.
+- Collaborated closely with IT and business stakeholders to define and implement robust access management processes, ensuring alignment with company policies and compliance requirements.
+
+**IT Business Project Manager | AIG**  
+*Nov 2011 – Oct 2018*  
+- Translated strategic business needs into actionable plans for CRM and operational platform enhancements, focusing on access management and system security.
+- Managed cross-functional teams to define access responsibilities and improve access control frameworks, facilitating effective communication and alignment across departments.
+
+**Process Improvement Leader | ACS Xerox**  
+*Jan 2010 – Nov 2011*  
+- Led process re-engineering projects that included enhancements to access control systems and regulatory compliance measures.
+
+### EDUCATION
+
+**Bachelor of Information Technology**  
+*Kent University, Expected 2025*
+
+**Cert IV in Security Networking**  
+*Danford Colleges, 2021*
+
+---
+
+### ADDITIONAL INFORMATION
+- Successfully implemented and managed the Okta verification process at AIG Australia, demonstrating advanced skills in access management tools.
+- Expertise in conducting security reviews and maintaining compliance with internal and external regulations, utilizing tools like ServiceNow and Azure AD for effective access monitoring and management.

@@ -1,0 +1,75 @@
+**Jayson Macasadia**  
+**Identity Access Manager | Agile Business Analyst | Digital Product Delivery Specialist**  
+VIC 3012  
+Email: jmcasadia@gmail.com  
+LinkedIn: [jayson-macasadia-00aa7132a](www.linkedin.com/in/jayson-macasadia-00aa7132a/)  
+Phone: 0432 241 891  
+
+---
+
+**EXECUTIVE SUMMARY**  
+Experienced Identity Access Manager and Agile Business Analyst with over 7 years of experience in fast-paced digital environments, specializing in the management of access control processes and digital product delivery. Expert in translating complex business requirements into actionable access management solutions, ensuring compliance with company policies, and optimizing security protocols. Proven track record in collaborating with cross-functional teams, streamlining access models, and enhancing system security through strategic access control implementations.
+
+**CORE COMPETENCIES**  
+- **Access Control Management**  
+- **Agile Business Analysis**  
+- **Stakeholder Engagement**  
+- **Digital Product Delivery**  
+- **Compliance and Security**  
+- **Cross-Team Collaboration**  
+- **User Story Mapping & Acceptance Criteria**  
+- **Cloud & DevOps: Azure**  
+
+**PROFESSIONAL EXPERIENCE**  
+
+**Change Lead**  
+Energy Australia, Jan 2025 – March 2025  
+- Managed access control processes and coordinated with application administrators to improve access management across various company resources.
+
+**Operations Program & Business Support**  
+AIG Australia Limited, Jan 2020 – Oct 2024  
+- Enhanced access models and conducted periodic reviews of access rights to ensure efficient and secure access management.  
+- Streamlined communication between application owners and IT teams, optimizing security protocols and compliance with internal policies.
+
+**IT Business Project Manager**  
+AIG, Nov 2011 – Oct 2018  
+- Developed and implemented comprehensive access management processes, including maintaining an extensive access catalog.  
+- Led cross-functional teams in defining access responsibilities and optimizing access models, utilizing tools like Azure DevOps for enterprise-wide implementations.
+
+**Process Improvement Leader**  
+ACS Xerox, Jan 2010 – Nov 2011  
+- Organized and managed access control processes, improving system security and compliance through effective stakeholder engagement and process optimization.
+
+**PROJECT HIGHLIGHTS**  
+
+**OneView (Tagging) Labelling Solution – Agile Squad Delivery**  
+- Partnered with key stakeholders to define and streamline access management processes, significantly reducing rollout timelines and enhancing security measures.
+
+**L&D Web-based Application Rollout – Learning & Development Product**  
+- Collaborated with application administrators to maintain and update access catalogs, ensuring comprehensive coverage and compliance with security standards.
+
+**EDUCATION**  
+**Bachelor of Information Technology**  
+Kent University, 2025  
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021  
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+**TECHNICAL SKILLS**  
+- **Cloud & DevOps**: Azure (1.5 years' experience), Azure DevOps  
+- **Programming & Development**: JavaScript, SQL  
+- **Project & Process Management**: Agile, Waterfall  
+- **Reporting & BI**: Power BI  
+
+---  
+
+**Certifications**  
+*(Relevant certifications such as CISSP, CIAM, CAMS, CIMP, CIGE, if any, to be listed here.)*  
+
+---  
+
+**References**  
+Available upon request.

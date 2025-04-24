@@ -1,0 +1,68 @@
+JAYSON MACASADIA
+Identity & Access Management (IAM) Specialist | Access Governance | Risk & Compliance      
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+EXECUTIVE SUMMARY	
+Experienced Identity & Access Management (IAM) professional with 6+ years of experience overseeing access control and governance across enterprise systems in global financial and shared services environments. Skilled in developing and implementing access policies, managing RBAC models, coordinating with application owners, and ensuring compliance with internal standards and security frameworks. Proven success conducting access reviews, maintaining access catalogs, and optimising access control processes in hybrid and cloud-based environments.
+Areas of Expertise
+Identity & Access Governance | Role-Based Access Control (RBAC) | Access Matrix Modelling
+Access Reviews & Compliance | Application Access Cataloguing | Okta & IAM Tools
+Cloud Security Controls | Stakeholder Engagement | Audit-Ready Documentation
+KEY PROJECT HIGHLIGHTS
+Global Access Governance Program – AIG Shared Services
+Led the setup and management of access controls across applications within AIG’s global IAM function.
+Maintained access catalogs, defined access responsibilities, and collaborated with app owners to align access standards.
+Developed RBAC models and created audit trails for internal compliance and external reviews.
+Supported internal audits and facilitated access rights reviews to ensure security posture.
+Access Review Optimisation – AIG Australia
+Conducted periodic reviews of access rights across systems including HR, Finance, and Insurance applications.
+Created access matrix models to map responsibilities and streamline user provisioning.
+Collaborated with InfoSec and Risk teams to implement improvements to access review workflows.
+CAREER SUMMARY
+Change Lead at Energy Australia | Jan 2025 – March 2025 
+Operations Program & Business Support at AIG Australia Limited | Jan 2020 – Oct 2024 
+IT Business Manager / Identity & Access Control Transition Lead at AIG | Nov 2011 – Oct 2018
+Process Improvement Leader at ACS Xerox | Jan 2010 – Nov 2011
+EDUCATION
+Bachelor of Information Technology | Kent University, 2025
+Cert IV in Security Networking | Danford Colleges, 2021
+Bachelor of Science in Marketing | Lyceum of Batangas University, 1998  
+TECHNICAL SKILLS
+Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online
+Cloud & DevOps: Azure (1.5 years' experience), Azure DevOps
+Programming & Development: JavaScript, SQL
+Project & Process Management: Agile, Waterfall, Business Process Automation
+Reporting & BI: Power BI, Data Analytics & Reporting
+IT Tools: Microsoft Project, SQL Studio, MS Visio
+PROFESSIONAL EXPERIENCE
+EnergyAustralia											Jan 2025 – Mar 2025 	
+Change Lead – Regulatory Compliance
+Delivered regulatory transformation initiatives across utilities operations, focusing on systems and process alignment with compliance mandates.
+Mapped business processes for compliance and field operations teams, supporting stakeholder-driven re-engineering efforts.
+Documented detailed requirements and user stories, coordinating with architects and implementation teams to validate system impacts.
+Organized and facilitated cross-functional workshops to ensure alignment across Operations and Compliance.
+Assisted project governance by maintaining risk logs, preparing steering committee briefs, and ensuring alignment with enterprise frameworks.
+Acted as a liaison between field operations, regulatory teams, and project stakeholders, ensuring consistent understanding and timely communication.
+AIG Australia Limited										Jan 2020 – Oct 2024 	
+Operations Program Lead and Business Support
+Supported access reviews and governance as part of broader compliance and data programs.
+Worked with application teams and risk stakeholders to audit user access and flag discrepancies.
+Developed internal dashboards to track access levels and RBAC mapping across critical applications.
+Collaborated on cloud security planning, ensuring alignment with access policies and onboarding protocols.
+Contributed to internal playbooks and user access documentation supporting compliance initiatives.
+AIG Shared Services										Jan 2011 – Dec 2018 	
+IT Business Manager / Identity & Access Control Transition Lead
+Managed access provisioning processes across enterprise applications and systems, including onboarding/offboarding workflows.
+Implemented and maintained RBAC structures, aligned to business functions and user responsibilities.
+Communicated with application administrators to streamline provisioning and reduce access friction.
+Defined access management policies, maintained access catalogues, and ensured role clarity across departments.
+Monitored IAM tool performance and provided inputs for enhancements in user lifecycle management.
+Supported global compliance reviews, working with audit teams to resolve gaps and maintain evidence logs.
+ACS Xerox											Jan 2010 – Nov 2011 	
+Process Improvement Leader
+Delivered business analysis and process improvement services for client support and digital transformation programs.
+Analysed workflows and system interactions, recommending process re-engineering to enhance service quality.
+Supported delivery of updated SOPs and training materials aligned to newly adopted technologies and workflows.
+Developed dashboards and status reports to track implementation readiness and success metrics.
+Participated in workshops to validate revised business processes and drive user adoption strategies.
+Collaborated closely with operational stakeholders to ensure requirements met both business logic and customer experience objectives.
+Referee details available on request

@@ -1,0 +1,59 @@
+Jayson Macasadia
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+## Executive Summary
+Strategic Portfolio and Governance Analyst with extensive experience in access control processes, compliance, and stakeholder management within financial services. Proven track record in improving security protocols and optimizing access models through advanced data analytics and reporting.
+
+## Areas of Expertise
+- **Access Control & Compliance**: Expertise in ensuring adherence to company policies through effective access control processes.
+- **Process Improvement & Transformation**: Skilled in Lean Six Sigma (Black Belt), operational excellence, and continuous improvement.
+- **Stakeholder Engagement & Communication**: Strong capabilities in liaising with application administrators and business leaders to streamline processes.
+- **Data Analytics & Reporting**: Advanced proficiency in Power BI, providing actionable insights for access management.
+- **Project & Process Management**: Experienced in Agile, Lean, and Waterfall methodologies.
+- **Technical Skills**: Proficient with Microsoft Power Platform, Cloud & DevOps using Azure, and IT Tools like Microsoft Project and MS Visio.
+
+## Professional Experience
+
+### Change Manager
+**Energy Australia | Jan 2025 – March 2025**
+- Managed change governance and program alignment focusing on regulatory and digital transformation portfolios.
+- Developed executive dashboards that enhanced milestone tracking and access management, directly supporting improved compliance and optimization initiatives.
+
+### Operations Program & Business Support
+**AIG Australia Limited | Jan 2020 – Oct 2024**
+- Delivered governance reporting and strategic insights directly to the COO, ensuring alignment with access control processes and compliance requirements.
+- Led the consolidation of reporting from multiple systems using Power BI, enhancing the maintenance of a comprehensive access catalog.
+
+### IT Business Manager
+**AIG | Nov 2011 – Oct 2018**
+- Supported access management through the maintenance of strategic portfolio dashboards that included milestone tracking and risk status, aligning with company-wide access control procedures.
+
+### Process Improvement Leader
+**ACS Xerox | Jan 2010 – Nov 2011**
+- Implemented process improvements that significantly enhanced operational compliance and monitoring frameworks, pertinent to access management and security protocols.
+
+## Education
+
+**Bachelor of Information Technology**
+Kent University, 2025
+
+**Cert IV in Security Networking**
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**
+Lyceum of Batangas University, 1998  
+
+## Certifications
+- **Lean Six Sigma Black Belt**
+- *(Relevant certifications like CISSP, CIAM, CAMS, CIMP, CIGE are encouraged to be listed if applicable)*
+
+## Technical Skills
+- **Cloud & DevOps**: Azure, Azure DevOps (1.5 years' experience)
+- **Programming & Development**: JavaScript, SQL
+- **Reporting & BI**: Power BI
+- **IT Tools**: Microsoft Project, SQL Studio, MS Visio
+
+## Professional Affiliations
+- *(List any relevant professional organizations)*
+
+> Note: This resume has been optimized based on the candidate’s actual experience in relation to the job description provided.

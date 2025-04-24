@@ -1,0 +1,67 @@
+**JAYSON MACASADIA**  
+**Identity Access Manager | IT Business Project Manager**  
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012  
+
+---
+
+**EXECUTIVE SUMMARY**  
+Experienced IT Business Project Manager with over 7 years of expertise in agile environments and a strong focus on access management and security. Proven track record in leading projects involving complex access control processes and tools such as Okta. Certified in CIAM, with deep knowledge in Access Matrix and RBAC models, adept at streamlining access management to enhance security protocols and ensure compliance with internal policies.
+
+**AREAS OF EXPERTISE**  
+- Identity and Access Management  
+- Agile Project Management  
+- Stakeholder Engagement  
+- Access Control Models (Access Matrix, RBAC)  
+- Compliance and Security Protocols  
+- Okta and Sailpoint Tools  
+- User Story Mapping & Acceptance Criteria  
+- Cloud & DevOps: Azure, Azure DevOps  
+
+**PROFESSIONAL EXPERIENCE**  
+
+**IT Business Project Manager**  
+**AIG**, Nov 2011 – Oct 2018  
+- Spearheaded the implementation of the Okta verification process across all machines, enhancing security measures and access control.  
+- Collaborated closely with application owners and business stakeholders to ensure seamless integration and compliance with company policies.  
+- Led access management projects, including defining responsibilities and optimizing access models using tools like Okta and Sailpoint.
+
+**Change Lead**  
+**Energy Australia**, Jan 2025 – March 2025  
+- Managed change initiatives, focusing on optimizing processes and integrating new access control systems to improve security and compliance.
+
+**Operations Program & Business Support**  
+**AIG Australia Limited**, Jan 2020 – Oct 2024  
+- Supported operations in implementing and managing access control processes, ensuring alignment with internal security policies and standards.
+
+**Process Improvement Leader**  
+**ACS Xerox**, Jan 2010 – Nov 2011  
+- Led process optimization projects that included enhancements to access and identity management systems, improving efficiency and compliance.
+
+**EDUCATION**  
+**Bachelor of Information Technology**  
+Kent University, 2025  
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021  
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+**CERTIFICATIONS**  
+- Certified Identity Access Manager (CIAM)  
+
+**TECHNICAL SKILLS**  
+- Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online  
+- Programming & Development: JavaScript, SQL  
+- Project & Process Management: Agile, Waterfall, Business Process Automation  
+- Reporting & BI: Power BI, Data Analytics & Reporting  
+
+**KEY ACHIEVEMENTS**  
+- Successfully led the deployment of the Okta verification process at AIG, significantly enhancing machine and network security.  
+- Developed and optimized access control models, including RBAC and Access Matrix, to streamline permissions and improve compliance rates.  
+
+---  
+
+**ADDITIONAL INFORMATION**  
+- Experienced in defining and maintaining comprehensive access catalogs and developing access management processes across various company resources.  
+- Conducted periodic reviews of access rights and monitored the functionality of access management systems to ensure ongoing effectiveness and compliance.

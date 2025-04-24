@@ -1,0 +1,72 @@
+**Jayson Macasadia**  
+Agile Business Analyst | User Story Design | Digital & Product Delivery  
+Phone: 0432 241 891 | Email: jmcasadia@gmail.com | LinkedIn: www.linkedin.com/in/jayson-macasadia-00aa7132a/  
+Location: VIC 3012
+
+---
+
+**EXECUTIVE SUMMARY**  
+Proactive Business Analyst with over 7 years of experience in Agile environments, specializing in digital product delivery and access management. Demonstrates strong problem-solving and analytical skills with a robust understanding of access control models, including RBAC and Access Matrix. Experienced in collaborating with cross-functional teams to optimize access models and ensure compliance with internal policies.
+
+**AREAS OF EXPERTISE**  
+- Agile Business Analysis  
+- Stakeholder Engagement  
+- Access Management  
+- User Story Mapping & Acceptance Criteria  
+- Sprint Planning & Retrospectives  
+- Digital Product Delivery  
+- Web, Mobile & Backend Integration Support  
+- Cross-Team Collaboration  
+- Business Requirements Gathering  
+- Story Validation & UAT Coordination  
+
+**KEY PROJECT HIGHLIGHTS**  
+
+**OneView (Tagging) Labelling Solution – Agile Squad Delivery**  
+- Collaborated with stakeholders from marketing, operations, and product teams to define access and authentication requirements for an electronic shelf label rollout.  
+- Authored user stories and acceptance criteria, optimizing access management under tight timelines.  
+- Engaged daily with QA and developers to ensure feature validation and compliance with access management protocols.  
+
+**L&D Web-based Application Rollout – Learning & Development Product**  
+- Led the development of a web-based application focusing on user access management and compliance with internal policies.  
+- Maintained comprehensive access catalogs and defined access responsibilities in Jira and Confluence.  
+- Conducted regular reviews of access rights and improved security protocols through agile methodologies.
+
+**CAREER SUMMARY**  
+
+**Change Lead, Energy Australia**  
+January 2025 – March 2025  
+
+**Operations Program & Business Support, AIG Australia Limited**  
+January 2020 – October 2024  
+
+**IT Business Project Manager, AIG**  
+November 2011 – October 2018  
+
+**Process Improvement Leader, ACS Xerox**  
+January 2010 – November 2011  
+
+**EDUCATION**  
+
+**Bachelor of Information Technology**  
+Kent University, Expected 2025  
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021  
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+**TECHNICAL SKILLS**  
+- Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online  
+- Cloud & DevOps: Azure (1.5 years' experience), Azure DevOps  
+- Programming & Development: JavaScript, SQL  
+- Project & Process Management: Agile, Waterfall, Business Process Automation  
+- Reporting & BI: Power BI, Data Analytics & Repo  
+
+**CERTIFICATIONS**  
+- (List any relevant certifications here, if applicable)  
+
+---  
+
+*Note: Ensure all dates, certifications, and details are verified and current as per the actual credentials of Jayson Macasadia.*

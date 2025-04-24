@@ -1,0 +1,70 @@
+**JAYSON MACASADIA**  
+**Identity Access Manager | Agile Business Analyst**  
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012  
+
+---
+
+**EXECUTIVE SUMMARY**  
+Accomplished Identity Access Manager and Business Analyst with over 7 years of experience in fast-paced digital environments, specializing in managing access control processes and optimizing security protocols. Demonstrated expertise in Agile methodologies, stakeholder engagement, and translating complex requirements into actionable solutions. Proven track record of implementing robust access management tools, including Okta, and ensuring compliance with internal policies.
+
+**AREAS OF EXPERTISE**  
+- Identity Access Management  
+- Agile Business Analysis  
+- Access Control Models (Access Matrix, RBAC)  
+- Stakeholder Engagement  
+- Compliance and Security Protocols  
+- User Story Mapping & Acceptance Criteria  
+- Sprint Planning & Retrospectives  
+- Digital Product Delivery  
+- Web, Mobile & Backend Integration Support  
+- Cross-Team Collaboration  
+- Business Requirements Gathering  
+- Story Validation & UAT Coordination  
+
+**KEY PROJECT HIGHLIGHTS**  
+
+**Implemented OKTA Verification Process**  
+- Spearheaded the integration of Okta for streamlined identity verification, enhancing security measures and access control efficiency.  
+- Collaborated with IT and security teams to ensure alignment with global access control standards.  
+
+**OneView (Tagging) Labelling Solution – Agile Squad Delivery**  
+- Partnered with cross-functional stakeholders to define and implement business-critical access control requirements for electronic shelf label rollout.  
+- Authored detailed user stories and acceptance criteria, significantly improving sprint delivery timelines and compliance with security policies.  
+
+**L&D Web-based Application Rollout – Learning & Development Product**  
+- Led the development and maintenance of robust access management processes for a new web-based application, enhancing user access compliance and security.  
+- Conducted comprehensive reviews of access rights and maintained a detailed access catalog to ensure continuous alignment with internal policies.  
+
+**CAREER SUMMARY**  
+
+**Change Lead | Energy Australia**  
+Jan 2025 – March 2025  
+
+**Operations Program & Business Support | AIG Australia Limited**  
+Jan 2020 – Oct 2024  
+
+**IT Business Project Manager | AIG**  
+Nov 2011 – Oct 2018  
+
+**Process Improvement Leader | ACS Xerox**  
+Jan 2010 – Nov 2011  
+
+**EDUCATION**  
+
+**Bachelor of Information Technology**  
+Kent University, 2025  
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021  
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+**TECHNICAL SKILLS**  
+- **Access Management Tools:** Okta  
+- **Cloud & DevOps:** Azure (1.5 years' experience), Azure DevOps  
+- **Programming & Development:** JavaScript, SQL  
+- **Project & Process Management:** Agile, Waterfall, Business Process Automation  
+- **Reporting & BI:** Power BI, Data Analytics & Reporting  
+
+---

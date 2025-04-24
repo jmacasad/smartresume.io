@@ -1,0 +1,59 @@
+```
+Jayson Macasadia
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+
+## Executive Summary
+Detail-oriented Business Solution Analyst with extensive experience in identity access management, specifically in the implementation of OKTA verification processes. Expert in managing end-to-end technology implementations, improving operational workflows, and ensuring compliance with company policies. Skilled in coordinating with application administrators and optimizing access control models like RBAC for enhanced security protocols.
+
+## Areas of Expertise
+- Identity Access Management
+- Process Improvement & Transformation
+- Project Management
+- Regulatory Compliance
+- Access Control Models (Access Matrix, RBAC)
+- OKTA Access Management Tools
+- Cross-functional Leadership
+- Business Analysis
+- Workshop Facilitation
+- Change Management
+- Risk Management
+
+## Professional Experience
+
+### Access Provisioning Manager at AIG Australia
+**Jan 2020 – Oct 2024**
+- Led the rollout of the OKTA verification process, significantly enhancing identity access management capabilities.
+- Developed and maintained a comprehensive access catalog and defined access responsibilities across various company resources.
+- Optimized access models, including RBAC, improving security protocols and compliance with internal policies.
+- Coordinated with application administrators to streamline access management processes, ensuring efficient operation and compliance.
+- Conducted periodic reviews of access rights and monitored access management functionality to maintain security standards.
+
+### IT Business Project Manager at AIG
+**Nov 2011 – Oct 2018**
+- Translated strategic business needs into functional and technical requirements, enhancing system security and operational efficiency.
+- Led workshops with key business units to prioritize requirements related to access control and security enhancements.
+
+### Process Improvement Leader at ACS Xerox
+**Jan 2010 – Nov 2011**
+- Implemented process improvements that directly supported enhanced compliance and security measures within technology solutions.
+
+## Education
+
+**Bachelor of Information Technology**
+Kent University, Expected 2025
+
+**Cert IV in Security Networking**
+Danford Colleges, 2021
+
+## Key Projects
+
+### Regulatory System Transformation – EnergyAustralia
+- Supported digital tool upgrades and system security enhancements, aligning with strict regulatory compliance requirements.
+
+### CRM & Operational Platform Uplift – AIG Australia
+- Enhanced CRM and back-office systems to support better access control and security measures, improving overall system usage and data accuracy.
+
+---
+
+*Note: Currently pursuing relevant certifications in identity and access management to further enhance expertise in the field.*
+```

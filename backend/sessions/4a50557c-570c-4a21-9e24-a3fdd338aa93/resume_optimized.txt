@@ -1,0 +1,61 @@
+```markdown
+JAYSON MACASADIA
+Agile Business Analyst | User Story Design | Digital & Product Delivery            
+Contact: 0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+## EXECUTIVE SUMMARY	
+Proactive and delivery-focused Business Analyst with over 7 years of experience in Agile environments, specializing in digital product delivery and stakeholder engagement. Demonstrated ability to develop and optimize access management processes, ensuring compliance with security and business policies, with proficiency in using access management tools including Okta.
+
+## AREAS OF EXPERTISE
+- **Access Management & Security**
+- **Agile Business Analysis**
+- **Stakeholder Engagement**
+- **Digital Product Delivery**
+- **Cross-Team Collaboration**
+- **Business Requirements Gathering**
+
+## PROFESSIONAL EXPERIENCE
+
+**IT Business Project Manager**  
+AIG, Nov 2011 – Oct 2018
+- Managed access control processes, ensuring efficient access management across various company resources, significantly improving security protocols.
+- Developed and optimized access management processes using Okta, enhancing user access governance and compliance with internal policies.
+- Conducted periodic reviews of access rights and monitored access management functionality to ensure optimal operation and security compliance.
+
+**Change Lead**  
+Energy Australia, Jan 2025 – March 2025
+- Coordinated with application administrators to streamline access management, contributing to the development of a robust access catalog and defining access responsibilities.
+
+**Operations Program & Business Support**  
+AIG Australia Limited, Jan 2020 – Oct 2024
+- Communicated with key stakeholders to gather requirements and ensure alignment with enterprise access control models including RBAC (Role-Based Access Control).
+
+## KEY PROJECT HIGHLIGHTS
+
+**OneView (Tagging) Labelling Solution – Agile Squad Delivery**
+- Partnered with cross-functional teams to define business-critical requirements, focusing on security and access control for a rapid electronic shelf label rollout.
+
+**L&D Web-based Application Rollout – Learning & Development Product**
+- Led the development and implementation of access management processes for a new web-based application, enhancing security and compliance.
+
+## EDUCATION
+
+**Bachelor of Information Technology**  
+Kent University, 2025
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+## TECHNICAL SKILLS
+- **Access Management Tools:** Okta
+- **Cloud Technologies:** Azure (1.5 years' experience), Azure DevOps
+- **Programming & Development:** JavaScript, SQL
+- **Project & Process Management:** Agile, Waterfall, Business Process Automation
+- **Reporting & BI:** Power BI
+
+## CERTIFICATIONS
+- CISP (Certified Information Security Professional)
+```

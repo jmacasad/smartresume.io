@@ -1,0 +1,54 @@
+**Jayson Macasadia**  
+VIC 3012  
+0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/)  
+
+---
+
+### **Executive Summary**
+Results-driven professional with over 10 years of experience in process improvement, regulatory compliance, and risk management. Proficient in developing and managing access control processes, maintaining access catalogs, and defining access responsibilities across multiple platforms. Expertise in data analytics, reporting, and optimizing access models within financial and technology sectors.
+
+### **Key Skills**
+- **Access Management**: Proficient in managing and optimizing access control processes and tools.
+- **Data Analytics & Reporting**: Advanced skills in Power BI, SQL Studio, and Microsoft Power Platform.
+- **Project & Process Management**: Extensive background in Agile, Waterfall, and Business Process Automation.
+- **Technical Skills**: Cloud & DevOps (Azure, Azure DevOps), Microsoft Project, MS Visio.
+
+### **Professional Experience**
+
+**Change Manager**  
+Energy Australia, Melbourne  
+January 2025 - March 2025
+- Coordinated with application administrators to streamline access management processes.
+- Developed comprehensive access catalogs and defined access roles and responsibilities.
+- Conducted periodic reviews to monitor and ensure compliance with internal policies.
+
+**Operations Program & Business Support**  
+AIG Australia Limited, Melbourne  
+January 2020 - October 2024
+- Managed and organized access control processes for regulatory and digital transformation portfolios.
+- Maintained strategic portfolio dashboards tracking access rights and compliance statuses.
+- Led the transition and consolidation of access management tools to optimize operational efficiency.
+
+**IT Business Manager**  
+AIG, Melbourne  
+November 2011 - October 2018
+- Collaborated with cross-functional teams to support delivery and compliance across IT infrastructure.
+- Implemented and maintained robust access management processes to secure company resources.
+
+### **Education**
+
+**Bachelor of Information Technology**  
+Kent University, 2025
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+### **Certifications**
+- CISSP (Certified Information Systems Security Professional) – Pending
+
+---
+
+Jayson's experience in managing access control processes and his proficiency with tools like Azure and Power BI make him a strong candidate for the Identity Access Manager position. His strategic oversight in past roles demonstrates his ability to ensure compliance and optimize access models effectively.

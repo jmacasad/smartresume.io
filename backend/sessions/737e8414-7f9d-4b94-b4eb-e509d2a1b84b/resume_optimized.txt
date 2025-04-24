@@ -1,0 +1,63 @@
+```markdown
+JAYSON MACASADIA
+Agile Business Analyst | Digital & Product Delivery            
+Contact: 0432 241 891 | jmcasadia@gmail.com | [LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/) | VIC 3012
+
+---
+
+## EXECUTIVE SUMMARY
+Proactive Business Analyst with over 7 years of experience in Agile environments, specializing in stakeholder engagement, requirement analysis, and cross-functional team collaboration. Demonstrated expertise in digital product delivery and user story design, with a strong focus on optimizing operational processes and compliance in fast-paced settings. Experienced in managing access control processes and working closely with application administrators, ensuring efficient access management and compliance with internal policies.
+
+## AREAS OF EXPERTISE
+- **Agile Business Analysis**
+- **Stakeholder Engagement**
+- **Access Control Management**
+- **Cross-Team Collaboration**
+- **Business Requirements Gathering**
+- **Digital Product Delivery**
+- **Cloud Technologies & DevOps**
+
+## KEY PROJECT HIGHLIGHTS
+
+**OneView (Tagging) Labelling Solution – Agile Squad Delivery**
+- Collaborated across marketing, operations, and product teams to define access and business requirements for a rapid electronic shelf label rollout.
+- Authored detailed user stories and acceptance criteria, aligning with access control needs to enable optimized access models.
+
+**L&D Web-based Application Rollout – Learning & Development Product**
+- Led the development team in defining user needs and functional specifications for a new web-based application, focusing on streamlined access management.
+- Managed comprehensive access catalogs and defined access responsibilities, improving security protocols through detailed documentation in Confluence and Jira.
+
+## CAREER SUMMARY
+
+**Change Lead**  
+Energy Australia | Jan 2025 – March 2025 
+
+**Operations Program & Business Support**  
+AIG Australia Limited | Jan 2020 – Oct 2024 
+
+**IT Business Project Manager**  
+AIG | Nov 2011 – Oct 2018
+
+**Process Improvement Leader**  
+ACS Xerox | Jan 2010 – Nov 2011
+
+## EDUCATION
+**Bachelor of Information Technology**  
+Kent University, 2025
+
+**Cert IV in Security Networking**  
+Danford Colleges, 2021
+
+**Bachelor of Science in Marketing**  
+Lyceum of Batangas University, 1998  
+
+## TECHNICAL SKILLS
+- **Cloud & DevOps:** Azure (1.5 years' experience), Azure DevOps
+- **Project & Process Management:** Agile, Business Process Automation
+- **Access Management Tools:** Familiar with Okta and similar platforms
+
+## CERTIFICATIONS
+- **Relevant Certifications:** CISSP (Planned), CIAM (Planned)
+
+```
+This reformatted and optimized resume focuses on highlighting Jayson's relevant experience and skills that align with the job description for an Identity Access Manager. It emphasizes his expertise in access control management, stakeholder engagement, and digital product delivery within Agile frameworks, suitable for the position in a fintech environment.
