@@ -1,0 +1,65 @@
+# Executive Summary
+Accomplished People Analytics professional with over a decade of experience in data analytics, HR systems, and project management. Proven track record in leading successful implementations of analytics solutions, managing global teams, and delivering data-driven insights. Skilled in requirements gathering, scoping, and configuring HR data systems to enhance business decision-making. Adept at collaborating with cross-functional teams to drive process improvements and ensure seamless data integration.
+
+# Areas of Expertise
+- People Analytics Implementation
+- Project Management & Coordination
+- Data Engineering & Integration
+- Global Team Collaboration
+- HR Data Systems (Workday, SuccessFactors)
+- Requirements Gathering & Documentation
+- Scoping & Configuration
+- Data Visualization & Storyboarding
+- Smartsheet Project Planning
+- Customer Onboarding & Training
+- Zendesk & JIRA Support Management
+
+# Key Achievements
+- Led a Mulesoft-based risk & claims data integration, achieving 100% data accuracy and a 40% increase in dashboard adoption.
+- Spearheaded a Workday ERP rollout, enhancing HR insights through custom analytics reports.
+- Implemented a Data Quality & Governance Framework, resulting in a 100% compliance audit pass rate.
+- Managed a 6-month claims redesign schedule, ensuring 100% on-time delivery and meeting all contractual obligations.
+
+# Career Summary
+## Education
+- Bachelor of Information Technology | Kent University (2025)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+
+## Certification
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+## Technical Skills
+- Microsoft 365 | SharePoint | Microsoft Intune | Azure AD | Conditional Access Policies | Office 365 | ServiceNow | Power BI | Jira | Visio | Miro
+
+## Professional Experience
+### EnergyAustralia | Change Manager | Jan 2025 – Mar 2025
+- Led change delivery for regulatory transformation, ensuring alignment with internal processes and successful branding configuration.
+- Coordinated Smartsheet setup for project plans, ensuring effective change management and stakeholder engagement.
+- Partnered with analytics teams to develop storyboards and visual dashboards, tracking project compliance and adoption metrics.
+- Facilitated cross-functional collaboration with global teams, aligning regulatory objectives with business strategies.
+- Developed and maintained project schedules, meeting milestones as per contractual obligations.
+
+### AIG Australia Limited | Data and Reporting Governance Lead | Jan 2020 – Oct 2024
+- Delivered end-to-end reporting solutions, including requirements gathering and documentation for data projects.
+- Conducted detailed data audits, supporting data engineering efforts to maintain HRIS data integrity.
+- Developed actionable reports and visual dashboards using SQL and Power BI, translating technical data requirements for diverse user groups.
+- Collaborated with IT to implement data models, including setup and configuration of HR data systems like Workday and SuccessFactors.
+- Advised on stakeholder data needs, leading scoping sessions for data integration projects.
+
+### AIG Shared Services | Operations Analyst – Workforce & Project Reporting | Jan 2011 – Dec 2018
+- Oversaw reporting processes, including the setup and review of data access roles and application testing.
+- Created automated Excel dashboards, contributing to the setup of reporting tools and data visualization efforts.
+- Supported project and operational teams in aligning reporting tools with business planning cycles and global collaboration.
+- Worked with IT and HR to improve process transparency, including the documentation and configuration of reporting standards.
+- Contributed to the development of governance reporting templates, enhancing knowledge management and product documentation.
+
+### ACS Xerox | Process Improvement Leader | Jan 2010 – Nov 2011
+- Facilitated call center transformation, introducing a real-time performance dashboard for agent productivity.
+- Partnered with operations to design training rollout strategies, aligning with customer onboarding and implementation tools.
+- Implemented process improvements, utilizing tools like Zendesk for support management and customer service optimization.
+
+# Availability
+Available immediately | Open to business readiness and change implementation role
+Referee details available on request

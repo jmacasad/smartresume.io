@@ -1,0 +1,8 @@
+**Alignment Summary:** The candidate's resume as a Senior Change Analyst and Transformation Lead demonstrates strong experience in driving enterprise-wide change initiatives, stakeholder engagement, and facilitating end-to-end user adoption. While the resume showcases skills in business readiness, process mapping, and Agile project environments, there are notable gaps in direct experience related to identity access management, access control models, and access management tools like Okta as outlined in the job description for the Identity Access Manager role. To improve alignment, the candidate should highlight any previous experience or certifications related to access control processes and tools, emphasizing their ability to manage access models and ensure compliance with company policies in a technical security context.
+
+**Clarification Questions:**
+1. Can you provide specific examples of projects where you directly managed access control processes or worked with access management tools such as Okta?
+2. Have you led any initiatives focused on defining access rules or optimizing access models within your previous roles?
+3. Do you have any experience collaborating with IT security teams or implementing access management processes for various company resources in your past projects?
+4. Have you obtained any certifications or training related to access control models, such as RBAC, CISSP, or other relevant certifications mentioned in the job description?
+5. Can you quantify the impact of your change initiatives on improving security protocols or ensuring compliance with internal policies within the organizations you have worked for?

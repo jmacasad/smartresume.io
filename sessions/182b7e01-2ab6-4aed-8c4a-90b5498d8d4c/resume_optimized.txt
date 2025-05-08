@@ -1,0 +1,59 @@
+# JAYSON MACASADIA
+
+## Summary:
+Results-oriented Senior Business Analyst with over 10 years of experience in business transformation, enterprise reporting, and ERP implementation across diverse industries. Skilled in stakeholder engagement, requirements gathering, and driving operational efficiency. Proficient in aligning business processes with system specifications to achieve strategic objectives.
+
+## Skills:
+- Business Transformation & Reporting Strategy
+- ERP Implementation Support
+- Stakeholder Engagement
+- Requirements Gathering & Functional Specification
+- Dashboard & Report Design
+- Workshop Facilitation
+- Testing & UAT Management
+- Centralised Reporting Frameworks
+- Change Enablement & End-User Support
+- Power BI | Microsoft 365 | SharePoint | Office 365 | ServiceNow | Visio | Jira | Confluence
+
+## Professional Experience:
+
+### EnergyAustralia (Jan 2025 – Mar 2025)
+**Change Manager – External Regulatory Changes**
+- Led requirements gathering and feasibility studies for key change initiatives, ensuring alignment with operational needs.
+- Transformed business processes into system specifications, enhancing efficiency and compliance.
+- Collaborated cross-functionally to assess technical impacts, propose enhancements, and drive system improvements.
+- Guided stakeholders through solution design outcomes, fostering understanding and user adoption.
+
+### AIG Australia Limited (Jan 2020 – Oct 2024)
+**IT and Operations - Business Support**
+- Supported ERP implementation for Finance and HR systems, gathering requirements and documenting process flows.
+- Authored business and functional requirements, ensuring seamless system integration and operational alignment.
+- Coordinated end-to-end testing phases, including UAT cycles and resolution tracking for stakeholder satisfaction.
+- Provided hands-on support for transitioning dashboards to Power BI, enhancing reporting capabilities.
+
+### AIG Shared Services (Jan 2011 – Dec 2018)
+**ICT Business Analyst & Technical Support Lead**
+- Facilitated reporting enhancements within shared services, focusing on HR and compliance functions.
+- Designed future-state operating models, contributing to improved reporting efficiency and data quality.
+- Coordinated testing activities and provided end-user support post-implementation, ensuring smooth transitions.
+- Developed insights aligned with operating model redesign objectives, enhancing overall reporting processes.
+
+## Education & Certification:
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+## Technical Skills:
+- Microsoft 365 | SharePoint | Microsoft Intune | Azure AD | Conditional Access Policies | Office 365 | ServiceNow | Power BI | Jira | Visio | Miro
+
+## Training & Development:
+- Microsoft 365 & Power BI Reporting (Internal Uplift)
+- Fundamentals of Agile Business Analysis (Short Course)
+- Fundamentals of Cybersecurity (Self-paced)
+- Exposure to ACSC Essential 8 & ITIL v4 practices
+
+## Availability:
+Available immediately | Open to business readiness and change implementation role
+Referee details available on request

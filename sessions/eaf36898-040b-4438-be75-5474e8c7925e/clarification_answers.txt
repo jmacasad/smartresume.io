@@ -1,0 +1,4 @@
+- I have led the development of online mandatory training via SucessFactor
+- I have led the implementation of Workday at AIG Australia. This project works closely with HR data management system such as payroll, training, and performance reports.
+- yes
+- Yes, post implementation we have seen an increase on our HR and Operations data quality.

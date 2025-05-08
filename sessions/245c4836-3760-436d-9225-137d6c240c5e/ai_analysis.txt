@@ -1,0 +1,9 @@
+**Alignment Summary:**
+The candidate's resume showcases a strong background in program and change management within the insurance and energy sectors, demonstrating experience in leading transformation initiatives and managing cross-functional teams. The resume aligns well with the job description's emphasis on project management, stakeholder engagement, and operational efficiency. However, there are notable gaps in direct experience as an ICT Business Analyst and specific skills such as business process modelling, system design, and Agile methodologies. To enhance alignment, the candidate should consider highlighting any prior experience in IT systems analysis, showcasing proficiency in relevant tools like JIRA or Confluence, and emphasizing skills in business process re-engineering and system design.
+
+**Clarification Questions:**
+1. Can you provide specific examples of projects where you were directly involved in business process modelling or system design within an ICT environment?
+2. How have you utilized Agile methodologies and project management tools like JIRA, Confluence, or Trello in your previous roles to drive project success?
+3. Have you had any experience collaborating with IT development teams to translate business requirements into functional and technical specifications for IT solutions? If so, can you quantify the impact of your contributions on project outcomes?
+4. Could you elaborate on your familiarity with business intelligence and data analysis platforms/tools mentioned in the job description and how you have leveraged them in your past roles?
+5. Can you provide more details on your experience managing cross-functional project teams, especially in terms of coordinating remote or offshore resources, and how you ensured alignment with business objectives in those instances?

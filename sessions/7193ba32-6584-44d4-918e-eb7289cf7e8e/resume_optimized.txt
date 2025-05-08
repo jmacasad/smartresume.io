@@ -1,0 +1,65 @@
+# Executive Summary
+Dynamic and results-driven Change Manager with a proven track record of leading regulatory transformation initiatives. Skilled in data and reporting governance, with a strong background in workforce and project reporting. Adept at collaborating with cross-functional teams to drive operational efficiency and compliance.
+
+# Areas of Expertise
+- Change Management
+- Data Governance
+- Reporting Solutions
+- Process Improvement
+- Stakeholder Engagement
+
+# Key Achievements
+- Led change delivery for government-mandated regulatory transformation initiatives, ensuring alignment between regulatory objectives and internal business processes.
+- Delivered end-to-end reporting solutions to support actuarial, finance, claims underwriting, and operational efficiency at AIG Australia Limited.
+- Facilitated call center transformation using Lean Six Sigma at ACS Xerox, resulting in a 10% cost reduction and improved customer satisfaction scores.
+
+# Career Summary
+**Education**
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+# Technical Skills
+- Microsoft 365
+- SharePoint
+- Microsoft Intune
+- Azure AD
+- Conditional Access Policies
+- Office 365
+- ServiceNow
+- Power BI
+- Jira
+- Visio
+- Miro
+
+# Professional Experience
+
+**EnergyAustralia**
+*Change Manager | Jan 2025 – Mar 2025*
+- Led change delivery for government-mandated regulatory transformation initiatives across operations and digital platforms.
+- Coordinated change readiness, training, and communications for regulatory implementation.
+- Partnered with analytics and reporting teams to track project compliance and adoption metrics.
+**[Global Team Collaboration]** **[HR Data Systems]**
+
+**AIG Australia Limited**
+*Data and Reporting Governance Lead | Jan 2020 – Oct 2024*
+- Delivered end-to-end reporting solutions to support various business functions.
+- Developed actionable reports and visual dashboards for executive teams.
+- Collaborated with business leaders and IT to implement data models supporting capital works and office safety planning.
+**[Data Engineering]** **[Requirements Gathering]** **[Zendesk]**
+
+**AIG Shared Services**
+*Operations Analyst – Workforce & Project Reporting | Jan 2011 – Dec 2018*
+- Oversaw reporting processes related to project resource tracking and cost center performance.
+- Created automated Excel dashboards to report on workforce planning KPIs.
+- Supported project and operational teams in aligning reporting tools with business planning cycles.
+**[Setup]** **[Storyboard]** **[Smartsheet]**
+
+**ACS Xerox**
+*Process Improvement Leader | Jan 2010 – Nov 2011*
+- Facilitated call center transformation using Lean Six Sigma.
+- Introduced a real-time performance dashboard to monitor and improve agent productivity.
+- Partnered with operations to design training rollout strategies.
+**[Configuration]** **[Scoping]** **[Zendesk]**

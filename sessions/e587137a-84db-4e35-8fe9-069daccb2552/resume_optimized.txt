@@ -1,0 +1,59 @@
+# Executive Summary
+Dynamic People Analytics Implementation Lead with a proven track record of successful project management and customer enablement. Skilled in HR data systems, business intelligence, and machine learning, driving insights and implementing statistical models for business use cases.
+
+# Areas of Expertise
+- Customer Enablement
+- HR Data Systems
+- Business Intelligence
+- Machine Learning
+- Project Schedule Management
+- Scoping Discussions
+- Statistical Modeling
+- Smartsheet
+- JIRA
+- Zendesk
+
+# Key Achievements
+- Led Workday ERP rollout at AIG, managing data migration and building custom Power BI reports.
+- Designed ETL workflows for Mulesoft data integration pipelines, ensuring 100% accuracy.
+- Boosted report adoption by 85% and cut preparation time by 50% through Smartsheet analytics at EnergyAustralia.
+
+# Career Summary
+## Education
+- Bachelor's Degree in [Your Field of Study]
+
+## Certification
+- [Relevant Certification]
+
+# Technical Skills
+- Customer Enablement
+- HR Data Systems
+- Business Intelligence
+- Machine Learning
+- Project Schedule Management
+- Scoping Discussions
+- Statistical Modeling
+- Smartsheet
+- JIRA
+- Zendesk
+
+# Professional Experience
+## EnergyAustralia
+**Change Lead – Regulatory Compliance**
+- Implemented Smartsheet for workforce analytics, cutting preparation time by 50%.
+- Utilized JIRA for project governance and risk management.
+
+## AIG Australia Limited
+**Operations Program Lead and Business Support**
+- Conducted scoping discussions with stakeholders to gather requirements for data projects.
+- Utilized Zendesk for customer validation support and troubleshooting.
+
+## AIG Shared Services
+**IT Business Project Manager / Business Analyst**
+- Managed project schedules to ensure timely implementation of new datasets.
+- Collaborated with cross-functional teams to support new product rollouts.
+
+## ACS Xerox
+**Process Improvement Leader**
+- Engaged in intellectual curiosity to drive process re-engineering efforts.
+- Utilized statistical models to track implementation readiness and success metrics.

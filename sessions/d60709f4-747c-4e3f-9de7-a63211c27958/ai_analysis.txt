@@ -1,0 +1,7 @@
+**Alignment Summary:**
+The candidate's resume showcases a solid background in program and change management within the insurance and energy sectors, highlighting experience in regulatory change, stakeholder engagement, and operational efficiency. The resume demonstrates expertise in leading transformation initiatives, managing cross-functional teams, and implementing governance frameworks to drive compliance and operational excellence. However, there are notable gaps in direct experience as an ICT Business Analyst, particularly in tasks related to business process mapping, system design, and detailed technical specifications. To enhance alignment with the job description, the candidate could benefit from emphasizing specific experiences related to business analysis, process modelling, and Agile methodologies.
+
+**Clarification Questions:**
+1. Can you provide specific examples of your involvement in gathering and documenting business requirements, mapping business processes, and analysing system performance to showcase your experience in these key areas?
+2. How have you collaborated with IT teams to translate business needs into functional and technical specifications for IT solutions in your previous roles? Can you quantify the impact of these collaborations on project outcomes?
+3. Have you directly led any projects involving system design, development, and implementation, ensuring alignment with strategic goals and timely delivery? If so, how did you manage the project lifecycle and coordinate testing to ensure system functionality and quality?

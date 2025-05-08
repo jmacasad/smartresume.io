@@ -1,0 +1,74 @@
+# JAYSON MACASADIA
+
+## Summary:
+Results-driven Identity Access Manager with over 6 years of experience in coordinating access control processes, defining access rules, and optimizing access models. Skilled in managing application administrators, maintaining access catalogs, and ensuring compliance with company policies. Proficient in Access Matrix, RBAC, Okta, Azure AD, and ServiceNow.
+
+## Skills:
+- Access Control Processes Management
+- Access Rules Definition
+- Access Catalog Maintenance
+- Compliance Enforcement
+- Access Models Optimization (Access Matrix, RBAC)
+- Application Administrator Communication
+- Okta, Azure AD, ServiceNow
+- Security Protocols Improvement
+
+## Professional Experience:
+
+### EnergyAustralia
+*Change Manager*
+Jan 2025 – Mar 2025
+
+- Developed and delivered change and communication strategies for system upgrades and new tech rollouts, leading to improved user engagement metrics.
+- Created tailored messaging aligned with IT project milestones, resulting in enhanced stakeholder engagement.
+- Led feedback survey design and impact assessments, improving adoption rates.
+- Supported senior leadership presentations by storyboarding data and technical changes into clear messages.
+
+### AIG Australia Limited
+*Program Manager – Business Transformation & ICT Projects*
+Jan 2020 – Oct 2024
+
+- Managed a portfolio of enterprise system enhancements and ICT infrastructure upgrades under hybrid methodologies, resulting in improved operational efficiency.
+- Facilitated requirements workshops and oversaw solution implementation, translating technical needs effectively.
+- Produced risk registers and benefit realisation plans for audit and compliance review, ensuring regulatory compliance.
+- Monitored progress using Microsoft Project and produced executive-ready communications and reports.
+
+### AIG Shared Services
+*ICT Projects & Operations Lead – Shared Services APAC*
+Jan 2011 – Dec 2018
+
+- Managed technology transition projects including end-user computing refresh and process reengineering, ensuring seamless operational handover.
+- Coordinated rollouts, vendor schedules, and change readiness with global teams, enhancing cross-functional collaboration.
+- Implemented lessons learned tracking and continuous improvement activities, driving operational excellence.
+
+### ACS Xerox
+*Process Improvement Leader*
+Jan 2010 – Nov 2011
+
+- Facilitated call centre transformation using Lean Six Sigma, resulting in a 10% cost reduction and improved customer satisfaction scores.
+- Introduced a real-time performance dashboard to monitor and improve agent productivity, enhancing operational efficiency.
+- Partnered with operations to design training rollout strategies, achieving 100% compliance with updated process standards.
+
+## Education & Certification:
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+## Technical Skills:
+- Microsoft 365
+- SharePoint
+- Microsoft Intune
+- Azure AD
+- Conditional Access Policies
+- Office 365
+- ServiceNow
+- Power BI
+- Jira
+- Visio
+- Miro
+
+## Availability:
+Available immediately | Open to business readiness and change implementation role
+Referee details available on request

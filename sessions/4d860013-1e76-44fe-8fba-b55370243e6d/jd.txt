@@ -1,0 +1,57 @@
+Job Title: People Analytics Implementation Lead
+
+People Analytics Implementation Lead
+Australia (remote)
+The Position
+
+One Model is experiencing fast growth as a leading vendor in the growing people analytics space. We are seeking someone with a People Analytics background to onboard and support our growing customer base through their data integration, analytics and insights journey.
+
+ 
+
+Responsibilities
+
+Lead new customers through initial setup of One Model application, including but not limited to:
+Branding, user/role set-up and other application wide configuration
+Smartsheet set up and review for Project Plans, Requirements
+Delivery of standardized customer enablement/training
+Responsible for leading customers through timely, successful implementation of new datasets and/or data projects, including but not limited to:
+Support and coordination of One Model data engineering resources to acquire, configure, and test the integration of new data
+Requirements gathering, documentation, and review
+Metric and storyboard build
+Application and Data Access Role review/testing
+Customer validation support and troubleshooting
+Support with customer driven UAT and deployment
+Create, maintain and support project schedules to ensure milestones are met on time as per contractual obligations
+Lead scoping discussions around new data project requests to assess customer requirements and provide internal effort
+Support broader delivery team with upgrading and maintaining delivery related documents
+Support cross-functional project work related to new products and implementation approaches
+ 
+
+Cross Team Collaboration:
+
+Collaborate internally with Support, Product and Engineering teams to test and implement new beta feature roll-outs related to implementation scalability
+Continually engage with Product on enablement of new features and products as it relates to implementation activities and/or customer onboarding enablement
+Partner with Sales to support with implementation deep dives with prospective customers 
+Assist internally with Sales on proposed Statement of Work reviews with regards to implementation language
+Assist with creation and continued documentation of customer onboarding and implementation tools, resources, processes and templates
+Provide guidance to One Model Product Team on knowledge management and product documentation needs (Internal and External)
+Partner with customers and internal Machine Learning Engineering team to support delivery of predictive and forecasting statistical models for business use cases
+Engage in support of broader team and One Model initiatives
+ 
+
+About You
+
+You're someone further along in their people analytics career, with experience implementing people analytics or reporting solutions to either an external or internal customer base
+You have at least 2 years experience as an implementation consultant 
+You have at least 2 years exposure to HR data systems and processes including but not limited to: Workday, SuccessFactors, SAP, Greenhouse, etc.
+You have at least 2 years experience working in data analytics and visualization, business intelligence or HR reporting
+You’re able to manage a range of tasks and collaborate with a global team
+You’re able to translate technical data requirements between different user groups
+You’re comfortable working with ambiguity, with processes at times being designed and enabled “as you go”
+You have an intellectual curiosity and are able to work through problems as well as knowing when to ask others for help 
+
+It's awesome, but not required if you have:
+
+A Bachelor's degree
+Experience as an implementation consultant for People Analytics software
+Experience working with One Model, Zendesk, JIRA and/or Smartsheet

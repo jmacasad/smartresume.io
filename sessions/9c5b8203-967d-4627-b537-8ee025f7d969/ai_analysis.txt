@@ -1,0 +1,11 @@
+**Alignment Summary:**
+
+The candidate's resume demonstrates a strong background in project and program management, business process re-engineering, stakeholder engagement, and operational efficiency, which align well with the key responsibilities outlined in the job description for an ICT Business Analyst. The candidate has a proven track record of leading transformation projects, managing cross-functional teams, and implementing regulatory changes, showcasing their ability to drive digital transformation and operational excellence. However, the resume lacks specific mention of experience in business analysis frameworks, documentation standards, and modelling tools, which are highlighted as important requirements in the job description. To enhance alignment, the candidate could consider emphasizing their experience with business analysis methodologies and tools to showcase a comprehensive skill set for the role.
+
+**Clarification Questions:**
+
+1. Can you provide specific examples of projects where you were directly involved in gathering, documenting, and analyzing business requirements to showcase your experience in business analysis processes?
+  
+2. How have you utilized business process modelling tools like BPMN or workflow analysis techniques in your previous roles to improve operational efficiency and identify bottlenecks?
+  
+3. Could you quantify the impact of your projects in terms of measurable business value delivered, such as cost savings, efficiency improvements, or enhanced stakeholder satisfaction, to highlight the outcomes of your work more effectively?

@@ -1,0 +1,68 @@
+# JAYSON MACASADIA
+
+## SUMMARY
+Results-driven IT leader with over a decade of experience in managing digital platforms, cross-functional teams, and technology operations. Proven track record in delivering IT strategies, web development initiatives, and governance frameworks aligned with business transformation goals. Seeking to leverage expertise in strategic planning, stakeholder engagement, and operational excellence as an Identity Access Manager in a dynamic and rapidly growing global financial services company.
+
+## SKILLS
+- Process Improvement & Transformation
+- Lean Six Sigma (Black Belt)
+- Project Management
+- Cross-functional Leadership
+- Business Analysis
+- Customer Journey Mapping
+- Operational Excellence
+- Workshop Facilitation
+- Data Analytics & Reporting
+- Stakeholder Engagement
+- Design Thinking
+- Regulatory Compliance
+- Change Management
+- Risk Management
+- Internal Auditing
+- Analytical Thinking
+- Results Focus
+- RBAC Optimization
+- Access Management Tools (e.g., ServiceNow, SharePoint)
+- Access Matrix Development
+- Compliance Enhancement
+
+## EXPERIENCE
+
+### EnergyAustralia (Jan 2025 – Mar 2025)
+**Change Lead – Regulatory Compliance**
+- Led regulatory transformation initiatives, aligning systems and processes with compliance mandates.
+- Mapped business processes for compliance, supporting stakeholder-driven re-engineering.
+- Organized workshops to ensure alignment across Operations and Compliance.
+- Maintained risk logs, prepared steering committee briefs, and facilitated communication.
+
+### AIG Australia Limited (Jan 2020 – Oct 2024)
+**Operations Program Lead and Business Support**
+- Directed strategic project delivery for technology programs aligned with executive goals.
+- Managed IT budgets, financial tracking, and vendor cost optimization.
+- Enforced governance standards across documentation, performance tracking, and risk reporting.
+- Acted as liaison between development, infrastructure, and compliance teams.
+
+### AIG Shared Services (Jan 2011 – Dec 2018)
+**IT Business Manager**
+- Oversaw technology projects, leading web development and infrastructure migration.
+- Managed vendor relationships for CRM, security, and infrastructure support.
+- Implemented governance frameworks to improve service delivery and SLA adherence.
+- Facilitated steering committees and risk workshops to support IT transformation.
+
+## EDUCATION
+- Bachelor of Information Technology | Kent University, 2025
+- Cert IV in Security Networking | Danford Colleges, 2021
+- Bachelor of Science in Marketing | Lyceum of Batangas University, 1998
+
+## TECHNICAL SKILLS
+- Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online
+- Cloud & DevOps: Azure (1.5 years' experience), Azure DevOps
+- Programming & Development: JavaScript, SQL
+- Project & Process Management: Agile, Waterfall, Business Process Automation
+- Reporting & BI: Power BI, Data Analytics & Reporting
+- IT Tools: Microsoft Project, SQL Studio, MS Visio
+- RBAC Optimization
+- Access Management Tools (ServiceNow, SharePoint)
+- Compliance Enhancement
+
+Referees available upon request.

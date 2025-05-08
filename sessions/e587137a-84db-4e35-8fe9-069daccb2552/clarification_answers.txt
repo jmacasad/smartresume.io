@@ -1,0 +1,2 @@
+- Led Workday ERP rollout at AIG—gathered requirements, managed data migration, and built custom Power BI reports; configured SuccessFactors dashboards for training metrics; used Smartsheet for workforce analytics, boosting report adoption by 85% and cutting prep time by 50%.
+- Led Mulesoft data integration pipelines for risk/claims at AIG—designing ETL, data engineering, and data validation workflows to ensure 100% accuracy. Built Power BI and Smartsheet metrics dashboards, cutting report prep by 50%, accelerating insights and boosting adoption by 40%.

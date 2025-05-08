@@ -1,0 +1,67 @@
+# Executive Summary
+Dynamic People Analytics Implementation Lead with a proven track record of delivering end-to-end reporting solutions and driving operational efficiency. Skilled in data integration, analytics, and insights, with a focus on customer enablement and implementation scalability.
+
+# Areas of Expertise
+- Data Integration
+- Analytics and Visualization
+- Customer Enablement
+- Implementation Scalability
+- Global Team Collaboration
+- Requirements Gathering
+
+# Key Achievements
+- Led a Mulesoft-powered risk/claims dataset rollout at AIG APAC, achieving 100% data accuracy and accelerating executive insights delivery by 2 days.
+- Oversaw a Workday ERP rollout at AIG Australia, streamlining data migration and testing processes.
+- Implemented Lean Six Sigma at ACS Xerox, resulting in a 10% cost reduction and improved customer satisfaction scores.
+
+# Career Summary
+**Education**
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+
+**Certification**
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+# Technical Skills
+- Microsoft 365
+- SharePoint
+- Power BI
+- Jira
+- Smartsheet
+- Zendesk
+
+# Professional Experience
+
+**AIG Australia Limited**
+*Data and Reporting Governance Lead*  
+Jan 2020 – Oct 2024
+
+- **[Data Engineering]** Led successful implementation of new datasets and data projects, ensuring timely delivery and customer validation support.
+- **[Requirements Gathering]** Gathered and documented detailed data requirements for metric and storyboard build.
+- **[Global Team Collaboration]** Collaborated with internal Machine Learning Engineering team to deliver predictive and forecasting statistical models for business use cases.
+
+**ACS Xerox**
+*Process Improvement Leader*  
+Jan 2010 – Nov 2011
+
+- **[Ambiguity Management]** Facilitated call center transformation using Lean Six Sigma, navigating through ambiguity to achieve a 10% cost reduction.
+- **[Customer Enablement]** Designed training rollout strategies to ensure 100% compliance with updated process standards.
+- **[Cross-Functional Collaboration]** Partnered with operations to improve agent productivity and customer satisfaction scores.
+
+**EnergyAustralia**
+*Change Manager*  
+Jan 2025 – Mar 2025
+
+- **[Setup]** Coordinated change readiness and training for regulatory implementation across multiple business units.
+- **[Configuration]** Ensured alignment between regulatory objectives and internal business processes.
+- **[Statement of Work]** Supported stakeholder engagement and compliance with legal and regulatory frameworks.
+
+**AIG Shared Services**
+*Operations Analyst – Workforce & Project Reporting*  
+Jan 2011 – Dec 2018
+
+- **[HR Data System]** Oversaw reporting processes related to project resource tracking and cost center performance.
+- **[Storyboard]** Created automated Excel dashboards to report on workforce planning KPIs and contractor utilization.
+- **[Product Enablement]** Supported project and operational teams in aligning reporting tools with business planning cycles.

@@ -1,0 +1,62 @@
+# Executive Summary
+Dynamic People Analytics Implementation Lead with a proven track record of successful project management and customer enablement. Skilled in data integration, analytics, and visualization, with a strong background in HR data systems and global team collaboration.
+
+# Areas of Expertise
+- Data Integration
+- Analytics and Visualization
+- Project Management
+- Customer Enablement
+- HR Data Systems
+- Global Team Collaboration
+
+# Key Achievements
+- Successfully led new customers through initial setup of application, including branding and user/role configuration.
+- Coordinated timely and successful implementation of new datasets and data projects for diverse customer base.
+- Developed and maintained project schedules to ensure on-time milestone delivery as per contractual obligations.
+- Facilitated continuous improvement initiatives in change reporting and business readiness processes.
+
+# Career Summary
+## Education
+- Bachelor's Degree in [Field of Study]
+
+## Certification
+- [Relevant Certification]
+
+# Technical Skills
+- Configuration
+- Data Engineering
+- Data Visualization
+- Documentation
+- Global Team Collaboration
+- HR Data Systems
+- Implementation Consultant
+- People Analytics
+- Product Documentation
+- Project Schedule
+- Requirements Gathering
+- Scoping
+- Setup
+- Smartsheet
+- Storyboard
+- Zendesk
+
+# Professional Experience
+## EnergyAustralia
+**Change Manager**
+- Implemented standardized governance templates to streamline stakeholder communication.
+- Facilitated continuous improvement initiatives in change reporting and business readiness processes.
+
+## AIG Australia Limited
+**Operations Program Lead and Business Support**
+- Supported data consolidation and Power BI dashboard design for initiative health and financial status.
+- Established consistent reporting practices across business units aligned with portfolio metrics.
+
+## AIG Shared Services
+**IT Business Analyst**
+- Supported integration of reporting data into service delivery and business operations dashboards.
+- Coordinated stakeholder reporting during process migrations.
+
+## ACS Xerox
+**Process Improvement Leader**
+- Developed training and reporting tools to monitor service desk trends and identify performance uplift opportunities.
+- Facilitated workshops to explain process changes and capture staff feedback.

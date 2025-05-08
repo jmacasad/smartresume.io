@@ -1,0 +1,9 @@
+**Alignment Summary:**
+The candidate's resume showcases a strong background in change management, operational readiness, and implementation strategies within the financial services sector. While the resume demonstrates experience in leading end-to-end operational changes, coordinating business readiness, and facilitating workshops with stakeholders, there are notable gaps in direct alignment with the specific requirements of the People Analytics Implementation Lead role. The candidate may need to highlight more experience related to data analytics, HR reporting, and customer enablement/training, which are key aspects of the job description. Additionally, showcasing exposure to HR data systems like Workday, SuccessFactors, or similar platforms could enhance alignment with the role's prerequisites.
+
+**Clarification Questions:**
+1. Can you provide specific examples of projects where you were directly involved in implementing data analytics or reporting solutions within your previous roles?
+2. How have you collaborated with data engineering teams or technical resources to integrate new data sets or implement data projects in your past experiences?
+3. Have you led any initiatives focused on customer enablement or training related to new system implementations or data projects? If so, what were the outcomes or feedback received?
+4. Could you quantify the impact of your change management strategies in terms of improved operational efficiency, stakeholder satisfaction, or successful adoption rates?
+5. Do you possess any experience working with or exposure to HR data systems such as Workday, SuccessFactors, SAP, or similar platforms in your previous roles? If yes, how did you leverage this experience to drive business insights or process improvements?

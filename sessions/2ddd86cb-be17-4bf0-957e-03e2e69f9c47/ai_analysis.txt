@@ -1,0 +1,11 @@
+**Alignment Summary:** 
+
+The candidate's resume showcases a strong background in operational change management within the financial services sector, demonstrating experience in leading end-to-end implementation of operational changes, delivering business readiness plans, conducting impact assessments, and coordinating stakeholder communication. The resume aligns well with the job description's emphasis on change management strategies, stakeholder engagement, impact assessments, and communication plans. The candidate's experience in managing delivery planning, operational risk reporting, and change rollout communications further strengthens the alignment with the key responsibilities outlined in the job description. However, there are notable gaps in specific mention of certification or training in recognized change management methodologies like Prosci or CCMP, experience in SAP transformations, and engagement with global teams across different regions, which are preferred qualifications mentioned in the job description.
+
+**Clarification Questions:**
+
+1. Can you provide quantifiable achievements or metrics related to the successful adoption of change initiatives in your previous roles, such as increased employee engagement or reduced resistance levels?
+2. Have you led any training programs or workshops focused on change management, and if so, could you detail the impact of these initiatives on employee proficiency and adoption of new processes or systems?
+3. Could you elaborate on any experience you have had in conducting formal change impact assessments, stakeholder analyses, or readiness assessments, and how these activities contributed to the success of the projects you were involved in?
+4. Have you worked directly with HR teams in your previous roles to support the people side of change, and if yes, what specific collaboration or strategies did you implement to ensure successful employee adoption?
+5. Can you provide examples of how you have monitored and measured the success of change initiatives through key performance indicators (KPIs) in your previous roles, and how you adjusted strategies based on these measurements?

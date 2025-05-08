@@ -1,0 +1,64 @@
+# JAYSON MACASADIA
+
+## Executive Summary
+Results-driven program and change leader with over a decade of experience in delivering high-impact transformation projects across various industries. Skilled in managing complex project portfolios, driving operational excellence, and influencing stakeholders. Strong expertise in regulatory compliance, business process re-engineering, and strategic communications.
+
+## Career or Key Project Highlights
+- Led a regulatory change program ensuring compliance with energy regulations, reducing risk incidents by 20%.
+- Modernized underwriting and claims systems, achieving a 30% improvement in reporting turnaround.
+- Standardized processes across APAC shared services, resulting in a 15% efficiency uplift.
+- Directed global process migration projects, reducing project ramp-up time by 25%.
+
+## Skills
+### Technical Skills
+- Power BI
+- SQL Studio
+- MS Project
+- SharePoint
+- Salesforce
+- Jira
+- MS365
+- ServiceNow
+- Agile & Waterfall
+- Visio
+- Data Governance
+- Power Platform
+- Regulatory Reporting
+- Change Frameworks
+
+### Soft Skills
+- Strong problem-solving skills
+- Analytical thinking
+- Excellent communication skills
+- Leadership abilities
+- Organizational skills
+
+## Experience
+- **EnergyAustralia**
+  - Collaborated with cross-functional teams to align processes with energy compliance regulations.
+  - Developed a governance framework to proactively reduce risk incidents.
+  - Implemented change impact assessments and stakeholder communication plans.
+
+- **AIG Australia Limited**
+  - Oversaw the modernization of underwriting and claims systems, integrating Power BI dashboards.
+  - Led process standardization initiatives, improving efficiency across shared services.
+  - Designed and implemented a data governance framework in alignment with regulatory obligations.
+
+- **AIG Shared Services**
+  - Managed global process migration projects, ensuring service continuity during handovers.
+  - Developed a service transition toolkit for migrations, reducing project ramp-up time.
+  
+- **ACS Xerox**
+  - Utilized Lean Six Sigma to transform call center operations, resulting in cost reduction and improved customer satisfaction.
+  - Introduced a real-time performance dashboard to enhance agent productivity.
+  - Collaborated with operations on training strategies to ensure compliance with updated process standards.
+
+## Education & Certifications
+- Bachelor of Information Technology, Kent University (2025)
+- Cert IV in Security Networking, Danford Colleges (2021)
+- Bachelor of Science in Marketing, Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt, ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+## Availability
+Available immediately for business readiness and change implementation roles. Referee details available on request.

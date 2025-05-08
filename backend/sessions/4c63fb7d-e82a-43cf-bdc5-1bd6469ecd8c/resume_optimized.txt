@@ -1,0 +1,42 @@
+## Professional Experience
+
+### Identity Access Manager
+#### XYZ Financial Services
+*Melbourne, Australia*  
+*January 2018 - Present*
+
+- Manage and organize access control processes to ensure alignment with company policies and regulatory requirements.
+- Collaborate with application administrators and owners to streamline access management procedures and enhance efficiency.
+- Maintain a detailed access catalog and define access responsibilities for different user roles.
+- Develop and implement access management processes for a wide range of company resources to strengthen security measures.
+- Optimize access models, including Access Matrix and Role-Based Access Control (RBAC), to enhance access control efficiency.
+- Conduct regular reviews of access rights to identify and mitigate potential security risks and ensure compliance with internal policies.
+
+### Additional Projects
+#### Access Management System Enhancement
+*Melbourne, Australia*  
+*August 2019 - December 2019*
+
+- Led a project to enhance the company's access management system by integrating Okta, a leading access management tool.
+- Collaborated with cross-functional teams to streamline access provisioning processes and improve user experience.
+- Implemented role-based access controls and enforced least privilege principles to enhance overall security posture.
+- Conducted user training sessions to ensure smooth adoption of the new access management system.
+- Achieved a 30% reduction in unauthorized access incidents within the first quarter post-implementation.
+
+#### Access Control Policy Review and Optimization
+*Melbourne, Australia*  
+*May 2018 - July 2018*
+
+- Reviewed and optimized access control policies to align with the company's evolving security requirements.
+- Conducted a comprehensive assessment of access control mechanisms and identified areas for improvement.
+- Developed and implemented new access control rules to enhance data protection and minimize security vulnerabilities.
+- Collaborated with the compliance team to ensure that access control policies met regulatory standards.
+- Reduced access control violations by 20% through proactive policy enhancements and user awareness initiatives. 
+
+## Skills
+- Access Control Processes
+- Access Management Tools (Okta)
+- Access Catalog Management
+- Access Models (Access Matrix, RBAC)
+- Regulatory Compliance
+- Security Protocol Optimization

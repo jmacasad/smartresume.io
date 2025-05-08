@@ -1,0 +1,8 @@
+**Alignment Summary:** The candidate's resume showcases a strong background in portfolio governance, reporting, and program alignment, which aligns well with the job description's emphasis on leading customers through successful implementation projects. The candidate's experience in delivering strategic reports, maintaining portfolio dashboards, and supporting program alignment demonstrates relevant skills for guiding customers through data integration and analytics journeys. However, there are notable gaps in direct experience with People Analytics implementation, HR data systems, and customer onboarding specific to analytics solutions. To enhance alignment, the candidate could highlight any exposure to HR data systems, data analytics, or customer enablement in their previous roles.
+
+**Clarification Questions:**
+1. Can you provide specific examples of your experience in implementing people analytics or reporting solutions to either an external or internal customer base?
+2. Have you been involved in any projects related to data integration, metric and storyboard building, or application configuration similar to the responsibilities outlined in the job description?
+3. Could you quantify the impact of your portfolio governance and reporting support in terms of improved project outcomes, customer satisfaction, or operational efficiency?
+4. Do you have any experience working with tools like Smartsheet, Zendesk, JIRA, or similar platforms that are mentioned as beneficial in the job description?
+5. Have you led any cross-functional project work that involved collaborating with different teams to implement new products or approaches, as mentioned in the job description?

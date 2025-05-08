@@ -1,0 +1,62 @@
+# Executive Summary
+Dynamic and results-driven professional with a proven track record in leading successful implementation projects and collaborating across teams to drive business growth. Experienced in people analytics, data integration, and project management.
+
+# Areas of Expertise
+- Project Management
+- Data Integration
+- Cross-Functional Collaboration
+- Implementation Consulting
+- Business Intelligence
+- Customer Enablement
+- HR Data Systems
+- Predictive Modeling
+- Technical Documentation
+
+# Key Achievements
+- Led the successful Workday implementation at AIG Australia and New Zealand, resulting in streamlined processes and improved data analytics capabilities.
+- Spearheaded regulatory compliance initiatives at EnergyAustralia, ensuring alignment with industry standards and enhancing operational efficiency.
+- Developed and implemented process improvement strategies at ACS Xerox, resulting in increased service quality and customer satisfaction.
+
+# Career Summary
+**Education**
+- Bachelor's Degree in Business Administration
+
+**Certification**
+- Certified Project Management Professional (PMP)
+
+# Technical Skills
+- Workday
+- Smartsheet
+- Zendesk
+- JIRA
+- PowerBI
+- SAP
+
+# Professional Experience
+
+**AIG Australia Limited**
+
+*Operations Program Lead and Business Support*  
+Jan 2020 – Oct 2024  
+
+- **[Implementation Consultant]** Led the successful implementation of digital projects involving mobile apps and web platforms, ensuring alignment with business objectives and customer needs.
+- **[Cross-Functional Collaboration]** Facilitated workshops and sprint planning sessions to drive team alignment and delivery cadence.
+- **[Customer Enablement]** Developed UAT plans and assisted stakeholders through the testing process, ensuring smooth implementation and user adoption.
+
+**EnergyAustralia**
+
+*Change Lead – Regulatory Compliance*  
+Jan 2025 – Mar 2025  
+
+- **[Ambiguity Management]** Led regulatory transformation initiatives, navigating complex regulatory requirements and ensuring compliance with industry standards.
+- **[Configuration]** Mapped business processes for compliance and field operations teams, optimizing systems and processes for regulatory alignment.
+- **[HR Data Systems]** Collaborated with internal teams to align systems and processes with HR data requirements, ensuring data accuracy and compliance.
+
+**ACS Xerox**
+
+*Process Improvement Leader*  
+Jan 2010 – Nov 2011  
+
+- **[Business Intelligence]** Analyzed workflows and system interactions, recommending process re-engineering strategies to enhance business intelligence and service quality.
+- **[Product Enablement]** Developed dashboards and status reports to track implementation readiness and success metrics, enabling data-driven decision-making.
+- **[Intellectual Curiosity]** Participated in workshops to validate revised business processes, driving continuous improvement and innovation within the organization.

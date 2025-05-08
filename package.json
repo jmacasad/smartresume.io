@@ -1,0 +1,37 @@
+{
+  "name": "job-resume-matcher",
+  "version": "1.0.0",
+  "description": "resume optimiser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmacasad/job-resume-matcher.git"
+  },
+  "keywords": [
+    "resume",
+    "job-matching",
+    "NLP",
+    "Flask",
+    "React",
+    "AI",
+    "skills-matching",
+    "career",
+    "cohere",
+    "openai"
+  ],
+  "author": "J Macasadia",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jmacasad/job-resume-matcher/issues"
+  },
+  "homepage": "https://github.com/jmacasad/job-resume-matcher#readme",
+  "dependencies": {
+    "marked": "^15.0.11"
+  },
+  "devDependencies": {
+    "@types/marked": "^5.0.2"
+  }
+}

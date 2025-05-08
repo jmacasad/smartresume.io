@@ -1,0 +1,71 @@
+# JAYSON MACASADIA
+
+ICT Project Manager | Enterprise Systems | Network & Digital Transformation
+0432 241 891 | jmcasadia@gmail.com | VIC 3012
+[LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/)
+
+---
+
+## EXECUTIVE SUMMARY
+
+Results-driven ICT Project Manager with 15+ years of experience leading full project lifecycles across complex digital and enterprise environments. Adept at delivering projects related to network upgrades, end-user computing, enterprise application rollouts, AV systems, and cybersecurity initiatives. Proven ability to lead cross-functional teams, manage vendor relationships, facilitate project workshops, and engage stakeholders at all levels. Experienced across Agile, Waterfall, PRINCE2, and hybrid delivery models with a strong focus on ICT strategy, risk mitigation, and business alignment.
+
+---
+
+## Core Competencies
+
+- Project Lifecycle Management 
+- ICT Systems & Infrastructure
+- Vendor & Stakeholder Engagement 
+- Waterfall, Agile, PRINCE2 & Hybrid Delivery 
+- Risk & Issue Management 
+- Business & Technical Change Delivery 
+- Budgeting & Procurement 
+- Project Planning & Scheduling 
+- Workshop Facilitation 
+- Business Readiness
+
+---
+
+## PROJECT ACHIEVEMENTS
+
+### IT Rollout Comms & Training – EnergyAustralia
+- Delivered end-user communication strategies for digital platform transitions across operations.
+- Coordinated training workshops and helped improve user engagement metrics through proactive feedback loops.
+
+### Network Modernisation & Security Enhancement – AIG Australia
+- Led network redesign and firewall enhancement project across distributed sites in coordination with enterprise architecture.
+- Developed and maintained comprehensive project schedules, issue logs, and final closure reports.
+
+### Application Rollout & End-User Computing Transition – AIG Shared Services
+- Aligned project execution with ITIL and OHS requirements and delivered staff briefings and change workshops.
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### EnergyAustralia											Jan 2025 – Mar 2025 	
+#### Change Manager
+- Developed and delivered change and communication strategies for system upgrades and new tech rollouts.
+- Led feedback survey design, impact assessments, and messaging reviews with cross-functional teams.
+- Supported senior leadership presentations, storyboarding data and technical changes into clear messages.
+
+### AIG Australia Limited										Jan 20
+- *Details from this position are not provided.*
+
+---
+
+## Additional Info:
+
+- Redesigned RBAC in D365 to tighten access controls, cutting provisioning errors by 40%.
+- Automated ServiceNow access workflows, reducing approval delays by 30% and strengthening security.
+- Proficient with Okta for SSO, MFA setup, and user provisioning.
+- Configured access policies, managed user lifecycles, and integrated Okta with Azure AD and ServiceNow.
+- Defined access responsibilities, maintained catalogs in ServiceNow and SharePoint, and optimized RBAC models in D365.
+- Aligned RBAC models and access reviews with company policies, documented SOPs for provisioning in ServiceNow, enforced MFA via Okta, and conducted quarterly audits using Azure AD logs.
+
+---
+
+*I am willing to pursue relevant certifications to strengthen my qualifications and better align with the role’s requirements.*
+
+---

@@ -1,0 +1,75 @@
+# JAYSON MACASADIA
+Identity Access Manager | Change Analyst | Business Readiness Expert  
+0432 241 891 | jmcasadia@gmail.com | VIC 3012  
+
+## EXECUTIVE SUMMARY
+Experienced Identity Access Manager with a proven track record in driving enterprise-wide change initiatives within financial services and insurance sectors. Skilled in overseeing access control processes, defining access rules, and ensuring compliance with internal policies. Proficient in coordinating with stakeholders, optimizing access models, and implementing access management processes. Adept at leveraging technology solutions such as Okta to enhance security protocols and streamline access governance.
+
+## AREAS OF EXPERTISE
+- Identity & Access Management
+- Role-Based Access Control (RBAC)
+- Access Matrix Modeling
+- Compliance Reviews
+- Okta Implementation
+- Stakeholder Coordination
+- Business Readiness
+- Change Management
+- Process Mapping
+- Training Delivery
+
+## KEY ACHIEVEMENTS
+- Centralized Identity Access Management into Okta for 1,500+ APAC users, defining RBAC, building SCIM provisioning & automated deprovisioning, reducing orphaned accounts by 90%.
+- Led quarterly SoD reviews, enforced MFA & conditional-access, and integrated ServiceNow approvals at AIG Australia.
+- Defined RBAC matrices in Okta, mapped roles to permissions, and automated SCIM provisioning/deprovisioning at AIG Shared Services.
+- Consolidated Azure AD roles to reduce overlap by 40% and enforced SOX/CPS230 conditional-access controls at AIG Australia.
+- Partnered with IT security to design and implement Okta & Azure AD provisioning for CRM, BI & file shares, ensuring SOX/CPS230 compliance via approval workflows and audit logs.
+
+## CAREER SUMMARY
+### EnergyAustralia
+**Change Manager – External Regulatory Changes**  
+*Jan 2025 – Mar 2025*
+- Led end-to-end implementation of operational changes linked to regulatory and technology projects within customer operations.
+- Delivered business readiness plans and impact assessments to operational and leadership teams.
+- Facilitated workshops with stakeholders across product, delivery, and operations to align project rollouts with PMO processes.
+- Coordinated with training and knowledge management teams to produce updated SOPs and rollout communications.
+- Maintained wrap operations performance metrics pre- and post-change, tracking user readiness and adoption.
+- Served as operational liaison to project teams, resolving BAU issues and post-implementation risks.
+
+### AIG Australia Limited
+**Operations Program Lead and Business Support**  
+*Jan 2020 – Oct 2024*
+- Acted as change lead for wrap platform process upgrades, coordinating go-live strategies with internal operations and external partners.
+- Led change impact workshops, prepared tailored comms plans, and facilitated transition planning.
+- Produced business impact assessments and supported solution delivery alignment with service operations.
+- Produced readiness and capacity assessment documentation to support workforce planning.
+- Engaged with BA and product leads to translate requirements into implementation actions.
+- Reviewed business documents and ensured consistent change documentation for handover.
+
+### AIG Shared Services
+**IT Business Analyst**  
+*Jan 2011 – Dec 2018*
+- Collaborated with solution architects to translate new platform features into simplified business processes.
+- Delivered process maps and onboarding content using Miro and Visio, bridging technical functions with end users.
+- Liaised with change, training, and BA teams to align system enhancements with service team readiness.
+- Documented business impact across teams and coordinated BAU adoption metrics and performance tracking.
+- Participated in post-go-live issue management and cross-functional workshops.
+- Ensured continuous alignment with wrap operational expectations during transformation efforts.
+
+## EDUCATION
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+## TECHNICAL SKILLS
+- Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online
+- Cloud & DevOps: Azure (1.5 years' experience), Azure DevOps
+- Programming & Development: JavaScript, SQL
+- Project & Process Management: Agile, Waterfall, Business Process Automation
+- Reporting & BI: Power BI, Data Analytics & Reporting
+- IT Tools: Microsoft Project, SQL Studio, MS Visio
+
+## AVAILABILITY
+Available immediately | Open to Identity Access Manager roles  
+Referee details available on request

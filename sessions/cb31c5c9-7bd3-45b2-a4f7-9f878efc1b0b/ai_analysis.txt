@@ -1,0 +1,6 @@
+**Alignment Summary:** The candidate's resume demonstrates a strong background in project and program management, regulatory change, stakeholder engagement, and business process re-engineering, aligning well with the key responsibilities outlined in the job description for an ICT Business Analyst. Their experience in leading transformation initiatives, managing cross-functional teams, and implementing governance frameworks showcases their ability to drive operational efficiency and deliver outcomes aligned with business goals. However, the resume lacks specific mention of hands-on experience with Agile methodologies, business process modelling tools, and detailed system design documentation, which are highlighted as requirements in the job description.
+
+**Clarification Questions:**
+1. Can you provide specific examples of your experience in collaborating with development, operations, and service teams to ensure alignment on business needs for IT solutions?
+2. How have you quantified the efficiency improvements achieved in your past projects related to underwriting and claims systems modernization and process standardization initiatives?
+3. Could you elaborate on any experience you have with creating detailed test plans and coordinating testing to ensure high-quality system functionality in your previous roles?

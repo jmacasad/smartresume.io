@@ -1,0 +1,6 @@
+**Alignment Summary:** The candidate's resume showcases a strong background in project and program management, operational efficiency, stakeholder engagement, and regulatory compliance within the insurance and energy sectors. While the resume highlights experience in leading transformation initiatives, managing cross-functional teams, and implementing governance frameworks, there are some notable gaps in direct alignment with the ICT Business Analyst role. The resume could be enhanced by emphasizing specific experience in business process analysis, IT system design, Agile methodologies, and business intelligence tools as outlined in the job description.
+
+**Clarification Questions:**
+1. Can you provide specific examples of your experience in liaising with stakeholders to gather and analyze business requirements for IT projects?
+2. How have you utilized business process modeling tools like BPMN or swimlane diagrams in your previous roles to optimize process performance and identify inefficiencies?
+3. Have you been directly involved in the design and documentation of functional and technical specifications for IT solutions, and if so, could you elaborate on a successful project where you demonstrated this skill?

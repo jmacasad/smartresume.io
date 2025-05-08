@@ -1,0 +1,38 @@
+# JAYSON MACASADIA
+
+## Executive Summary
+Experienced Senior Data & Reporting Analyst with a proven track record in collaborating with cross-functional teams using Agile methodologies to gather requirements and develop Power BI reports. Skilled in translating complex needs into actionable insights, enhancing business value across diverse sectors. Strong background in relationship building, requirements gathering, and technology understanding, seeking to leverage expertise in a Senior Business Analyst role within a dynamic scale-up environment.
+
+## Career or Key Project Highlights
+- Spearheaded end-to-end review of asset data reporting for government-aligned infrastructure upgrade programs, enhancing visibility into project metrics with Power BI dashboards.
+- Led strategic initiatives that improved report accuracy by 30%, accelerating decision-making for leadership and optimizing operational efficiencies.
+- Facilitated call center transformation using Lean Six Sigma, resulting in a 10% cost reduction and improved customer satisfaction scores.
+
+## Skills
+**Technical Skills:** SQL, Excel, Power BI Analytics  
+**Soft Skills:** Relationship Building, Adaptability  
+**Tools & Technologies:** Microsoft 365, SharePoint, Power BI, Jira, Visio, Miro
+
+## Experience
+
+### EnergyAustralia
+*Change Manager* | Jan 2025 – Mar 2025
+- Coordinated change delivery for government-mandated regulatory transformation initiatives, ensuring alignment between regulatory objectives and internal business processes.
+- Partnered with analytics and reporting teams to track project compliance, adoption metrics, and risk status.
+
+### AIG Australia Limited
+*Data and Reporting Governance Lead* | Jan 2020 – Oct 2024
+- Developed actionable reports and visual dashboards for executive teams using SQL and Power BI, supporting capital works and office safety planning.
+- Standardized data queries and streamlined reporting processes for underwriting and claims operations.
+
+### AIG Shared Services
+*Operations Analyst – Workforce & Project Reporting* | Jan 2011 – Dec 2018
+- Oversaw reporting processes related to project resource tracking, procurement alignment, and cost center performance, driving operational transparency and efficiency.
+- Produced reporting documentation used in internal audits and executive board reviews.
+
+## Education & Certifications
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)

@@ -1,0 +1,9 @@
+**Alignment Summary:**
+The candidate's resume demonstrates a strong background in IT leadership and project management, which aligns well with the requirements of the Identity Access Manager role. The candidate's experience in overseeing technology projects, managing vendor relationships, and implementing governance frameworks shows their ability to handle complex IT operations. However, there are some notable gaps in direct experience with identity access management tools like Okta and specific access control models such as Access Matrix and RBAC. To enhance alignment, the candidate could consider highlighting any experience with access management tools or certifications related to access control in their resume.
+
+**Clarification Questions:**
+1. Can you provide specific examples of projects where you were directly involved in access control processes or defining access rules to showcase your experience in this area?
+2. Have you led any initiatives focused on optimizing access models or improving security protocols that could be highlighted in your resume to demonstrate your expertise in access management?
+3. Do you possess any certifications or training related to access control models or access management tools like Okta that could be included in your education or technical skills section to strengthen your profile for this role?
+4. Can you quantify the impact of your IT governance frameworks or process improvement initiatives in terms of improved security protocols or compliance with internal policies to showcase your ability to ensure efficient access management?
+5. Have you worked on any cross-functional projects involving access management collaboration with application administrators that could be detailed in your project highlights to emphasize your communication and coordination skills in this area?

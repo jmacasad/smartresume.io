@@ -1,0 +1,8 @@
+**Alignment Summary:** The candidate's resume showcases a strong background in data analysis, reporting, and governance, which aligns well with the job description's emphasis on data integration, analytics, and insights delivery. The candidate's experience in leading analytics processes, managing large datasets, and providing actionable insights demonstrates relevant skills for the role. However, there are notable gaps in direct experience with People Analytics implementation, specific HR data systems like Workday or SuccessFactors, and customer onboarding processes highlighted in the job description. To enhance alignment, the candidate could consider highlighting any experience with implementation consulting, exposure to HR data systems, and showcasing their ability to manage customer-driven projects and data integration tasks.
+
+**Clarification Questions:**
+1. Can you provide specific examples of your experience in leading customers through successful implementation processes, especially in terms of data integration and project milestones?
+2. Have you worked on any projects involving the implementation of new datasets or data projects, and if so, how did you ensure timely and successful delivery?
+3. Could you quantify the impact of your data reporting and governance initiatives in previous roles, particularly in terms of improving operational efficiency or decision-making processes?
+4. Do you have any experience collaborating with cross-functional teams, such as Product, Engineering, or Sales, to support the implementation of new features or products?
+5. Have you been involved in scoping discussions for new data project requests to assess customer requirements and provide internal effort estimates, and if yes, how did you approach this process?

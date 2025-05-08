@@ -1,0 +1,44 @@
+# JAYSON MACASADIA
+
+## Executive Summary
+Experienced Senior Data & Reporting Analyst with a proven track record in government, education, and financial services sectors. Skilled in business intelligence, data visualization, and stakeholder-driven reporting. Expertise in leading analytics processes, managing large datasets, and providing actionable insights. Strong background in complex data curation and strategic decision-making.
+
+## Career or Key Project Highlights
+- Spearheaded end-to-end review of asset data reporting for government infrastructure programs, enhancing project visibility through Power BI dashboards.
+- Delivered actionable maintenance reports for shared services programs, improving planning and contractor engagement.
+- Led the development of interactive dashboards for workforce planning and procurement tracking, standardizing analytics procedures.
+
+## Skills
+**Technical Skills:** SQL, Excel, Power BI Analytics  
+**Soft Skills:** Relationship Building, Adaptability  
+**Tools & Technologies:** Microsoft 365, SharePoint, Power BI, Jira, Visio
+
+## Experience
+
+### EnergyAustralia
+*Change Manager* | Jan 2025 – Mar 2025
+- Led change delivery for government regulatory initiatives, ensuring alignment between objectives and internal processes.
+- Coordinated readiness, training, and communications for regulatory implementation.
+- Developed playbooks, supported system updates, and engaged with stakeholders for compliance.
+
+### AIG Australia Limited
+*Data and Reporting Governance Lead* | Jan 2020 – Oct 2024
+- Delivered reporting solutions supporting actuarial, finance, and operational efficiency using SQL and Power BI.
+- Conducted data audits and compliance reviews to meet regulatory requirements.
+- Collaborated with IT to implement data models for capital works and safety planning.
+
+### AIG Shared Services
+*Operations Analyst – Workforce & Project Reporting* | Jan 2011 – Dec 2018
+- Oversaw project resource tracking and procurement reporting, aligning tools with business planning cycles.
+- Created automated Excel dashboards for reporting on KPIs and contractor utilization.
+- Supported process transparency improvements and contributed to governance reporting templates.
+
+## Education & Certifications
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner
+
+**Availability:** Available immediately | Open to business readiness and change implementation role  
+**Referee details available on request**

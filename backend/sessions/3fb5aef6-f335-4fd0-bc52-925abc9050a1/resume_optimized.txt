@@ -1,0 +1,62 @@
+# JAYSON MACASADIA
+
+ICT Project Manager | Enterprise Systems | Network & Digital Transformation  
+VIC 3012  
+0432 241 891 | jmcasadia@gmail.com  
+[LinkedIn](www.linkedin.com/in/jayson-macasadia-00aa7132a/)  
+
+---
+
+## EXECUTIVE SUMMARY
+Results-driven ICT Project Manager with 15+ years of experience leading full project lifecycles across complex digital and enterprise environments. Adept at delivering projects related to network upgrades, end-user computing, enterprise application rollouts, AV systems, and cybersecurity initiatives. Proven ability to lead cross-functional teams, manage vendor relationships, facilitate project workshops, and engage stakeholders at all levels. Experienced across Agile, Waterfall, PRINCE2, and hybrid delivery models with a strong focus on ICT strategy, risk mitigation, and business alignment.
+
+---
+
+## Core Competencies
+- Project Lifecycle Management  
+- ICT Systems & Infrastructure  
+- Vendor & Stakeholder Engagement  
+- Waterfall, Agile, PRINCE2 & Hybrid Delivery  
+- Risk & Issue Management  
+- Business & Technical Change Delivery  
+- Budgeting & Procurement  
+- Project Planning & Scheduling  
+- Workshop Facilitation  
+- Business Readiness  
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### EnergyAustralia  
+**Change Manager**  
+Jan 2025 – Mar 2025  
+- Developed and delivered change and communication strategies for system upgrades and new tech rollouts.  
+- Led feedback survey design, impact assessments, and messaging reviews with cross-functional teams.  
+- Supported senior leadership presentations, storyboarding data and technical changes into clear messages.  
+
+### AIG Australia Limited  
+**Network Modernisation & Security Enhancement - Project Lead**  
+Jan 20XX – Present  
+- Led network redesign and firewall enhancement project across distributed sites.  
+- Conducted vendor briefings, managed procurement schedules, and facilitated stakeholder training sessions.  
+- Developed and maintained comprehensive project schedules, issue logs, and final closure reports.  
+
+---
+
+## ADDITIONAL SKILLS & ACHIEVEMENTS
+- Redesigned RBAC in D365 to tighten access controls, cutting provisioning errors by 40%.  
+- Automated ServiceNow access workflows, reducing approval delays by 30% and strengthening security.  
+- Proficient with Okta for SSO, MFA setup, and user provisioning.  
+- Configured access policies, managed user lifecycles, and integrated Okta with Azure AD and ServiceNow.  
+- Defined access responsibilities, maintained catalogs in ServiceNow and SharePoint, and optimized RBAC models in D365.  
+- Built Access Matrices, aligned roles to job functions, streamlined approvals, and ensured audit-ready documentation across cloud environments.  
+- Holds a Cert IV in Security Networking and is willing to pursue relevant certifications to strengthen qualifications.  
+
+---
+
+## CONTACT ME FOR MORE INFORMATION
+
+---
+
+This optimized resume showcases Jayson's experience in managing access control processes, coordinating with stakeholders, and optimizing access models, aligning well with the requirements of the Identity Access Manager position.

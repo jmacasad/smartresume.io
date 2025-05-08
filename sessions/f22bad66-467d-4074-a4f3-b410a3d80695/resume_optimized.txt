@@ -1,0 +1,70 @@
+# JAYSON MACASADIA
+
+ICT Project Manager | Enterprise Systems | Identity Access Manager  
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012  
+
+## EXECUTIVE SUMMARY  
+Results-driven ICT Project Manager with 15+ years of experience leading full project lifecycles across complex digital and enterprise environments. Adept at delivering projects related to identity and access management, network upgrades, end-user computing, and cybersecurity initiatives. Proven ability to lead cross-functional teams, manage vendor relationships, facilitate project workshops, and engage stakeholders at all levels. Experienced across Agile, Waterfall, PRINCE2, and hybrid delivery models with a strong focus on ICT strategy, risk mitigation, and business alignment.  
+
+## AREAS OF EXPERTISE  
+- Project Lifecycle Management  
+- ICT Systems & Infrastructure  
+- Vendor & Stakeholder Engagement  
+- Identity & Access Management  
+- Access Governance & Compliance  
+- RBAC & Access Matrix Modeling  
+- Okta Integration  
+- Stakeholder Coordination  
+- Business & Technical Change Delivery  
+
+## KEY ACHIEVEMENTS  
+**Identity & Access Management Enhancement – AIG Australia**  
+- Led the implementation of RBAC framework for access governance, reducing security risks and ensuring compliance with industry standards.  
+- Conducted access matrix modeling to streamline user permissions and improve overall system security.  
+- Coordinated Okta integration for seamless identity management and enhanced user experience.  
+
+**Network Modernisation & Security Enhancement – AIG Australia**  
+- Led network redesign and firewall enhancement project across distributed sites in coordination with enterprise architecture.  
+- Conducted vendor briefings, managed procurement schedules, and facilitated stakeholder training sessions.  
+- Developed and maintained comprehensive project schedules, issue logs, and final closure reports.  
+
+**Application Rollout & End-User Computing Transition – AIG Shared Services**  
+- Coordinated cross-functional rollout of business productivity suite with integrated identity management.  
+- Aligned project execution with ITIL and OHS requirements and delivered staff briefings and change workshops.  
+
+## CAREER SUMMARY  
+**EnergyAustralia**  
+*Change Manager*  
+Jan 2025 – Mar 2025  
+- Developed and delivered change and communication strategies for system upgrades and new tech rollouts.  
+- Created support materials, training content, and stakeholder briefs tailored to various user groups.  
+- Led feedback survey design, impact assessments, and messaging reviews with cross-functional teams.  
+
+**AIG Australia Limited**  
+*Program Manager – Business Transformation & ICT Projects*  
+Jan 2020 – Oct 2024  
+- Delivered a portfolio of enterprise system enhancements and ICT infrastructure upgrades under hybrid methodologies.  
+- Managed third-party contract resources supporting business and technical change, data migration, and training.  
+- Facilitated requirements workshops, translated technical needs, and oversaw solution implementation.  
+
+**AIG Shared Services**  
+*ICT Projects & Operations Lead – Shared Services APAC*  
+Jan 2011 – Dec 2018  
+- Managed technology transition projects including end-user computing refresh, service desk platform upgrades, and process reengineering.  
+- Worked with global teams to coordinate rollouts, vendor schedules, and change readiness.  
+- Supervised contract resource delivery and managed technical documentation, test planning, and transition to BAU.  
+
+## EDUCATION  
+- Bachelor of Information Technology | Kent University (2025)  
+- Cert IV in Security Networking | Danford Colleges (2021)  
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)  
+- Lean Six Sigma Black Belt | ACS Xerox  
+- Prosci-Informed Change Practitioner (Experience-Based)  
+
+## TECHNICAL SKILLS  
+- Microsoft 365 | SharePoint | Microsoft Intune | Azure AD | Conditional Access Policies | Office 365  
+- ServiceNow | Power BI | Jira | Visio | Miro  
+
+## AVAILABILITY  
+Available immediately | Open to identity access management and compliance roles  
+Referee details available on request

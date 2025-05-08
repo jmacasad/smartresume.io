@@ -1,0 +1,9 @@
+**Alignment Summary:**  
+The candidate's resume demonstrates a strong alignment with the key requirements of the ICT Business Analyst role. With 7+ years of experience in business analysis, process mapping, stakeholder engagement, and technical documentation, the candidate showcases relevant skills such as requirements gathering, process optimization, and Agile team collaboration. The resume highlights key projects involving end-to-end requirements gathering, process flow design, and change management support, which are directly applicable to the responsibilities outlined in the job description. However, the resume could be enhanced by explicitly mentioning experience with business intelligence tools, data analysis platforms, and managing cross-functional project teams, as emphasized in the job description.
+
+**Clarification Questions:**
+1. Can you quantify the impact of your process optimization initiatives in terms of efficiency gains or cost savings?
+2. Have you led any projects involving the design and implementation of IT solutions that align with business needs and strategic goals?
+3. Could you provide more details on your experience with business intelligence tools and data analysis platforms, including specific tools used and outcomes achieved?
+4. How have you managed and coordinated testing activities to ensure high-quality system functionality in your previous roles?
+5. Can you elaborate on your experience in mentoring, supporting, and sharing knowledge with project teams and stakeholders, especially in driving successful project outcomes?

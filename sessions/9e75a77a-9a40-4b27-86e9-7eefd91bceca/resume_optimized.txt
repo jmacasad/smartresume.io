@@ -1,0 +1,59 @@
+# Executive Summary
+Dynamic People Analytics Implementation Lead with a proven track record of driving successful data integration, analytics, and insights projects. Experienced in collaborating with global teams and leading customers through timely implementations. Skilled in managing ambiguity and translating technical requirements for different user groups.
+
+# Areas of Expertise
+- Data Integration
+- Customer Enablement
+- Project Management
+- Reporting Solutions
+- Cross-Functional Collaboration
+- HR Data Systems
+- Forecasting
+- Product Enablement
+
+# Key Achievements
+- Led Mulesoft-powered risk/claims dataset rollout at AIG APAC, achieving 100% data accuracy, halving report prep time, and accelerating executive insights delivery by 2 days.
+- Architected ETL pipelines at AIG to ingest risk & claims data with 100% accuracy, cutting report prep time by 50%.
+- Led Workday ERP rollout at AIG Australia, overseeing data migration, custom report building, and training module creation in SuccessFactors.
+- Managed a 6-month claims redesign schedule at AIG, clarifying 90% of uncertain requirements and delivering all milestones on time.
+
+# Career Summary
+**Education**
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+
+**Certification**
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+# Technical Skills
+Microsoft 365 | SharePoint | Microsoft Intune | Azure AD | Conditional Access Policies | Office 365 | ServiceNow | Power BI | Jira | Visio | Miro
+
+# Professional Experience
+
+## EnergyAustralia
+**Change Manager** | Jan 2025 – Mar 2025
+- Led change delivery for government-mandated regulatory transformation initiatives, ensuring alignment between regulatory objectives and internal business processes.
+- Developed playbooks, process change documentation, and supported system updates tied to new regulatory frameworks.
+- Supported stakeholder engagement and compliance tracking with analytics and reporting teams.
+
+## AIG Australia Limited
+**Data and Reporting Governance Lead** | Jan 2020 – Oct 2024
+- Delivered end-to-end reporting solutions to support actuarial, finance, claims underwriting, and operational efficiency.
+- Developed actionable reports and visual dashboards for executive teams using SQL and Power BI.
+- Collaborated with business leaders and IT to implement data models supporting capital works and office safety planning.
+**[HR Data Systems]** Implemented enhancements based on user feedback and standardized data queries for underwriting and claims operations.
+
+## AIG Shared Services
+**Operations Analyst – Workforce & Project Reporting** | Jan 2011 – Dec 2018
+- Oversaw reporting processes related to project resource tracking, procurement alignment, and cost centre performance.
+- Created automated Excel dashboards to report on workforce planning KPIs and contractor utilization.
+- Supported project and operational teams in aligning reporting tools with business planning cycles.
+**[Cross-Functional Collaboration]** Worked with IT and HR to improve process transparency and documentation standards.
+
+## ACS Xerox
+**Process Improvement Leader** | Jan 2010 – Nov 2011
+- Facilitated call centre transformation using Lean Six Sigma, resulting in a 10% cost reduction and improved customer satisfaction scores.
+- Introduced a real-time performance dashboard to monitor and improve agent productivity, adopted enterprise-wide.
+- Partnered with operations to design training rollout strategies that achieved 100% compliance with updated process standards.

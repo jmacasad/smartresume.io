@@ -1,0 +1,2 @@
+- Led AIG’s rollout of risk/pricing Power BI dashboards: ran requirements workshops with 20+ business users, developed and iterated reports, and led training for 100+ customers—achieving 90% adoption and halving analysis time, empowering faster, data-driven decisions.
+- Led integration of risk & claims datasets via Mulesoft: gathered requirements with 10+ stakeholders, documented data flows in Confluence, authored test plans in SharePoint, and led UAT—delivering ETL pipelines in 8 weeks with 100% data accuracy and on-time go-live.

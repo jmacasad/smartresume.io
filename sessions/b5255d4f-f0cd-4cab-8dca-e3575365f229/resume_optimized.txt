@@ -1,0 +1,51 @@
+# JAYSON MACASADIA
+
+## Summary
+Experienced Change and Implementation Leader with over a decade supporting enterprise transformation and operational readiness in financial services. Proven success in leading wrap operations delivery, impact assessments, and business readiness for legislative, system, and process changes. Skilled in coordinating cross-functional implementation strategies, developing stakeholder communication plans, and working closely with operational teams to ensure a smooth transition from change to BAU. Strong background in wealth and insurance platforms, supported by analytical skills, governance acumen, and stakeholder engagement.
+
+## Career or Key Project Highlights
+- Led end-to-end operational change rollout across frontline customer support teams for a multi-phase regulatory compliance project at EnergyAustralia.
+- Coordinated business readiness and implementation for multiple BAU and project-based changes impacting insurance and underwriting support functions at AIG Australia.
+- Acted as implementation lead for shared services platform change at AIG Shared Services, ensuring consistent adoption of new systems and updated process documentation.
+
+## Professional Experience
+**EnergyAustralia**  
+*Change Manager – External Regulatory Changes*  
+Jan 2025 – Mar 2025  
+- Led end-to-end implementation of operational changes linked to regulatory and technology projects within wrap-adjacent operations, maintaining wrap operations performance metrics pre- and post-change.
+- Coordinated with training and knowledge management teams to produce updated SOPs and rollout communications, serving as an operational liaison to project teams.
+
+**AIG Australia Limited**  
+*Operations Program Lead and Business Support*  
+Jan 2020 – Oct 2024  
+- Managed delivery planning, operational risk reporting, and change rollout communications across insurance support functions, engaging with BA and product leads to translate requirements into implementation actions.
+- Developed stakeholder packs and pre-go-live implementation dashboards for product and legislative changes, partnering with PMs, technical staff, and delivery leads to plan and execute wrap-style process transitions.
+
+**AIG Shared Services**  
+*IT Business Analyst*  
+Jan 2011 – Dec 2018  
+- Supported change and system rollout initiatives in shared operations environments, acted as implementation lead for operational changes, and ensured continuous alignment with wrap operational expectations during transformation efforts.
+
+**ACS Xerox**  
+*Process Improvement Leader*  
+Jan 2010 – Nov 2011  
+- Conducted service workflow reviews and recommended enhancements for customer support operations, monitored uptake and stakeholder sentiment using structured feedback tools.
+
+## Education & Certification
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+## Technical Skills
+- Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online
+- Cloud & DevOps: Azure (1.5 years' experience), Azure DevOps
+- Programming & Development: JavaScript, SQL
+- Project & Process Management: Agile, Waterfall, Business Process Automation
+- Reporting & BI: Power BI, Data Analytics & Reporting
+- IT Tools: Microsoft Project, SQL Studio, MS Visio
+
+## Availability
+Available immediately | Open to business readiness and change implementation role  
+Referee details available on request

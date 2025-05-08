@@ -1,0 +1,7 @@
+**Alignment Summary:**
+The candidate's resume showcases extensive experience in project management within the ICT sector, demonstrating proficiency in leading complex digital and enterprise projects. Their background in managing cross-functional teams, engaging stakeholders, and delivering various IT initiatives aligns well with the key responsibilities outlined in the job description. The resume highlights experience in project lifecycle management, vendor/stakeholder engagement, and project planning, which are crucial skills for an ICT Business Analyst role. However, there are notable gaps in directly showcasing experience in business analysis frameworks, documentation standards, and specific tools mentioned in the job description. To enhance alignment, the candidate should emphasize their business analysis experience and familiarity with tools like BPMN and Agile methodologies.
+
+**Clarification Questions:**
+1. Can you provide specific examples of projects where you were directly involved in gathering, documenting, and analyzing business requirements to showcase your experience in business analysis?
+2. How have you utilized business process modeling tools such as BPMN or swimlane diagrams in your previous projects to improve process efficiency or identify bottlenecks?
+3. Have you led any projects where you were responsible for designing and documenting functional and technical specifications for IT solutions, and if so, can you quantify the impact of those solutions on the business processes or operations?

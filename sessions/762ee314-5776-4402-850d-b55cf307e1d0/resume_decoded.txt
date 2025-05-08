@@ -1,0 +1,70 @@
+JAYSON MACASADIA	
+Senior Business Analyst – Transformation | Reporting Optimisation | ERP & Process Redesign    
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+EXECUTIVE SUMMARY	
+Senior Business Analyst with over 10 years of experience in business transformation and enterprise reporting across local government, financial services, and regulated industries. Expert in evaluating current state processes, centralising reporting structures, and enabling ERP implementations across Finance, HR, and Procurement. Proven success in stakeholder engagement, workshop facilitation, and translating business needs into actionable system specifications. Strong focus on operating model alignment, user experience, and end-to-end reporting delivery.
+Core Competencies
+Business Transformation & Reporting Strategy | ERP Implementation Support | Stakeholder Engagement
+Requirements Gathering & Functional Specification | Dashboard & Report Design | Workshop Facilitation
+Testing & UAT Management | Centralised Reporting Frameworks | Change Enablement & End-User Support
+Tools: Power BI | Microsoft 365 | SharePoint | Office 365 | ServiceNow | Visio | Jira | Confluence
+PROJECT ACHIEVEMENTS
+Reporting Centralisation & Dashboard Optimisation – EnergyAustralia
+Evaluated legacy reporting structures and designed a user-centric Power BI reporting hub across operations and finance.
+Conducted stakeholder workshops to define reporting needs, KPIs, and central access expectations.
+Streamlined dashboard creation processes for operational and strategic reporting.
+ERP Readiness & Process Enablement – AIG Australia
+Supported ERP implementation initiatives for Finance and HR systems by gathering requirements and documenting process flows.
+Partnered with solution architects to convert business needs into functional specifications.
+Coordinated system testing, UAT, and change readiness tasks for multiple stakeholder groups.
+Transformation Process Redesign – AIG Shared Services
+Led redesign workshops focused on improving reporting, data quality, and service workflow integration.
+Provided end-user support post-implementation and facilitated training documentation.
+PROFESSIONAL EXPERIENCE
+EnergyAustralia											Jan 2025 – Mar 2025 	
+Change Manager – External Regulatory Changes
+Lead requirements gathering, feasibility studies, and software design documentation for key change initiatives.
+Translate business processes into system specifications across multiple platforms.
+Collaborate with IT, compliance, and operations teams to assess technical impacts and propose system enhancements.
+Develop functional specifications and collaborate with delivery teams through sprints and testing cycles.
+Support testing activities including test planning, execution, and defect tracking.
+Provide peer review and contribute to documentation quality assurance processes.
+Guide project stakeholders through solution design outcomes and user training.
+AIG Australia Limited										Jan 2020 – Oct 2024 	
+IT and Operations - Business Support
+Supported ERP and system transformations with a focus on Finance, HR, and procurement reporting.
+Collaborated with business SMEs to gather and analyse operational reporting needs.
+Authored business and functional requirements for system integration points.
+Coordinated end-to-end testing phases, including UAT cycles and resolution tracking.
+Delivered stakeholder briefings and post-implementation support documentation.
+Provided hands-on support for dashboard transition from legacy systems to Power BI.
+AIG Shared Services										Jan 2011 – Dec 2018 	
+ICT Business Analyst & Technical Support Lead
+Led business process reviews and reporting enhancements within shared services functions.
+Designed future-state operating models for reporting teams supporting HR and compliance.
+Assisted in change impact analysis and coordinated testing activities across the program lifecycle.
+Facilitated reporting-related training sessions and knowledge sharing initiatives.
+Developed business cases for reporting tool upgrades and automation initiatives.
+Delivered insights and documentation aligned with operating model redesign objectives.
+ACS Xerox											Jan 2010 – Nov 2011 	
+Process Improvement Leader
+Key Projects & Achievements:
+Facilitated call centre transformation using Lean Six Sigma resulting in 10% cost reduction and improved customer satisfaction scores.
+Introduced a real-time performance dashboard to monitor and improve agent productivity, adopted enterprise-wide.
+Partnered with operations to design training rollout strategies that achieved 100% compliance with updated process standards.
+EDUCATION & CERTIFICATION
+Bachelor of Information Technology | Kent University (2025)
+Cert IV in Security Networking | Danford Colleges (2021)
+Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+Lean Six Sigma Black Belt | ACS Xerox
+Prosci-Informed Change Practitioner (Experience-Based)
+TECHNICAL SKILLS
+Microsoft 365 | SharePoint | Microsoft Intune | Azure AD | Conditional Access Policies | Office 365 | ServiceNow | Power BI | Jira | Visio | Miro
+TRAINING & DEVELOPMENT
+Microsoft 365 & Power BI Reporting (Internal Uplift)
+Fundamentals of Agile Business Analysis (Short Course)
+Fundamentals of Cybersecurity (Self-paced)
+Exposure to ACSC Essential 8 & ITIL v4 practices
+AVAILABILITY
+Available immediately | Open to business readiness and change implementation role
+Referee details available on request

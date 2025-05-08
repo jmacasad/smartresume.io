@@ -1,0 +1,53 @@
+# Executive Summary
+Dynamic and results-driven ICT Business Analyst with 8+ years of experience in driving digital transformation and operational efficiency within fast-growing organizations. Proficient in business analysis frameworks, Agile methodologies, and project management tools.
+
+# Areas of Expertise
+- Business Process Modelling
+- Workflow Analysis
+- System Design
+- Stakeholder Engagement
+- Project Lifecycle Management
+
+# Key Achievements
+- Led regulatory transformation initiatives across utilities operations, ensuring compliance with mandates.
+- Facilitated stakeholder engagement to gather functional and technical requirements, enhancing project outcomes.
+- Developed comprehensive technical documentation and supported business case development for IT projects.
+
+# Career Summary
+- **Education:** Bachelor’s degree in Business
+- **Certification:** Agile Methodologies
+
+# Technical Skills
+- Agile Methodology
+- Business Intelligence
+- Business Requirements Analysis
+- Confluence
+- Functional Specification
+- Offshore Resource
+- Operational Efficiency
+- Project Management Tools (Jira, Trello)
+- Project Team Management
+- Remote Team Management
+- Swimlane Diagram
+- Technical Specification
+
+# Professional Experience
+## EnergyAustralia
+**Change Lead – Regulatory Compliance**
+- Implemented Agile methodologies to streamline compliance processes and enhance operational efficiency.
+- Utilized Confluence for documenting detailed requirements and user stories, ensuring alignment with compliance mandates.
+
+## AIG Australia Limited
+**Operations Program Lead and Business Support**
+- Managed offshore resources effectively, ensuring seamless collaboration and project delivery.
+- Utilized Jira for project team management, facilitating sprint planning and retrospectives.
+
+## AIG Shared Services
+**IT Business Project Manager / Business Analyst**
+- Developed swimlane diagrams to map end-to-end process flows, enhancing operational efficiency.
+- Prepared technical specifications for IT solutions, ensuring alignment with business requirements.
+
+## ACS Xerox
+**Process Improvement Leader**
+- Managed remote teams to drive process improvement initiatives, enhancing operational efficiency.
+- Utilized Trello for project management, tracking implementation readiness and success metrics.

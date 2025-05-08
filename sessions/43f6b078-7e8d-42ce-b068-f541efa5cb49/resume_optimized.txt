@@ -1,0 +1,38 @@
+# JAYSON MACASADIA
+
+## Executive Summary
+Results-oriented leader with expertise in Agile methodologies, business process optimization, and stakeholder engagement. Proven track record of implementing operational improvements, leading cross-functional teams, and delivering high-impact projects. Skilled in data analytics, Power BI reporting, and driving continuous improvement initiatives.
+
+## Career or Key Project Highlights
+- Implemented Agile methodology resulting in a 25% reduction in project delivery time, showcasing adaptability and agile practice.
+- Enhanced cross-functional collaboration, improving operational efficiency by 10% in a product-driven environment.
+- Led the development and deployment of Power BI dashboards for executive stakeholders, demonstrating technology understanding.
+
+## Skills
+**Technical Skills:** Agile Transformation & Coaching, Agile Governance, Business Analysis, Salesforce, Power BI, Data Analytics & Reporting, Microsoft Power Platform, Cloud & DevOps (Azure), JavaScript, SQL, Business Process Automation, Microsoft Project, Visio  
+**Soft Skills:** Relationship Building, Adaptability, Stakeholder Engagement  
+**Tools & Technologies:** SAFe, Scrum & Kanban Frameworks, Service Design & Delivery, Automation & Digital Transformation
+
+## Experience
+**Change Manager at Energy Australia**  
+- Led end-to-end implementation of regulatory transformations, aligning with sector-wide standards.
+- Developed governance frameworks improving compliance risk management and timely adoption of changes.
+- Designed stakeholder engagement strategies for clear communication and alignment.
+- Identified automation opportunities, improving efficiency and reducing manual workload.
+
+**Operations Program & Reporting Lead at AIG Australia Limited**
+- Spearheaded operational initiatives leveraging Lean Six Sigma and Agile principles.
+- Built partnerships with senior leaders and regulators to assess risks and develop mitigation plans.
+- Redesigned customer journey, enhancing service design and compliance outcomes.
+- Collaborated on scalable solutions for enterprise reporting and process automation.
+
+**IT Business Project Manager at AIG Shared Services**
+- Led global migration strategies ensuring minimal disruption during transitions.
+- Managed cross-functional teams to meet global delivery standards.
+- Implemented SLA reporting and drove ongoing improvements through analytics.
+- Developed operational KPIs and facilitated stakeholder alignment for project success.
+
+**Process Improvement Manager at ACS Xerox**
+- Led reviews of call center operations, identifying inefficiencies and implementing improvements.
+- Designed process standardization initiatives, driving continuous improvement.
+- Co-created solutions with internal and client stakeholders for enhanced performance.

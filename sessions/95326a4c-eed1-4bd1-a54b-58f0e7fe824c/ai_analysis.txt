@@ -1,0 +1,7 @@
+**Alignment Summary:**
+The candidate's resume showcases a strong background in business analysis, process mapping, stakeholder engagement, and technical documentation, which are relevant skills for the People Analytics Implementation Lead role. The candidate's experience in leading end-to-end requirements gathering, collaborating with stakeholders, and supporting change activities demonstrates an ability to manage project implementations effectively. However, there are notable gaps in direct experience with people analytics, HR data systems, and data visualization tools mentioned in the job description. To enhance alignment, the candidate could highlight any exposure to HR data systems, data analytics, or reporting solutions in their previous roles.
+
+**Clarification Questions:**
+1. Can you provide specific examples of projects where you have worked with HR data systems or analytics tools to showcase your experience in this area?
+2. Have you led any implementations or projects related to data integration, data engineering, or metric building that align with the responsibilities outlined in the job description?
+3. Could you quantify the impact of your process mapping and workflow design initiatives in terms of efficiency improvements or business outcomes to demonstrate the value you bring to project implementations?

@@ -1,0 +1,10 @@
+**Alignment Summary:** 
+
+The candidate's resume demonstrates a strong alignment with the job description for the Regional OCM Lead position at McCain Foods. Jayson's extensive experience in leading operational change and implementation strategies within financial services, specifically in regulatory compliance and system changes, reflects a solid foundation for managing organizational change. His background in coordinating business readiness, conducting impact assessments, and facilitating stakeholder communication closely mirrors the responsibilities outlined in the job description. Additionally, Jayson's proficiency in tools like PowerPoint, Excel, and SharePoint resonates with the preferred qualifications mentioned. However, the resume could benefit from highlighting specific experience in creating change management strategies and plans, collaborating with global teams, and measuring the success of change initiatives through KPIs to further enhance alignment with the role.
+
+**Clarification Questions:**
+1. Can you provide quantifiable results or metrics from your past projects that showcase the successful adoption of change initiatives and the impact on employee proficiency?
+2. How have you specifically engaged with HR, Learning teams, and Communication teams in your previous roles to ensure effective stakeholder engagement and communication during change initiatives?
+3. Could you elaborate on your experience with developing actionable deliverables for major change management levers such as communication plans, training plans, sponsor roadmaps, and resistance management plans in your previous positions?
+4. Have you led or been involved in any SAP transformations, particularly SAP S/4HANA implementations, that could further demonstrate your expertise in supporting technology-driven organizational changes?
+5. Can you provide examples of how you have fostered a culture of continuous improvement post-implementation and gathered feedback to refine change approaches in your previous roles?

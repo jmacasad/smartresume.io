@@ -1,0 +1,7 @@
+**Alignment Summary:**
+The candidate's resume demonstrates a strong alignment with the job description for the ICT Business Analyst position at Telelink Distributor. Jayson's extensive experience in data analysis, reporting, and governance within the government and financial services sectors showcases his ability to work with complex data sets and provide actionable insights. His project achievements highlight skills in business intelligence, data visualization, and process improvement, which are directly relevant to the key responsibilities outlined in the job description. However, the resume could be enhanced by explicitly highlighting experience in collaborating with cross-functional teams, documenting functional specifications, and leading full project lifecycles as emphasized in the job requirements.
+
+**Clarification Questions:**
+1. Can you provide specific examples or metrics that demonstrate the impact of your data reporting and governance solutions on improving operational efficiency or decision-making within your previous roles?
+2. How have you effectively collaborated with IT teams or stakeholders to ensure the alignment of data analytics projects with strategic business goals and objectives?
+3. Have you led any projects involving the development and implementation of Agile methodologies or project management tools like JIRA, Confluence, or Trello? If so, how did these initiatives contribute to the successful delivery of IT solutions or process improvements?

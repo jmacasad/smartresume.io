@@ -1,0 +1,46 @@
+# JAYSON MACASADIA
+
+## Executive Summary
+Results-driven digital platforms leader with expertise in technology transformation, platform modernization, and cross-functional team leadership. Experienced in managing enterprise digital platforms, integration architecture, and end-to-end delivery governance. Skilled at driving CX transformation, implementing Agile practices, and aligning digital operations with organizational goals.
+
+## Career or Key Project Highlights
+- Supported budget preparation and financial models to align regulatory and operational initiatives.
+- Enhanced project delivery efficiency by 25% through Agile adoption.
+- Improved reporting accuracy and delivery time by 30% through streamlined data practices.
+- Standardized toolkits and reporting cadence for on-time project completion across compliance programs.
+- Developed governance frameworks for finance-related transformation initiatives.
+
+## Skills
+### Technical Skills
+- Microsoft Power Platform: PowerApps, Power Automate, Power BI, Dynamics 365, SharePoint Online
+- Cloud & DevOps: Azure (1.5 years' experience), Azure DevOps
+- Programming & Development: JavaScript, SQL
+- Project & Process Management: Agile, Waterfall, Business Process Automation
+- Reporting & BI: Power BI, Data Analytics & Reporting
+- IT Tools: Microsoft Project, SQL Studio, MS Visio
+
+## Experience
+### EnergyAustralia (Jan 2025 – Mar 2025)
+#### Change Manager – External Regulatory Management
+- Led regulatory and compliance changes ensuring adherence to legal requirements.
+- Developed governance frameworks and risk mitigation strategies.
+- Enhanced business process efficiency through regulatory automation initiatives.
+
+### AIG Australia Limited (Jan 2020 – Oct 2024)
+#### Operations Program & Reporting Lead
+- Identified opportunities for process optimization and innovation.
+- Built relationships with regulatory bodies to stay informed about changes.
+- Oversaw end-to-end delivery of impactful solutions aligned with goals.
+- Led integration architecture across applications using Mulesoft.
+- Managed delivery performance reporting and tech roadmap alignment.
+
+### AIG Shared Services (Jan 2011 – Dec 2018)
+#### IT Business Project Manager / Business Analyst
+- Spearheaded the development of a standardized migration methodology.
+- Managed end-to-end migrations from global partners and customers.
+- Established key metrics for existing and migrated processes.
+
+## Education
+- Bachelor of Information Technology | Kent University, 2025
+- Cert IV in Security Networking | Danford Colleges, 2021
+- Bachelor of Science in Marketing | Lyceum of Batangas University, 1998

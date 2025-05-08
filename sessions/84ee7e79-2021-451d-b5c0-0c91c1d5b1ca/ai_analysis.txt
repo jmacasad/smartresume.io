@@ -1,0 +1,9 @@
+**Alignment Summary:**
+The candidate's resume showcases a strong background in project management, process improvement, and regulatory compliance, which are relevant skills for the Identity Access Manager role. The resume highlights experience in overseeing complex projects, collaborating with cross-functional teams, and implementing governance frameworks. However, there are notable gaps in direct experience related to access control processes, access management tools such as Okta, and specific certifications like CISSP. To enhance alignment with the job description, the candidate could consider emphasizing any prior experience with access control models, detailing specific achievements related to access management, and potentially obtaining relevant certifications to strengthen their profile for this role.
+
+**Clarification Questions:**
+1. Can you provide specific examples of projects where you were directly involved in managing access control processes or optimizing access models within an organization?
+2. Have you worked with any access management tools similar to Okta in your previous roles, and if so, how did these tools contribute to improving access management efficiency?
+3. Are there any instances where you successfully ensured compliance with internal policies or regulatory requirements related to access control that could be highlighted in your resume?
+4. Have you pursued any relevant certifications in access management or cybersecurity that could be beneficial for demonstrating your expertise in this area?
+5. How have your previous roles involved communication and collaboration with application administrators or owners to streamline access management processes, and how did these interactions contribute to improving access control within the organization?

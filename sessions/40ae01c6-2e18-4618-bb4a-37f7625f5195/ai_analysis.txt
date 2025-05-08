@@ -1,0 +1,7 @@
+**Alignment Summary:**
+The candidate's resume showcases extensive experience in change management within the financial services sector, demonstrating skills in leading operational changes, facilitating stakeholder engagement, and managing business readiness. While the candidate has a strong background in driving enterprise-wide transformations and aligning digital solutions with operational goals, there are notable gaps in direct experience related to identity access management, access control processes, and specific knowledge of access control models and tools mentioned in the job description. To enhance alignment with the Identity Access Manager role, the resume could benefit from highlighting any relevant experience in access management, access control tools/software, and certifications related to access control models.
+
+**Clarification Questions:**
+1. Can you provide specific examples of your experience in managing access control processes or defining access rules in your previous roles within the financial services industry?
+2. Have you had any exposure to implementing access management processes for various company resources, and if so, how did you ensure compliance with internal policies?
+3. Do you possess any certifications or training related to access control models, access management tools/software, or information security that could strengthen your qualifications for the Identity Access Manager position?

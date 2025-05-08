@@ -1,0 +1,88 @@
+## JAYSON MACASADIA
+
+Senior Data & Reporting Analyst | Identity Access Manager | Asset & Operational Analytics  
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012  
+
+### EXECUTIVE SUMMARY
+Experienced Data and Reporting Analyst with a proven track record in Identity & Access Management, RBAC, and access governance. Skilled in leading compliance reviews, developing access matrix models, and coordinating with stakeholders to ensure seamless access control. Adept at leveraging tools such as Okta to enhance security and streamline user access processes.  
+
+### AREAS OF EXPERTISE
+- Identity & Access Management
+- RBAC Implementation
+- Access Matrix Modeling
+- Compliance Reviews
+- Stakeholder Coordination
+- Okta Integration
+- Data Governance
+- Business Intelligence & Data Visualisation
+
+### KEY ACHIEVEMENTS
+**Access Control Enhancement – EnergyAustralia**
+- Implemented RBAC framework to enhance access control mechanisms for critical infrastructure systems.
+- Developed access matrix models to streamline user permissions and improve data security.
+- Led compliance reviews to ensure alignment with regulatory requirements and industry standards.
+
+**Okta Integration & Access Governance – AIG Australia**
+- Spearheaded the integration of Okta for centralized identity management and access control.
+- Conducted access governance reviews to monitor and enforce data security policies.
+- Collaborated with stakeholders to define access roles and responsibilities, ensuring compliance with internal policies.
+
+**Identity & Access Management Framework – AIG Shared Services**
+- Designed and implemented an Identity & Access Management framework to centralize user access across multiple systems.
+- Conducted regular audits to assess access controls and mitigate security risks.
+- Provided training and support to end-users on access management best practices.
+
+### CAREER SUMMARY
+**Identity Access Manager – EnergyAustralia**  
+*Jan 2025 – Mar 2025*
+- Implemented RBAC framework to strengthen access controls for critical systems.
+- Conducted access matrix modeling to optimize user permissions and data security.
+- Collaborated with stakeholders to ensure compliance with industry regulations.
+
+**Data and Reporting Governance Lead – AIG Australia Limited**  
+*Jan 2020 – Oct 2024*
+- Led Okta integration for centralized identity management and access control.
+- Conducted access governance reviews to enforce data security policies.
+- Defined access roles and responsibilities in alignment with internal compliance standards.
+
+**Operations Analyst – Workforce & Project Reporting – AIG Shared Services**  
+*Jan 2011 – Dec 2018*
+- Developed Identity & Access Management framework to streamline user access.
+- Conducted regular audits to assess and enhance access controls.
+- Provided training on access management best practices to end-users.
+
+### EDUCATION
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+### TECHNICAL SKILLS
+- Microsoft 365 | SharePoint | Microsoft Intune | Azure AD | Conditional Access Policies | Office 365 | ServiceNow | Power BI | Jira | Visio | Miro
+
+### PROFESSIONAL EXPERIENCE
+**EnergyAustralia**  
+*Change Manager*  
+*Jan 2025 – Mar 2025*
+- Led change delivery for identity and access control initiatives.
+- Coordinated access governance readiness and compliance training.
+- Ensured alignment between access control objectives and business processes.
+
+**AIG Australia Limited**  
+*Data and Reporting Governance Lead*  
+*Jan 2020 – Oct 2024*
+- Implemented Okta integration for centralized access management.
+- Conducted access governance reviews to enforce data security policies.
+- Collaborated with stakeholders to define access roles and responsibilities.
+
+**AIG Shared Services**  
+*Operations Analyst – Workforce & Project Reporting*  
+*Jan 2011 – Dec 2018*
+- Developed Identity & Access Management framework to streamline user access.
+- Conducted audits to assess and enhance access controls.
+- Provided training on access management best practices.
+
+### AVAILABILITY
+Available immediately | Open to Identity Access Manager roles  
+Referee details available on request

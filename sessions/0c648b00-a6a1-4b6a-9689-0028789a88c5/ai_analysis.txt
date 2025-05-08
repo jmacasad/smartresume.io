@@ -1,0 +1,9 @@
+**Alignment Summary:**
+The candidate's resume showcases a strong background in data analysis, reporting, and governance, which aligns well with the analytical aspects of the People Analytics Implementation Lead role. Their experience in leading analytics processes, managing large datasets, and providing actionable insights demonstrates proficiency in handling data-related tasks. However, there are notable gaps in direct experience with People Analytics implementation, HR data systems like Workday or SuccessFactors, and specific responsibilities outlined in the job description such as data integration, metric and storyboard build, and customer validation support. To enhance alignment, the candidate could consider highlighting any experience with implementation consulting, exposure to HR data systems, and specific examples of successful data project implementations.
+
+**Clarification Questions:**
+1. Can you provide specific examples of your experience in leading customers through the implementation of new datasets or data projects, including the coordination of data engineering resources and requirements gathering?
+2. Have you worked on projects involving the setup and review of tools like Smartsheet for project plans and requirements, as mentioned in the job description?
+3. Could you quantify the impact of your data reporting and governance initiatives in terms of improved decision-making, process efficiency, or stakeholder engagement to demonstrate the value of your work to potential employers?
+4. Do you have any experience collaborating with cross-functional teams, particularly with product, engineering, and support teams, to test and implement new features or products as mentioned in the job description?
+5. Have you been involved in scoping discussions for new data project requests to assess customer requirements and provide internal effort estimates, and if so, could you provide details on those experiences?

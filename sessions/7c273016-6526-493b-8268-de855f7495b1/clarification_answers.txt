@@ -1,0 +1,2 @@
+- Guided AIG APAC stakeholders through a Mulesoft-powered risk/claims dataset rollout, achieving 100% data accuracy, halving report prep time (60→30 hrs/mo), and accelerating executive insights delivery by 2 days—driving 40% higher dashboard adoption.
+- Yes—at AIG Australia, I led a Workday ERP rollout: gathering requirements, overseeing data migration and testing, and building custom reports. I also used SuccessFactors to create training modules, track completion metrics, and maintain user access and data integrity in the HRIS.

@@ -1,0 +1,11 @@
+**Alignment Summary:** 
+
+The candidate's resume showcases a strong alignment with the key requirements of the Senior Business Analyst role at Pepperstone. They have demonstrated experience in Agile methodologies, stakeholder engagement, process improvement, and business analysis across various industries. The candidate's achievements in implementing Agile methodologies, enhancing collaboration, and leading operational initiatives reflect their ability to deliver impactful business solutions and drive continuous improvement. Their expertise in Power BI, data reporting, and process automation align well with the job description's emphasis on technology understanding and continuous learning. However, the resume could benefit from more explicit mentions of Salesforce experience and specific examples of collaborating with Agile teams to deliver business solutions.
+
+**Clarification Questions:**
+
+1. Can you provide specific examples of how you have engaged with clients, vendors, and subject-matter experts to define and document requirements in your previous roles?
+2. How have you prioritized backlog items based on business value in your projects, and can you quantify the impact of this prioritization on project success?
+3. Could you elaborate on your experience in supporting the creation of low- and high-fidelity prototypes, especially in the context of enhancing processes or client onboarding lifecycle?
+4. Have you been directly involved in refining user stories and requirements while providing support to Agile teams in achieving project goals? If so, can you provide a concrete example of a successful refinement process?
+5. In what ways have you promoted the adoption of Agile practices and contributed to continuous improvement in your previous roles, and can you quantify the results of these initiatives?

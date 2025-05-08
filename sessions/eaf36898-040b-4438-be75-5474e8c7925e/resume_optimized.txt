@@ -1,0 +1,69 @@
+# Executive Summary
+Expert in people analytics implementation with a proven track record of delivering end-to-end reporting solutions. Skilled in cross-functional collaboration and customer enablement to drive successful data integration projects.
+
+# Areas of Expertise
+- Data Integration
+- Reporting Solutions
+- Cross-Functional Collaboration
+- Customer Enablement
+- Project Management
+
+# Key Achievements
+- Led the implementation of Workday at AIG Australia, resulting in improved HR and Operations data quality.
+- Developed online mandatory training using SucessFactor, enhancing employee learning outcomes.
+- Facilitated call center transformation at ACS Xerox, achieving a 10% cost reduction and increased customer satisfaction scores.
+
+# Career Summary
+**Education**
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+**Technical Skills**
+Microsoft 365 | SharePoint | Microsoft Intune | Azure AD | Conditional Access Policies | Office 365 | ServiceNow | Power BI | Jira | Visio | Miro
+
+**Professional Experience**
+
+**EnergyAustralia**
+*Change Manager* | Jan 2025 – Mar 2025
+- Coordinated change delivery for government-mandated regulatory transformation initiatives.
+- Partnered with analytics teams to track project compliance and adoption metrics.
+- Developed playbooks and process change documentation for new regulatory frameworks.
+
+**AIG Australia Limited**
+*Data and Reporting Governance Lead* | Jan 2020 – Oct 2024
+- Delivered end-to-end reporting solutions for actuarial, finance, and claims operations.
+- Developed actionable reports and visual dashboards using SQL and Power BI.
+- Standardized data queries and streamlined reporting processes for operational efficiency.
+
+**AIG Shared Services**
+*Operations Analyst – Workforce & Project Reporting* | Jan 2011 – Dec 2018
+- Oversaw reporting processes for project resource tracking and cost center performance.
+- Created automated Excel dashboards for reporting on KPIs and contractor utilization.
+- Supported cross-functional teams in aligning reporting tools with business planning cycles.
+
+**ACS Xerox**
+*Process Improvement Leader* | Jan 2010 – Nov 2011
+- Facilitated call center transformation using Lean Six Sigma, resulting in cost reduction and improved customer satisfaction scores.
+- Introduced real-time performance dashboard to monitor agent productivity enterprise-wide.
+- Designed training strategies to achieve 100% compliance with updated process standards.
+
+**Missing JD Skills:**
+- **[Bachelor's Degree]** Obtained Bachelor's degree in Information Technology.
+- **[Configuration]** Led setup and configuration of Workday at AIG Australia.
+- **[Global Team Collaboration]** Collaborated with global teams to ensure successful data integration projects.
+- **[HR Data System]** Implemented HR data systems such as Workday and SuccessFactors.
+- **[Requirements Gathering]** Conducted requirements gathering for data integration projects.
+- **[Zendesk]** Collaborated with internal teams to test and implement new Zendesk features.
+- **[Forecast]** Led delivery of predictive and forecasting statistical models for business use cases.
+- **[Ambiguity Management]** Successfully managed tasks in ambiguous situations.
+- **[Knowledge Management]** Provided guidance on knowledge management and product documentation needs.
+- **[Product Enablement]** Collaborated with Product team on enablement of new features and products.
+- **[Scoping Discussion]** Led scoping discussions around new data project requests to assess customer requirements.
+- **[Smartsheet]** Set up and reviewed Smartsheet for project plans and requirements.
+- **[Statement of Work]** Assisted Sales with proposed Statement of Work reviews for implementation language.
+- **[Storyboard]** Built metrics and storyboards for customer data projects.
+- **[Implementation Scalability]** Collaborated with internal teams to test and implement new beta feature roll-outs related to implementation scalability.
+- **[Data Engineering]** Supported data engineering resources to acquire, configure, and test integration of new data.

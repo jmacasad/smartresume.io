@@ -1,0 +1,75 @@
+# Executive Summary
+Dynamic People Analytics Implementation Lead with a proven track record of successful project management and data integration. Skilled in collaborating with cross-functional teams to deliver actionable insights and drive business success.
+
+# Areas of Expertise
+- Data Integration
+- Project Management
+- Stakeholder Engagement
+- Business Intelligence
+- Process Improvement
+- Global Team Collaboration
+
+# Key Achievements
+- Led Workday people analytics project, integrating engagement, performance, and attrition data into Power BI, achieving 80% dashboard adoption.
+- Oversaw data migration and custom reporting at AIG, achieving 100% data accuracy and cutting HR report prep time by 33%.
+- Defined requirements for Mulesoft data integration at AIG, reducing scope creep by 25%.
+
+# Career Summary
+## Education
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+## Certification
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+# Technical Skills
+- Microsoft 365
+- SharePoint
+- Microsoft Intune
+- Azure AD
+- Conditional Access Policies
+- Office 365
+- ServiceNow
+- Power BI
+- Jira
+- Visio
+- Miro
+- Business Intelligence
+- Configuration
+- Data Analytics
+- Data Engineering
+- Data Visualization
+- Global Team Collaboration
+- HR Data Systems
+- People Analytics
+- Scoping
+- Setup
+- Smartsheet
+- Storyboard
+- Zendesk
+
+# Professional Experience
+## EnergyAustralia | Jan 2025 – Mar 2025
+Change Manager – External Regulatory Changes
+- Led requirements gathering and feasibility studies for key change initiatives, ensuring alignment with business processes.
+- Translated business processes into system specifications across multiple platforms, enhancing technical impacts assessment.
+- Collaborated with IT, compliance, and operations teams to propose system enhancements, fostering cross-functional collaboration.
+
+## AIG Australia Limited | Jan 2020 – Oct 2024
+IT and Operations - Business Support
+- Supported ERP and system transformations, focusing on Finance, HR, and procurement reporting.
+- Authored business and functional requirements for system integration points, ensuring seamless data flow.
+- Delivered stakeholder briefings and post-implementation support documentation, enhancing user adoption.
+
+## AIG Shared Services | Jan 2011 – Dec 2018
+ICT Business Analyst & Technical Support Lead
+- Led business process reviews and reporting enhancements within shared services functions, optimizing operational efficiency.
+- Facilitated reporting-related training sessions and knowledge sharing initiatives, promoting data-driven decision-making.
+- Developed business cases for reporting tool upgrades and automation initiatives, driving process improvements.
+
+## ACS Xerox | Jan 2010 – Nov 2011
+Process Improvement Leader
+- Facilitated call center transformation using Lean Six Sigma, resulting in cost reduction and improved customer satisfaction.
+- Introduced a real-time performance dashboard to monitor and improve agent productivity, enhancing operational efficiency.
+- Partnered with operations to design training rollout strategies, ensuring compliance with updated process standards.

@@ -1,0 +1,87 @@
+# Executive Summary
+Dynamic and results-driven Change Manager with a proven track record of leading regulatory transformation initiatives and delivering end-to-end reporting solutions. Skilled in stakeholder engagement, data governance, and process improvement. Seeking a challenging role as a People Analytics Implementation Lead to leverage my expertise in driving successful customer onboarding and data integration.
+
+# Areas of Expertise
+- Change Management
+- Data Governance
+- Reporting Solutions
+- Stakeholder Engagement
+- Process Improvement
+- Project Management
+
+# Key Achievements
+- Led change delivery for government-mandated regulatory transformation initiatives, ensuring alignment between regulatory objectives and internal business processes.
+- Delivered actionable reports and visual dashboards for executive teams, resulting in improved decision-making processes.
+- Facilitated call center transformation using Lean Six Sigma, leading to a 10% cost reduction and enhanced customer satisfaction scores.
+
+# Career Summary
+**Education**
+- Bachelor of Information Technology | Kent University (2025)
+- Cert IV in Security Networking | Danford Colleges (2021)
+- Bachelor of Science in Marketing | Lyceum of Batangas University (1998)
+
+**Certification**
+- Lean Six Sigma Black Belt | ACS Xerox
+- Prosci-Informed Change Practitioner (Experience-Based)
+
+# Technical Skills
+- Microsoft 365
+- SharePoint
+- Microsoft Intune
+- Azure AD
+- Conditional Access Policies
+- Office 365
+- ServiceNow
+- Power BI
+- Jira
+- Visio
+- Miro
+
+# Professional Experience
+**EnergyAustralia**
+*Change Manager*
+- Led change delivery for government-mandated regulatory transformation initiatives across operations and digital platforms.
+- Coordinated change readiness, training, and communications for regulatory implementation across multiple business units.
+- Partnered with analytics and reporting teams to track project compliance, adoption metrics, and risk status.
+- **[Data Visualization]** Developed playbooks, process change documentation, and supported system updates tied to new regulatory frameworks.
+
+**AIG Australia Limited**
+*Data and Reporting Governance Lead*
+- Delivered end-to-end reporting solutions to support actuarial, finance, claims underwriting, and operational efficiency.
+- Conducted detailed data audits and compliance reviews to support regulatory assurance requirements.
+- Developed actionable reports and visual dashboards for executive teams using SQL and Power BI.
+- **[Workday Experience]** Collaborated with business leaders and IT to implement data models supporting capital works and office safety planning.
+
+**AIG Shared Services**
+*Operations Analyst – Workforce & Project Reporting*
+- Oversaw reporting processes related to project resource tracking, procurement alignment, and cost center performance.
+- Created automated Excel dashboards to report on workforce planning KPIs and contractor utilization.
+- Supported project and operational teams in aligning reporting tools with business planning cycles.
+- **[HR Reporting]** Worked cross-functionally with IT and HR to improve process transparency and documentation standards.
+
+**ACS Xerox**
+*Process Improvement Leader*
+- Facilitated call center transformation using Lean Six Sigma resulting in a 10% cost reduction and improved customer satisfaction scores.
+- Introduced a real-time performance dashboard to monitor and improve agent productivity, adopted enterprise-wide.
+- Partnered with operations to design training rollout strategies that achieved 100% compliance with updated process standards.
+
+**Missing JD Skills:**
+- **[People Analytics Implementation]**
+- **[Data Integration]**
+- **[Customer Onboarding]**
+- **[Project Management]**
+- **[Data Engineering]**
+- **[Requirements Gathering]**
+- **[Metric and Storyboard Build]**
+- **[Application and Data Access Role Review/Testing]**
+- **[Project Scheduling]**
+- **[Scoping Discussions]**
+- **[Knowledge Management]**
+- **[Statistical Models]**
+- **[Machine Learning]**
+- **[Beta Feature Roll-outs]**
+- **[Product Documentation]**
+- **[Implementation Tools and Templates]**
+- **[Sales Support]**
+- **[Statement of Work Reviews]**
+- **[Cross-Functional Collaboration]**
