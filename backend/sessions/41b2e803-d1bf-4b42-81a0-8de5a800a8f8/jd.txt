@@ -1,0 +1,25 @@
+Job Title: Fast growing global Fintech, newly created
+
+Fast growing global Fintech, newly created
+Take ownership and drive identity, Melbourne based
+Hybrid, Cloud only, growing team, competitive pay and bonus
+
+ A dynamic and rapidly growing global financial services company is seeking an experienced Identity Access Manager to oversee and manage their access control processes. The role will involve coordinating with application administrators, maintaining access catalogs, defining access rules, and ensuring efficient access management across various company resources. The Identity Access Manager will play a key role in optimising access models, improving security protocols, and ensuring compliance with internal policies.
+ 
+ 
+ Key Responsibilities:
+
+Manage and organise access control processes, ensuring compliance with company policies.
+Communicate with application administrators and owners to streamline access management.
+Maintain a comprehensive access catalog and define access responsibilities.
+Develop and implement access management processes for various company resources.
+Optimise access models, such as Access Matrix and RBAC.
+Conduct periodic reviews of access rights and monitor access management functionality.
+
+About You:
+
+Minimum of 6 years of experience in a similar role.
+Strong problem-solving, analytical, and communication skills.
+Deep understanding of access control models (e.g., Access Matrix, RBAC).
+Experience with access management tools and software such as Okta.
+Relevant certifications (e.g., CISSP, CIAM, CAMS, CIMP, CIGE) are a plus.

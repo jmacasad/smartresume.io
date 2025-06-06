@@ -10,11 +10,25 @@ export function UserProvider({ children }) {
   const [loading, setLoading] = useState(true);   // Prevent flash
   const [userTier, setUserTier] = useState('guest'); // guest | free | paid | premium
   const [freeUserUsageCount, setFreeUserUsageCount] = useState(0); // Usage count for free users
+  const [userProfile, setUserProfile] = useState(null);
 
+  const handleLogout = () => {
+    localStorage.removeItem('token');   // ✅ Clear the old JWT
+    setUser(null);                      // ✅ Clear user context if you’re using one
+    setProfile({                        // ✅ Reset profile state (optional)
+      summary: '',
+      experience: '',
+      skills: '',
+      education: ''
+    });
+    navigate('/login');                // ✅ Redirect to login page
+  };
 
-
+  
+  
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (firebaseUser) => {
+      console.log("🔥 Firebase user:", firebaseUser);
         if (firebaseUser) {
           setUser(firebaseUser);
           setIsGuest(false);
@@ -56,6 +70,8 @@ export function UserProvider({ children }) {
             setUserTier,
             freeUserUsageCount,
             setFreeUserUsageCount,
+            userProfile,
+            setUserProfile,
             }}
         >
             {children}

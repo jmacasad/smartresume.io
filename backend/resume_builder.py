@@ -1,12 +1,8 @@
+import json
+
 def generate_hybrid_resume(parsed):
-    resume_text = parsed.get("resume_text", "")
-    experience = parsed.get("experience", "")
     job_text = parsed.get("job_text", "")
-    extra_answers = parsed.get("extra_answers", [])
-    
-    clarifications = "\n".join(
-        f"{idx+1}. {answer.strip()}" for idx, answer in enumerate(extra_answers) if answer.strip()
-    ) or "None provided."
+
 
     # 💡 Structure prompt clearly with sections
     return [
@@ -36,3 +32,17 @@ You are helping rewrite a resume for better alignment with the following job des
 {job_text.strip()}
 """
         }]
+
+def format_resume_html(parsed):
+    """
+    Turns parsed resume data into simple HTML for testing or PDF generation.
+    """
+    return f"""
+    <html>
+      <head><style>body {{ font-family: Arial, sans-serif; }}</style></head>
+      <body>
+        <h2>Formatted Resume (Mock)</h2>
+        <pre>{json.dumps(parsed, indent=2)}</pre>
+      </body>
+    </html>
+    """

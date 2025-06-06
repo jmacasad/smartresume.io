@@ -1,0 +1,51 @@
+JAYSON MACASADIA
+Technical Business Analyst | Digital Product Delivery | Agile & Data Platforms
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+EXECUTIVE SUMMARY	
+Strategic business analyst and transformation lead with 15+ years’ experience in translating complex business needs into structured, testable digital solutions. Adept at working across product, engineering, and delivery teams to drive Agile practices, improve solution quality, and deliver high-impact customer and internal products. Proven success implementing Salesforce, Power Platform, and automation initiatives across highly regulated environments. Skilled in Miro, Visio, Jira, and stakeholder facilitation to align product delivery with business outcomes.
+Areas of Expertise
+Requirements Gathering & Process Mapping | Agile Delivery & Ceremonies | Jira & Confluence | Stakeholder Facilitation Salesforce (FSL, FSC) | Power Platform | Data Analytics & Reporting | Lucidchart, Miro, MS Visio
+User Story Development | Test Planning & Definition of Done | Regulatory Transformation | Digital Workflow Optimization
+STRATEGIC PROJECT HIGHLIGHTS
+Translated business needs into testable user stories, workflows, and process diagrams across Salesforce and OneClaim implementations.
+Led backlog grooming, sprint planning, and Agile rituals across regulatory and claims automation programs.
+Designed and validated digital workflows for underwriting and claims tools using Miro and Visio.
+Partnered with product owners, developers, and QA to clarify functional/non-functional requirements and support UAT.
+Built and deployed AI-driven Power BI dashboards to enhance executive reporting across Australia and New Zealand.
+Supported end-user training and adoption through documentation, product demos, and feedback loops.
+EDUCATION AND CERTIFICATION
+Bachelor of Information Technology | Kent University, 2025
+Cert IV in Security Networking | Danford Colleges, 2021
+Bachelor of Science in Marketing | Lyceum of Batangas University, 1998
+Lean Six Sigma Black Belt | ACS Xerox
+TECHNICAL SKILLS
+Languages & Frameworks: Python, SQL, PyTorch, TensorFlow, Transformers (HuggingFace)
+Data & Analytics: Power BI, Pandas, NumPy, Scikit-learn, Apache Spark
+MLOps: Model versioning, automated pipelines, CI/CD for ML, GitHub, Docker
+Cloud Platforms: Azure, AWS (IAM, EC2, S3), GCP (BigQuery, Vertex AI)
+Tools & DevOps: MS Project, SQL Studio, MS Visio, Jira, Confluence, Salesforce, Collibra
+PROFESSIONAL EXPERIENCE
+EnergyAustralia											Jan 2025 – Mar 2025 	
+Change Manager – External Regulatory Changes
+Defined solution requirements and supported sprint cycles for compliance automation projects.
+Used Miro and MS Visio to map workflows and regulatory impact assessments across customer operations.
+AIG Australia Limited										Jan 2020 – Oct 2024 	
+Business Support Analyst
+Owned the creation and refinement of business requirements, translating them into technical documentation and process flows.
+Partnered with product, engineering, and QA teams to deliver Salesforce FSC and OneClaim integrations across APAC.
+Facilitated Agile ceremonies and backlog prioritization using Jira and Confluence.
+Supported definition of done and QA testing through clearly defined acceptance criteria.
+Designed Power BI dashboards for performance monitoring and stakeholder insights.
+Contributed to journey mapping and feature scoping initiatives using Miro.
+AIG HQ 												Jan 2011 – Dec 2018 	
+IT Business Partner/Analyst
+Managed migrations and digital system transformations across global teams.
+Created toolkits and process maps for transitions using Visio.
+Partnered with developers and testers to define acceptance criteria and UAT plans.
+Served as a regional product owner for internal CRM and data tools, supporting global stakeholders.
+ACS Xerox											Jan 2010 – Nov 2011 	
+Process Improvement Leader
+Partnered with IT teams to design and implement back-end system improvements for call centre operations.
+Analysed system defects, implemented secure configuration updates, and supported infrastructure performance tuning.
+Co-led development of system and reporting documentation to support internal and client audit requirements.
+Referee details available on request

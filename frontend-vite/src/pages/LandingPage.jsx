@@ -1,9 +1,13 @@
-import React from 'react';
+import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../assets/ro_logo.png';
 import LoginButton from '../components/LoginButton';
+import LoginForm from '../components/LoginForm';
+import SignUpForm from '../components/SignUpForm';
 
 export default function LandingPage() {
+  const [showLogin, setShowLogin] = useState(false);
+  const [showSignup, setShowSignup] = useState(false);
   return (
     <div className="min-h-screen bg-white text-gray-900 font-sans">
       {/* Hero Section */}
@@ -13,20 +17,47 @@ export default function LandingPage() {
           Tailor Your Resume to Any Job Instantly
         </h1>
         <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
-          Paste a job ad URL + upload your resume. Get a customized, ATS-optimized version that matches the role — instantly.
+          Forget generic. Get a resume that speaks the job’s language — AI-tailored, ATS-ready. The simplest, smartest tool you’ll ever use.
         </p>
 
 
-        <div className="flex flex-col sm:flex-row justify-center gap-4 max-w-sm mx-auto w-full">
-          <Link to="/app" className="flex-1">
-            <button className="w-full px-6 py-3 bg-teal-600 text-white rounded-xl text-lg hover:bg-teal-700 transition">
-              Try It Free
-            </button>
-          </Link>
-          <div className="flex-1">
-            <LoginButton />
-          </div>
+        <div className="flex flex-col sm:flex-row justify-center gap-4 max-w-sm sm:max-w-2xl mx-auto w-full">
+          <button
+            onClick={() => {
+              setShowLogin(true);
+              setShowSignup(false);
+            }}
+            className="flex-1 bg-blue-600 text-white rounded-xl text-lg py-3 px-6 hover:bg-blue-700 transition"
+          >
+            Login
+          </button>
+
+          <button
+            onClick={() => {
+              setShowSignup(true);
+              setShowLogin(false);
+            }}
+            className="flex-1 bg-green-600 text-white rounded-xl text-lg py-3 px-6 hover:bg-green-700 transition"
+          >
+            Sign Up
+          </button>
+
+
         </div>
+
+
+
+        {showLogin && (
+          <div className="max-w-sm mx-auto mt-6">
+            <LoginForm />
+          </div>
+        )}
+
+        {showSignup && (
+          <div className="max-w-sm mx-auto mt-6">
+            <SignUpForm />
+          </div>
+        )}
       </section>
 
       {/* How It Works */}

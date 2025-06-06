@@ -1,0 +1,48 @@
+JAYSON MACASADIA
+Customer Success Architect | Business Analysis | Trading & Investment Solutions
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+EXECUTIVE SUMMARY	
+Business process transformation leader with over 15 years of experience bridging business needs with technology solutions across insurance, energy, and shared services sectors. Proven capability in gathering and documenting business requirements, modelling processes, managing regulatory transformation, and supporting end-to-end ICT delivery. Adept at facilitating workshops, translating user needs into functional specifications, and delivering projects using Agile, Waterfall, and hybrid methodologies. Experienced in Salesforce, Dynamics 365, PEGA and data-driven platforms with strong stakeholder management and documentation skills.
+Areas of Expertise
+Business Requirements Gathering | Use Cases & User Stories | Functional Specifications | Process Mapping (Visio, Lucidchart) Data Mapping & Profiling | SQL Queries | UAT Coordination | Agile & SDLC | Stakeholder Engagement Salesforce (FSC, FSL) | Dynamics 365 | Microsoft SQL Studio | Power BI | ServiceNow | Jira | Confluence | MS Project
+STRATEGIC PROJECT HIGHLIGHTS
+Delivered SaaS underwriting and OMS enhancements at AIG, streamlining trading operations and compliance tracking.
+Defined product requirements and managed stakeholder alignment across AU, SG, and PH for Salesforce FSC implementation.
+Led the enhancement and rollout of underwriting workflows on the Pega platform, resulting in improved straight-through processing and a 80% reduction in manual touchpoints across APAC operations.
+Delivered an OCR-enabled claims automation system (OneClaim) across APAC, including AU, NZ, SG, and MY.
+Created market-aligned user requirement documentation, functional specs, and process flows using Visio and Confluence.
+Built interactive dashboards and compliance metrics using Power BI and Python to support trading analytics and executive reporting.
+EDUCATION AND CERTIFICATION
+Bachelor of Information Technology | Kent University, 2025
+Cert IV in Security Networking | Danford Colleges, 2021
+Bachelor of Science in Marketing | Lyceum of Batangas University, 1998
+Lean Six Sigma Black Belt | ACS Xerox
+TECHNICAL SKILLS
+Languages & Frameworks: Python, SQL, PyTorch, TensorFlow, Transformers (HuggingFace)
+Data & Analytics: Power BI, Pandas, NumPy, Scikit-learn, Apache Spark
+MLOps: Model versioning, automated pipelines, CI/CD for ML, GitHub, Docker
+Cloud Platforms: Azure, AWS (IAM, EC2, S3), GCP (BigQuery, Vertex AI)
+Tools & DevOps: MS Project, SQL Studio, MS Visio, Jira, Confluence, Salesforce, Collibra
+PROFESSIONAL EXPERIENCE
+EnergyAustralia											Jan 2025 – Mar 2025 	
+Change Analyst – External Regulatory Changes
+Defined solution requirements and supported sprint cycles for compliance automation projects.
+Used Miro and MS Visio to map workflows and regulatory impact assessments across customer operations.
+Spearheaded adoption strategies and regulatory updates in high-compliance environments.
+Developed governance frameworks, facilitated training, and shaped regulatory tech feature rollout across cross-functional teams.
+AIG Australia Limited										Jan 2020 – Oct 2024 	
+Business Support Analyst – PEGA Applications
+Acted as BA/PM for underwriting applications built on the Pega platform, supporting automation and compliance initiatives across APAC.
+Designed and optimized business process flows using Pega’s case management and decision rules, ensuring alignment with underwriting policies.
+Led UAT testing, defect triage, and business validation activities across iterative releases, enabling seamless adoption of platform enhancements.
+Conducted end-user training, onboarding, and stakeholder workshops to support rollout of new Pega workflows and underwriting functions.
+Collaborated with technical architects and global teams to ensure solution design integrity and platform scalability.
+Supported post-implementation stabilization, managing change requests and documenting lessons learned for continuous improvement.
+AIG HQ 												Jan 2011 – Dec 2018 	
+IT Business Partner/Analyst
+Facilitated requirement workshops and led documentation of functional requirements, test plans, and handover packages.
+Created migration toolkits including checklists, process templates, and documentation frameworks.
+Conducted business process reviews and mapped systems for underwriting and policy servicing.
+Collaborated with global delivery teams to implement business systems aligned with operational goals.
+Co-led development of system and reporting documentation to support internal and client audit requirements.
+Referee details available on request

@@ -2,42 +2,21 @@ import os
 import uuid
 import json
 import hashlib
-import traceback
-import requests
-from rapidfuzz import fuzz
+import logging
+from rapidfuzz import fuzz  # type: ignore
+from concurrent.futures import ThreadPoolExecutor
+
+executor = ThreadPoolExecutor(max_workers=4)
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
-def call_your_model_api(prompt):
-    headers = {
-        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-        "Content-Type": "application/json",
-        "HTTP-Referer": "http://localhost",
-        "X-Title": "Resume Optimizer",
-    }
+SESSION_BASE_PATH = "sessions"  # or wherever you're saving session files
 
-    if isinstance(prompt, list):
-        messages = prompt
-    elif isinstance(prompt, str):
-        messages = [{"role": "user", "content": prompt}]
-    else:
-        raise TypeError("Prompt must be a string or list of messages")
+def thread_match_resume_to_job(resume_text, job_text):
+    return executor.submit(match_resume_to_job, resume_text, job_text)
 
-    payload = {
-        "model": "openai/gpt-3.5-turbo",
-        "messages": messages,
-        "temperature": 0.2,
-        "max_tokens": 3500
-    }
-
-    try:
-        response = requests.post("https://openrouter.ai/api/v1/chat/completions", json=payload, headers=headers)
-        response.raise_for_status()
-        content = response.json()["choices"][0]["message"]["content"]
-        return {"content": content.strip()}
-    except Exception as e:
-        print(f"!!! ERROR: LLM call failed: {e}")
-        raise
+def get_session_path(session_id: str, filename: str) -> str:
+    return os.path.join(SESSION_BASE_PATH, session_id, filename)
 
 def generate_session_id():
     return str(uuid.uuid4())
@@ -82,3 +61,49 @@ def match_skills(skills_required, resume_text, scorer=fuzz.token_set_ratio, thre
         else:
             missing.append(skill)
     return matched, missing, scores, scores
+
+def match_resume_to_job(resume_text, job_text):
+    """
+    Placeholder for your model or LLM API call.
+    Replace this with a real call to OpenAI, Anthropic, or your custom model.
+    """
+    logging.info("Mock call_your_model_api invoked.")
+
+    # Example mock response
+    return {
+        "score": 85,
+        "highlights": ["Matched skill: Python", "Matched keyword: Project Manager"],
+        "recommendations": ["Add leadership experience", "Mention Agile certification"],
+        "output_text": "Mock tailored resume content based on the job ad."
+    }
+
+import re
+
+def extract_job_title_from_text(job_text):
+    """
+    Extracts a likely job title from the top portion of a job description using regex patterns.
+    Looks for lines near the top that contain 'Position', 'Title', or match job title patterns.
+    """
+    lines = job_text.strip().split('\n')
+    candidates = lines[:10]  # Just look at the top 10 lines
+
+    # Common patterns
+    patterns = [
+        r"(Position|Job\s*Title)[:\-–]\s*(.+)",     # Position: Project Manager
+        r"^\s*(.+?)\s*[-–]\s*(Full[- ]?Time|Part[- ]?Time|Contract)",  # Project Manager – Full Time
+        r"^\s*(Senior|Junior)?\s*(\w+\s?){1,4}(Manager|Engineer|Analyst|Consultant|Developer)",  # Role-like phrases
+    ]
+
+    for line in candidates:
+        for pattern in patterns:
+            match = re.search(pattern, line, flags=re.IGNORECASE)
+            if match:
+                title = match.group(2) if len(match.groups()) > 1 else match.group(0)
+                return title.strip()
+
+    # Fallback: return the first non-empty line if no match
+    for line in candidates:
+        if line.strip():
+            return line.strip()
+
+    return "Unknown Title"

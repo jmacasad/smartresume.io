@@ -1,4 +1,4 @@
-from backend.utils.shared import call_your_model_api  # Import your model API call function
+from backend.services.llm import call_your_model_api
 import re
 
 

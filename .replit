@@ -1,0 +1,19 @@
+run = "npm run dev"
+language = "nodejs"
+entrypoint = "src/main.jsx"
+modules = ["nodejs-20", "python-3.10"]
+
+[[ports]]
+localPort = 3000
+externalPort = 80
+
+[[ports]]
+localPort = 5173
+externalPort = 5173
+
+[[ports]]
+localPort = 8080
+externalPort = 8080
+
+[nix]
+packages = ["sqlite", "nano"]

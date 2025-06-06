@@ -1,0 +1,55 @@
+JAYSON MACASADIA
+Digital & Transformation Leader | AI & Data-Driven Innovation | Regulatory & Process Modernisation
+0432 241 891 | jmcasadia@gmail.com | www.linkedin.com/in/jayson-macasadia-00aa7132a/ | VIC 3012
+EXECUTIVE SUMMARY	
+Strategic and results-driven transformation leader with 15+ years' experience across insurance, energy, shared services, and consulting environments. Proven success in delivering enterprise-scale technology initiatives, digital and data platform transformations, and AI/ML adoption programs. Known for shaping and executing high-impact roadmaps, aligning cross-functional stakeholders, and accelerating business performance through innovation, analytics, and regulatory compliance. Adept in Agile delivery, data governance, CRM systems (Salesforce, Dynamics), and leading global teams.
+Areas of Expertise
+Digital & Data Strategy | AI & ML Tools Implementation | IT Transformation Roadmaps
+Agile Program Delivery | Stakeholder Engagement | Regulatory & Risk Alignment
+CRM & SaaS Platforms (Salesforce, Dynamics 365) | Business Process Reengineering
+Analytics & Reporting (Power BI, Python) | Change Management | Governance & Compliance
+STRATEGIC PROJECT HIGHLIGHTS
+Delivered a 3-year IT digital transformation roadmap at AIG Australia, replacing legacy systems, addressing cybersecurity vulnerabilities, and deploying machine learning models to improve risk prediction and pricing accuracy.
+Led Salesforce FSC and SaaS underwriting tool implementation across APAC, aligning CRM and customer lifecycle management.
+Program managed OneClaim migration and claims automation with OCR, reducing turnaround times and operational cost across APAC region.
+Defined the Data Governance & Quality Framework for AIG AU/NZ using Collibra, improving reporting consistency.
+Built AI-enhanced Power BI dashboards, using Python and SQL for executive-level risk, underwriting, and claims analytics.
+EDUCATION AND CERTIFICATION
+Bachelor of Information Technology | Kent University, 2025
+Cert IV in Security Networking | Danford Colleges, 2021
+Bachelor of Science in Marketing | Lyceum of Batangas University, 1998
+Lean Six Sigma Black Belt | ACS Xerox
+TECHNICAL SKILLS
+Languages & Frameworks: Python, SQL, PyTorch, TensorFlow, Transformers (HuggingFace)
+Data & Analytics: Power BI, Pandas, NumPy, Scikit-learn, Apache Spark
+MLOps: Model versioning, automated pipelines, CI/CD for ML, GitHub, Docker
+Cloud Platforms: Azure, AWS (IAM, EC2, S3), GCP (BigQuery, Vertex AI)
+Tools & DevOps: MS Project, SQL Studio, MS Visio, Jira, Confluence, Salesforce, Collibra
+PROFESSIONAL EXPERIENCE
+EnergyAustralia											Jan 2025 – Mar 2025 	
+Change Manager – External Regulatory Changes
+Led change management for CPS230-aligned regulatory Salesforce integrations.
+Directed regulatory compliance transformation projects, aligning internal operations with AFSL and energy market obligations.
+Led structured change adoption using ADKAR principles and stakeholder engagement workshops.
+AIG Australia Limited										Jan 2020 – Oct 2024 	
+Program Lead and Business Support
+Delivered AIG Australia’s 3-year IT digital transformation roadmap, driving the replacement of legacy tools and applications, mitigating system vulnerabilities, and deploying ML-based models to forecast underwriting risk and pricing.
+Partnered with KPMG, Cognizant, and Accenture to manage global delivery of data, identity access management (IAM), and compliance projects.
+Collaborated with function leads and developers to embed analytics-driven decision-making using Power BI and SQL Studio.
+Developed project documentation and visualisations with MS Visio; tracked programs using MS Project and Jira.
+Supported data governance maturity by defining policies, quality KPIs, and metadata architecture in Collibra.
+Strengthened regulatory alignment (AFSL, CPS230) and led compliance training via SharePoint, video, and internal comms.
+AIG HQ 												Jan 2011 – Dec 2018 	
+IT Business Partner/Analyst
+Led global CRM and policy migration projects using Salesforce and OneClaim.
+Integrated Salesforce solution to Customer Contact Centre process,
+Standardised migration methodologies, creating reusable playbooks, frameworks, and governance tools.
+Managed global transitions and capacity planning for processes across underwriting, claims, and IT support functions.
+Designed performance dashboards and analytics reports to drive SLA adherence and risk transparency.
+Served as a regional product owner for internal CRM and data tools, supporting global stakeholders.
+ACS Xerox											Jan 2010 – Nov 2011 	
+Process Improvement Leader
+Partnered with IT teams to design and implement back-end system improvements for call centre operations.
+Analysed system defects, implemented secure configuration updates, and supported infrastructure performance tuning.
+Co-led development of system and reporting documentation to support internal and client audit requirements.
+Referee details available on request
